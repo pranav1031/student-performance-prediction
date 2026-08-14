@@ -1,0 +1,2513 @@
+student_id,gender,study_hours,attendance_percent,previous_score,assignments_completed,sleep_hours,internet_hours,extracurricular_activity,study_method,parent_education,internet_access,final_score
+STU12082,Male,6.27,87.6,82.5,5,7.19,,,Online Course,Postgraduate,No,100.0
+STU10434,Female,1.84,90.7,82.3,7,8.33,2.19,None,Self Study,,No,100.0
+STU11725,,7.75,69.7,74.4,8,7.32,2.12,None,Coaching,College,Yes,100.0
+STU11252,Male,8.53,70.4,,2,5.75,2.59,Sports,Coaching,College,Yes,100.0
+STU10094,Male,5.34,86.6,68.0,4,7.5,1.26,Sports,Self Study,Postgraduate,Yes,100.0
+STU10903,Female,5.21,69.4,65.7,5,7.88,3.11,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU12055,Male,6.23,99.4,80.6,5,8.72,1.42,Sports,Self Study,School,Yes,100.0
+STU11230,Female,6.63,81.0,66.2,5,9.95,4.64,Clubs,Online Course,Postgraduate,Yes,100.0
+STU10768,Male,4.39,77.5,91.1,5,7.83,4.01,Sports,Self Study,College,Yes,100.0
+STU10600,Male,1.95,85.1,,10,7.43,2.59,Music,Online Course,College,Yes,100.0
+STU11863,Female,8.33,73.6,89.7,9,4.88,4.45,Music,Self Study,College,Yes,100.0
+STU11607,Female,6.52,49.0,66.0,5,7.17,2.26,Volunteering,Online Course,Postgraduate,Yes,100.0
+STU10355,Female,7.64,68.1,67.9,2,6.66,0.53,,Self Study,College,Yes,100.0
+STU10369,Female,5.9,78.8,68.1,10,6.68,1.32,Music,Self Study,Postgraduate,Yes,100.0
+STU11946,Female,1.89,65.1,84.8,5,7.85,2.02,Clubs,Online Course,School,Yes,93.9
+STU10671,Female,7.07,90.8,60.2,4,6.13,,None,Online Course,School,Yes,100.0
+STU10974,Male,6.73,84.6,67.3,6,8.69,3.58,Clubs,Self Study,College,Yes,100.0
+STU12363,Male,4.8,86.0,61.5,6,6.51,3.56,Sports,Self Study,College,Yes,100.0
+STU11939,Male,4.15,,65.3,3,,3.03,Sports,Coaching,School,Yes,84.9
+STU11166,Male,3.78,59.0,75.7,5,7.09,3.01,None,Self Study,College,Yes,96.7
+STU11195,Male,9.37,93.4,61.6,7,5.87,3.67,None,Online Course,School,Yes,100.0
+STU10415,Female,4.93,82.3,87.1,10,4.85,2.02,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10868,Male,4.69,74.6,86.5,5,6.9,6.0,Sports,Coaching,College,Yes,100.0
+STU11300,Female,3.57,77.4,60.2,9,5.09,3.96,Clubs,Online Course,School,No,93.2
+STU11899,Male,4.6,65.8,53.5,7,8.16,3.76,None,Coaching,Postgraduate,Yes,99.6
+STU11086,Male,4.68,100.0,48.8,7,7.14,2.29,Volunteering,Coaching,College,Yes,100.0
+STU12043,Male,9.33,55.8,37.9,7,7.77,3.99,Sports,Online Course,School,Yes,100.0
+STU11451,Male,4.85,69.3,79.2,5,7.5,1.44,Music,Online Course,School,Yes,100.0
+STU10169,Female,5.19,77.8,82.2,4,8.07,4.33,Sports,Online Course,School,Yes,100.0
+STU11613,Other,5.41,70.3,67.1,2,8.02,1.38,Sports,Group Study,School,Yes,100.0
+STU12354,Male,5.9,56.9,68.8,7,7.9,5.96,Sports,Online Course,Postgraduate,Yes,100.0
+STU10260,Male,2.75,88.5,71.3,6,4.31,4.12,Music,Self Study,School,Yes,95.5
+STU10176,Female,5.85,82.4,65.4,8,7.68,2.91,Volunteering,Online Course,College,Yes,100.0
+STU12378,Female,4.1,84.9,41.8,4,7.99,3.16,Sports,Self Study,School,Yes,95.0
+STU12191,Male,6.95,91.3,60.6,7,5.93,7.87,Clubs,Online Course,College,Yes,100.0
+STU11304,Male,7.01,81.6,52.9,5,7.72,,Music,Group Study,School,,100.0
+STU10212,Male,2.85,86.5,78.4,3,5.59,4.93,Clubs,Group Study,College,Yes,100.0
+STU12370,Female,7.08,79.1,77.1,9,8.39,4.29,Clubs,Online Course,College,Yes,100.0
+STU11489,,6.16,92.4,57.2,3,7.02,1.88,Clubs,Coaching,Postgraduate,Yes,100.0
+STU11579,Female,1.07,73.3,45.6,6,6.37,2.44,Sports,Self Study,College,Yes,98.3
+STU10411,Female,2.54,72.2,78.9,5,,4.79,None,Group Study,College,Yes,100.0
+STU10618,Male,5.98,76.2,66.6,5,6.81,2.73,None,Online Course,,Yes,100.0
+STU11993,Male,5.96,69.2,64.1,4,7.95,0.79,Clubs,Online Course,College,Yes,98.0
+STU10680,Female,5.17,82.6,79.9,5,5.12,0.27,Music,Self Study,College,Yes,100.0
+STU12464,Male,3.12,72.1,56.8,9,6.28,2.69,Sports,Online Course,College,Yes,100.0
+STU11845,Female,2.88,71.3,63.4,9,6.55,2.41,None,Online Course,School,Yes,96.1
+STU10773,Male,6.01,75.9,67.2,5,4.58,2.94,None,Online Course,School,Yes,98.3
+STU11091,Male,4.31,77.4,71.1,7,6.67,1.77,Volunteering,Online Course,College,Yes,100.0
+STU12019,Male,6.66,74.5,56.7,3,5.69,3.91,None,Self Study,College,Yes,100.0
+STU11084,Female,5.62,77.3,52.6,10,5.2,4.18,Sports,Self Study,School,Yes,100.0
+STU11381,Male,7.95,72.1,62.5,3,6.54,1.64,Volunteering,Self Study,College,Yes,100.0
+STU10057,Female,4.95,52.8,64.2,8,6.61,3.18,None,Online Course,School,Yes,92.8
+STU11101,Female,7.76,89.6,63.5,4,5.29,3.95,None,Self Study,School,,100.0
+STU12052,Female,3.05,,92.7,9,6.75,4.92,Clubs,Self Study,School,Yes,100.0
+STU10322,Female,5.12,81.6,46.6,4,6.12,4.82,Clubs,Coaching,College,Yes,100.0
+STU12038,Female,7.49,81.6,56.5,5,6.42,1.44,Sports,Self Study,Postgraduate,Yes,100.0
+STU10783,Female,9.1,71.3,51.4,6,7.37,3.55,Music,Coaching,College,Yes,100.0
+STU11533,Female,7.46,85.0,84.1,4,5.32,3.94,Sports,Self Study,Postgraduate,Yes,100.0
+STU11117,Male,7.77,92.3,49.6,5,6.16,,None,Coaching,Postgraduate,Yes,100.0
+STU11940,Male,3.9,66.5,66.7,3,6.46,3.76,Music,Self Study,College,Yes,84.1
+STU11227,Female,6.96,80.7,67.6,10,3.67,,None,Self Study,College,Yes,100.0
+STU10603,Male,8.05,87.4,76.9,9,6.34,,Sports,Self Study,College,Yes,100.0
+STU11827,male,7.22,90.5,40.3,9,6.61,2.44,None,Self Study,School,Yes,96.1
+STU12329,Female,5.84,140.7645197960965,53.5,3,7.16,3.55,Sports,Online Course,School,Yes,100.0
+STU11367,Male,3.25,83.0,92.0,4,7.93,3.21,Clubs,Group Study,Postgraduate,Yes,98.1
+STU11125,Female,5.13,77.2,,2,6.32,1.21,Sports,Self Study,Postgraduate,Yes,99.5
+STU11936,Female,8.71,88.2,61.9,5,4.07,3.87,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU10566,Female,6.98,78.0,75.1,2,5.04,2.63,Clubs,Self Study,College,Yes,100.0
+STU12021,Female,5.53,65.3,69.7,6,5.2,3.26,Clubs,Online Course,College,Yes,95.4
+STU12449,Female,7.04,77.7,83.9,4,7.06,2.58,None,Online Course,Postgraduate,Yes,100.0
+STU10283,Other,,84.0,54.1,5,8.87,4.05,Sports,Online Course,Postgraduate,Yes,100.0
+STU11642,Female,6.51,100.0,64.6,4,6.98,0.8,None,Self Study,College,Yes,100.0
+STU10325,Male,9.14,78.1,68.3,2,5.87,2.94,Music,Self Study,Postgraduate,Yes,100.0
+STU10451,Female,5.24,64.0,65.2,8,6.56,1.97,Volunteering,Self Study,School,Yes,100.0
+STU10930,Other,5.65,87.5,70.4,6,8.02,2.18,Volunteering,Online Course,College,Yes,100.0
+STU11994,Female,7.43,66.4,68.5,9,8.39,6.15,Sports,Online Course,School,Yes,100.0
+STU10247,Female,3.31,90.6,100.0,9,5.66,4.42,Volunteering,Self Study,School,Yes,100.0
+STU11176,Female,2.3,100.0,71.4,4,,4.59,,Self Study,College,Yes,87.6
+STU10519,Female,7.3,82.5,79.4,8,6.72,0.72,None,Self Study,School,Yes,100.0
+STU11996,Female,6.28,61.5,83.2,4,5.84,2.88,Clubs,Coaching,Postgraduate,Yes,100.0
+STU12114,Female,5.9,70.0,70.6,8,6.72,3.11,Volunteering,Group Study,School,Yes,100.0
+STU11214,male,4.07,79.0,70.9,2,6.03,4.37,Music,Online Course,College,Yes,96.0
+STU11378,Male,5.85,81.8,77.6,7,4.71,3.82,Volunteering,Self Study,College,Yes,100.0
+STU11762,Female,3.94,91.4,62.6,6,6.51,2.63,Sports,Online Course,College,Yes,100.0
+STU11289,Female,9.51,99.4,69.0,2,7.23,3.1,None,Coaching,School,Yes,100.0
+STU12004,Male,6.0,87.6,65.1,2,3.5,4.19,None,Coaching,College,Yes,95.2
+STU11777,Female,2.81,87.2,,3,7.8,5.09,Clubs,Online Course,College,Yes,97.3
+STU12239,Male,3.69,87.8,93.7,9,6.71,2.46,Sports,Self Study,School,Yes,100.0
+STU11273,Male,4.75,83.0,75.5,9,7.21,5.12,Music,Self Study,School,Yes,100.0
+STU11058,Male,6.32,82.9,53.3,2,7.19,4.18,Sports,Group Study,College,Yes,100.0
+STU10809,Male,4.86,65.9,60.1,8,6.86,3.13,None,Self Study,College,Yes,100.0
+STU10368,Female,3.86,96.4,,2,5.36,1.52,Sports,Self Study,College,Yes,100.0
+STU10891,Female,3.83,65.1,79.6,2,5.34,4.8,Clubs,Self Study,College,Yes,85.1
+STU10568,Female,4.19,83.2,51.0,7,0.9530799178582252,4.9,Clubs,Self Study,School,Yes,100.0
+STU11369,Male,7.99,81.8,54.8,5,8.27,3.18,Clubs,Online Course,School,Yes,100.0
+STU12252,Male,5.33,81.0,61.4,7,7.03,2.43,Clubs,Group Study,Postgraduate,Yes,100.0
+STU12020,Male,6.45,57.1,69.3,3,5.39,2.67,None,Self Study,College,Yes,93.0
+STU11492,Female,5.45,65.6,62.1,9,7.19,2.63,Music,Group Study,College,Yes,100.0
+STU11473,Female,5.47,80.8,70.3,7,5.63,5.34,Volunteering,Group Study,School,Yes,100.0
+STU10179,,5.26,56.7,43.6,6,8.2,0.52,None,Online Course,College,No,94.0
+STU10802,Female,3.33,100.0,48.5,3,,2.55,,Self Study,Postgraduate,Yes,85.7
+STU11526,Male,7.66,66.4,83.4,9,8.21,2.91,None,Self Study,School,No,100.0
+STU11625,Male,5.88,87.0,58.1,5,4.93,3.72,None,Self Study,School,Yes,98.6
+STU10728,Male,7.03,77.2,60.4,5,7.81,0.82,Sports,Self Study,College,Yes,100.0
+STU10465,Female,3.27,78.3,54.3,4,5.44,5.53,Music,Self Study,College,Yes,83.2
+STU10135,Female,2.56,91.7,60.4,10,6.54,1.56,Clubs,Self Study,College,Yes,100.0
+STU10840,Male,4.83,58.5,48.0,4,5.55,2.5,Clubs,Online Course,School,Yes,86.3
+STU11941,Other,2.95,82.0,56.4,7,9.21,3.32,Sports,Online Course,College,Yes,100.0
+STU12332,Female,2.39,54.6,100.0,3,7.52,3.07,Sports,Online Course,,Yes,95.1
+STU10706,Male,3.55,73.9,71.2,9,5.83,2.53,None,Self Study,College,Yes,98.2
+STU10234,Female,7.91,,96.6,6,,5.58,Sports,Online Course,School,Yes,100.0
+STU11407,Female,6.01,58.9,61.9,2,4.79,4.19,None,Coaching,School,Yes,87.1
+STU10880,Female,5.44,74.7,84.2,5,8.18,3.52,Music,Self Study,Postgraduate,,100.0
+STU12109,,3.9,64.3,76.2,8,6.39,1.35,,Coaching,College,Yes,93.1
+STU10569,Male,6.6,100.0,66.3,3,7.0,5.8,Sports,Self Study,College,Yes,100.0
+STU11476,Female,5.17,81.6,55.8,5,4.1,3.94,Sports,Coaching,College,No,89.8
+STU11042,Male,7.45,82.2,67.1,5,4.74,3.68,Clubs,Self Study,School,Yes,100.0
+STU10863,,5.38,80.6,53.5,4,6.2,3.88,None,Self Study,College,Yes,83.2
+STU10650,Female,4.72,80.9,68.6,8,6.79,0.94,None,Online Course,College,Yes,100.0
+STU10479,Female,5.51,70.7,80.4,4,5.87,2.0,Clubs,Online Course,College,No,98.0
+STU11092,Female,5.52,94.2,49.9,10,5.71,5.66,Clubs,Self Study,Postgraduate,Yes,100.0
+STU11905,Female,6.74,77.0,56.3,3,6.72,4.75,Clubs,Coaching,College,Yes,100.0
+STU10633,Male,4.69,78.6,29.2,5,6.57,,None,Self Study,College,Yes,95.6
+STU10044,Female,5.96,87.4,42.7,5,8.15,5.11,Clubs,Coaching,School,Yes,92.7
+STU11491,Male,4.27,81.4,82.1,6,7.55,5.3,Sports,Self Study,College,No,100.0
+STU10749,Male,4.76,88.5,57.7,3,5.44,3.24,None,Group Study,College,Yes,93.0
+STU11709,Male,7.55,91.5,79.2,7,6.03,4.53,Clubs,,Postgraduate,No,100.0
+STU10045,Female,5.73,77.5,38.2,5,6.76,2.28,None,Self Study,School,,89.0
+STU11136,Male,8.08,62.5,67.7,8,7.62,4.66,Volunteering,Self Study,College,Yes,100.0
+STU10743,,3.46,81.1,76.2,10,7.78,3.92,,Coaching,College,Yes,100.0
+STU10171,Male,4.19,86.3,78.2,9,6.87,1.83,None,Coaching,College,Yes,100.0
+STU10787,Male,5.59,61.7,,7,6.45,1.45,Sports,Coaching,College,No,84.8
+STU11224,Male,7.07,88.9,78.6,2,8.25,2.04,None,Coaching,,Yes,100.0
+STU11809,Female,5.58,82.0,78.9,7,,0.4,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU11889,Male,2.38,58.5,67.5,4,5.51,5.33,Clubs,Self Study,School,Yes,77.2
+STU11318,Male,6.25,80.2,60.5,6,5.04,2.96,Sports,,College,No,97.8
+STU10219,Male,5.19,90.5,80.4,2,4.33,21.883506280378555,Sports,,College,,100.0
+STU10701,Female,7.73,71.1,64.1,2,5.61,2.74,Sports,Self Study,College,No,100.0
+STU11334,Male,6.04,68.7,43.0,3,6.04,5.04,None,,Postgraduate,Yes,89.9
+STU11711,Female,4.34,78.4,84.7,4,5.85,5.08,None,Group Study,School,Yes,100.0
+STU10818,Female,5.99,70.0,64.2,9,8.18,3.4,None,Online Course,School,Yes,100.0
+STU10174,Male,3.05,83.8,54.6,10,5.17,5.44,None,Self Study,Postgraduate,Yes,89.0
+STU12282,Male,5.53,92.7,61.7,10,7.38,4.81,None,,Postgraduate,Yes,100.0
+STU11248,Female,1.88,88.8,61.1,10,6.09,3.18,Music,Self Study,Postgraduate,Yes,92.7
+STU11925,Female,5.39,66.0,67.6,2,6.55,2.18,None,Self Study,College,Yes,90.3
+STU11056,Male,8.44,75.0,77.0,4,6.22,6.61,None,Group Study,College,Yes,95.1
+STU12414,Female,2.62,64.9,80.9,4,6.81,3.83,Sports,,College,Yes,100.0
+STU12259,Male,7.67,66.2,87.5,6,9.25,1.88,None,Online Course,Postgraduate,Yes,100.0
+STU10510,Female,6.43,86.9,74.0,5,7.86,5.46,Volunteering,Group Study,Postgraduate,Yes,100.0
+STU10421,Male,5.68,69.3,81.2,3,7.1,0.94,Music,Self Study,School,Yes,100.0
+STU11287,Female,2.85,,85.3,4,6.02,3.13,Sports,Self Study,Postgraduate,Yes,97.1
+STU11388,Male,3.33,73.0,46.9,6,6.14,3.36,Volunteering,Self Study,Postgraduate,Yes,88.1
+STU12156,Male,6.7,77.0,79.9,5,5.9,24.120674909765896,Music,Coaching,School,Yes,100.0
+STU10112,Female,5.98,87.9,64.7,9,7.63,4.0,Music,Self Study,School,Yes,100.0
+STU10213,Male,5.56,77.1,,9,3.97,4.35,Volunteering,Self Study,School,Yes,100.0
+STU11242,Female,3.5,68.9,67.5,8,8.24,4.72,,Self Study,College,Yes,97.0
+STU11823,,7.94,60.1,100.0,7,5.86,0.51,Clubs,Coaching,School,Yes,100.0
+STU10255,Female,5.01,90.9,79.0,9,4.42,4.17,None,Coaching,School,Yes,100.0
+STU11453,Male,5.29,77.2,63.5,7,6.4,5.93,,Self Study,School,Yes,100.0
+STU10431,Male,,69.0,46.9,9,6.25,3.82,Clubs,Self Study,Postgraduate,Yes,98.2
+STU11573,Female,6.18,76.1,88.8,9,7.79,6.16,Clubs,Self Study,Postgraduate,Yes,100.0
+STU12387,Female,2.28,80.7,77.7,3,6.18,1.52,None,Self Study,College,Yes,100.0
+STU12041,Female,7.35,90.7,69.8,7,7.8,4.02,Sports,Self Study,College,Yes,100.0
+STU11563, FEMALE ,,,74.5,8,7.67,2.69,Clubs,Self Study,College,Yes,100.0
+STU12142,Female,4.84,70.6,79.8,3,4.76,0.0,,Group Study,College,Yes,98.5
+STU10409,Female,1.51,63.6,52.8,6,6.54,3.27,Volunteering,Coaching,School,Yes,91.2
+STU11085,Male,5.72,81.7,53.0,5,4.97,5.7,None,Self Study,College,No,86.2
+STU11449,Male,4.89,77.3,61.7,3,6.75,5.35,None,Self Study,School,Yes,91.3
+STU11303,Male,,75.4,64.7,2,7.38,6.03,Clubs,Coaching,School,Yes,100.0
+STU11310,Female,4.8,82.8,47.7,7,6.16,3.83,Clubs,Group Study,College,No,98.3
+STU10950,Male,0.5,77.5,100.0,6,7.87,1.31,None,Online Course,College,Yes,100.0
+STU12067,Male,7.43,41.1,81.1,6,9.23,6.88,None,Self Study,,Yes,100.0
+STU12229,Male,9.87,81.9,54.9,10,7.05,2.52,Sports,Online Course,College,Yes,100.0
+STU11729,Female,5.65,70.0,93.6,5,8.11,5.54,Clubs,Online Course,College,Yes,100.0
+STU11849,Female,4.73,82.9,25.1,3,8.53,1.61,Sports,Coaching,College,Yes,95.9
+STU10582,Male,3.19,64.7,,10,5.43,3.51,Music,Coaching,School,No,100.0
+STU12477,Female,1.44,79.8,53.7,7,7.07,2.6,Clubs,Self Study,College,Yes,100.0
+STU10240,Female,4.44,94.7,65.4,9,6.65,0.0,Volunteering,,College,Yes,100.0
+STU12211,Male,7.08,83.1,63.8,3,7.59,4.15,Volunteering,Self Study,Postgraduate,Yes,99.8
+STU10938,Male,5.32,79.2,78.7,10,7.33,2.38,None,Self Study,College,Yes,100.0
+STU12299,Female,4.49,72.6,68.7,7,8.71,3.36,Volunteering,Online Course,School,No,100.0
+STU10499,Male,1.52,87.8,78.1,3,5.54,2.93,None,Self Study,School,Yes,95.3
+STU11379,Female,6.08,62.4,72.5,3,7.19,4.0,Music,Online Course,School,Yes,95.7
+STU10441,Female,5.12,97.7,67.9,10,,5.43,Volunteering,Self Study,School,Yes,100.0
+STU11178,Female,5.8,85.3,68.5,5,5.26,3.32,Clubs,Coaching,Postgraduate,Yes,100.0
+STU10508,Male,6.37,90.7,50.8,3,7.01,7.95,,Self Study,Postgraduate,Yes,100.0
+STU10862,Female,2.62,50.9,,5,7.61,0.61,Sports,Self Study,Postgraduate,Yes,100.0
+STU10189,Male,2.76,93.4,69.5,3,7.68,0.0,Sports,Coaching,School,Yes,100.0
+STU11502,Male,4.25,88.7,88.3,9,7.32,2.45,Music,Online Course,College,Yes,100.0
+STU11371,Male,2.47,78.2,76.7,4,10.0,3.11,Music,Self Study,Postgraduate,Yes,100.0
+STU10195,Female,3.29,94.8,,4,8.07,6.25,Volunteering,Coaching,,Yes,100.0
+STU12455,Male,4.68,91.5,63.4,9,7.4,0.45,Music,Coaching,College,No,100.0
+STU11763,Female,4.24,72.4,63.8,9,7.51,4.09,Music,Self Study,College,Yes,100.0
+STU11030,Female,7.59,76.7,37.2,10,9.09,4.13,None,Online Course,College,Yes,100.0
+STU11933,Female,3.77,84.3,69.6,5,7.29,2.23,Music,Group Study,Postgraduate,No,100.0
+STU10197,Female,6.79,83.9,69.0,9,5.6,3.98,Sports,Coaching,College,Yes,100.0
+STU11256,Male,4.24,72.0,81.0,3,7.0,4.06,Clubs,Coaching,Postgraduate,Yes,100.0
+STU10097,Male,2.85,92.9,83.1,6,7.91,3.86,Clubs,Self Study,College,Yes,100.0
+STU12111,Female,,79.2,54.3,8,7.51,4.64,None,Online Course,Postgraduate,Yes,100.0
+STU11962,Male,4.22,77.4,92.1,8,6.27,5.12,Volunteering,Group Study,School,Yes,100.0
+STU10436,Male,4.29,45.1,58.6,10,6.65,7.22,Volunteering,Group Study,School,Yes,94.9
+STU12317,Female,4.92,100.0,51.0,2,6.35,4.02,None,Self Study,School,Yes,87.8
+STU12405,Female,3.77,100.0,100.0,6,6.5,3.52,Clubs,Group Study,School,Yes,100.0
+STU10611,Female,3.43,80.8,80.9,4,6.51,1.04,None,Online Course,School,Yes,100.0
+STU12084,Male,5.82,93.5,80.3,3,6.33,3.47,Clubs,Coaching,Postgraduate,Yes,100.0
+STU10252,Male,6.18,73.3,88.0,8,6.28,8.48,Clubs,Online Course,College,Yes,100.0
+STU11953,Other,1.95,61.9,81.3,5,6.55,2.09,None,Self Study,School,Yes,80.2
+STU12429,Male,5.47,95.9,65.7,5,5.56,1.63,Sports,Self Study,Postgraduate,Yes,100.0
+STU11846,Male,1.42,82.3,76.9,3,,5.81,Music,Self Study,Postgraduate,Yes,100.0
+STU12373,Female,5.27,61.8,48.7,2,8.1,2.13,Volunteering,Online Course,,Yes,84.3
+STU11593,Male,,68.8,79.0,9,6.96,0.69,None,Self Study,College,Yes,100.0
+STU12423,Male,8.6,80.2,75.7,10,5.91,5.98,None,Self Study,School,No,100.0
+STU11605,Male,4.88,73.8,78.1,3,6.69,2.15,Clubs,Self Study,Postgraduate,Yes,96.2
+STU10597,Female,4.46,93.9,65.4,8,9.6,3.0,None,Group Study,School,Yes,100.0
+STU12438,Female,6.05,,69.6,4,6.71,4.22,Volunteering,Online Course,College,Yes,100.0
+STU10606,Male,6.58,78.5,50.3,9,6.43,3.32,,Self Study,Postgraduate,Yes,100.0
+STU12194,Female,,69.1,54.4,4,7.33,1.14,None,Self Study,College,Yes,100.0
+STU12233,Male,2.93,100.0,,10,3.84,6.15,Music,Group Study,School,Yes,100.0
+STU11360,Male,4.99,82.7,,3,6.92,7.32,Music,Self Study,College,No,89.0
+STU11390,Male,3.67,69.3,73.9,7,6.41,2.25,None,Group Study,Postgraduate,Yes,100.0
+STU11088,Other,2.41,80.4,78.0,4,7.53,3.53,None,Self Study,School,Yes,93.7
+STU11865,Male,6.08,51.8,64.0,9,8.54,5.38,Clubs,Self Study,Postgraduate,Yes,99.4
+STU10297,Female,6.09,84.7,57.6,5,8.38,5.45,Volunteering,Online Course,School,Yes,100.0
+STU10211,Male,7.33,77.4,73.3,9,8.62,4.92,Clubs,Group Study,School,Yes,100.0
+STU11194,Male,7.0,62.1,64.9,6,,4.29,None,Self Study,School,Yes,100.0
+STU10965,Female,5.43,83.9,94.7,3,7.74,2.02,Clubs,Self Study,School,Yes,100.0
+STU11171,Female,3.2,83.9,86.6,4,8.83,2.79,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10522,Female,3.72,96.0,77.0,5,10.0,1.49,Sports,Self Study,School,Yes,100.0
+STU10765,Male,6.18,72.1,63.1,4,4.81,4.92,Clubs,Coaching,College,No,100.0
+STU10354,Female,7.13,80.9,56.4,6,6.67,4.29,None,Online Course,School,Yes,100.0
+STU10841,Male,9.31,73.8,59.8,10,7.76,2.47,Sports,Online Course,College,Yes,100.0
+STU11951,Male,5.61,68.8,91.9,10,8.16,,Sports,Coaching,Postgraduate,Yes,100.0
+STU10694,Male,1.0,63.8,88.1,4,6.61,1.88,Volunteering,Online Course,College,Yes,97.9
+STU10529,Male,6.02,67.9,64.8,8,6.92,4.29,Sports,Online Course,College,Yes,100.0
+STU10388,Female,6.55,79.7,64.3,4,5.95,3.69,Music,Self Study,Postgraduate,Yes,100.0
+STU10622,Male,5.56,80.2,70.7,6,,2.17,Volunteering,Online Course,College,Yes,100.0
+STU12235,Female,3.65,73.3,73.3,5,5.36,6.35,Sports,Group Study,College,Yes,95.8
+STU11437,Other,4.62,92.4,80.6,10,7.99,2.98,None,Coaching,College,Yes,100.0
+STU10333,Other,4.1,89.6,72.3,10,8.07,5.8,Clubs,Self Study,College,Yes,100.0
+STU11868,Male,6.86,75.9,70.1,10,,4.47,Sports,,College,Yes,100.0
+STU11312,Male,7.11,74.3,85.1,8,7.11,3.44,Volunteering,Self Study,School,Yes,100.0
+STU11338,Male,6.82,76.3,48.9,9,7.83,2.97,Volunteering,Online Course,School,Yes,100.0
+STU11356,Female,6.43,55.5,65.4,6,7.16,5.98,Sports,Coaching,Postgraduate,Yes,100.0
+STU10621,Female,4.62,82.0,100.0,6,6.67,3.99,Clubs,Self Study,Postgraduate,Yes,100.0
+STU12435,Female,5.01,73.4,54.3,5,5.9,6.84,None,Online Course,,Yes,96.8
+STU10531,Male,4.78,76.8,57.9,4,5.07,3.18,Volunteering,Group Study,Postgraduate,No,76.0
+STU11106,Female,6.9,87.7,70.4,5,6.77,4.49,None,Self Study,School,Yes,100.0
+STU11609,Female,5.06,95.6,76.7,6,6.15,2.53,None,Online Course,College,Yes,100.0
+STU11615,Female,4.14,68.3,91.6,10,8.91,3.82,None,Self Study,College,Yes,100.0
+STU11057,Female,5.8,75.5,60.5,2,9.26,0.0,Volunteering,Self Study,School,Yes,100.0
+STU11001,Other,5.38,75.1,71.2,8,5.48,1.82,Volunteering,Online Course,School,Yes,100.0
+STU10889,Male,0.5,59.4,80.6,10,7.74,0.42,Sports,Self Study,Postgraduate,Yes,100.0
+STU10319,Male,7.48,87.0,41.0,3,8.02,4.47,Sports,Coaching,College,Yes,100.0
+STU10299,Male,1.99,84.9,76.7,4,7.63,5.76,Sports,Online Course,College,No,93.2
+STU12379,Male,5.59,84.3,49.1,10,7.75,5.18,Sports,Group Study,College,Yes,100.0
+STU10446,Female,2.55,80.7,58.1,5,6.39,6.03,Clubs,Online Course,College,Yes,92.4
+STU11903,Male,6.71,69.8,57.7,2,7.57,3.59,Volunteering,Coaching,School,Yes,100.0
+STU10238,Male,5.17,75.2,72.7,8,8.21,1.49,None,Self Study,College,Yes,100.0
+STU10110,Male,2.05,62.0,76.5,6,6.5,5.66,Clubs,Group Study,College,Yes,91.7
+STU11464,Male,6.42,,78.6,5,10.0,3.32,Music,Online Course,College,Yes,100.0
+STU10820,Male,3.22,87.3,72.8,2,5.02,4.39,,Group Study,School,Yes,97.0
+STU10253,Female,8.96,58.6,91.9,7,7.55,5.14,Sports,Coaching,College,Yes,100.0
+STU12085,Male,7.54,74.5,80.2,10,6.83,1.39,None,Self Study,School,Yes,100.0
+STU11894,Male,1.19,66.9,81.2,7,6.85,4.24,Sports,Group Study,School,Yes,95.8
+STU10922,Female,3.77,76.6,91.9,3,7.66,2.77,Volunteering,Self Study,College,Yes,100.0
+STU12149,Female,,80.0,81.6,2,6.38,4.93,None,Online Course,School,Yes,98.4
+STU10803,Female,6.19,89.3,77.8,7,7.28,5.12,None,Self Study,Postgraduate,Yes,100.0
+STU11152,Male,7.43,81.1,56.8,9,8.81,3.08,Music,Group Study,School,Yes,100.0
+STU11610,Male,4.73,78.4,59.2,10,7.49,3.51,Clubs,Online Course,College,Yes,100.0
+STU11128,Female,5.3,66.9,74.9,5,6.58,3.83,None,Online Course,College,Yes,100.0
+STU10756,Female,7.77,,71.3,10,7.16,3.68,Clubs,Online Course,School,Yes,100.0
+STU12377,Female,6.51,89.2,53.1,9,7.7,3.33,Volunteering,,School,Yes,100.0
+STU11971,Male,5.03,81.6,70.9,7,7.9,4.56,Clubs,Group Study,Postgraduate,Yes,100.0
+STU11232,Male,3.25,86.4,80.1,3,4.88,1.89,Clubs,Self Study,College,Yes,96.3
+STU12359,Male,7.92,71.7,49.2,5,6.22,2.44,None,Self Study,Postgraduate,Yes,98.2
+STU11980,Male,6.48,82.7,45.8,8,6.19,7.11,Volunteering,Online Course,College,No,100.0
+STU10994,Male,8.13,80.9,63.6,2,6.01,5.42,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10782,Female,5.34,87.2,46.5,4,8.33,5.57,None,Self Study,Postgraduate,Yes,88.3
+STU10882,Male,7.4,81.9,62.9,8,6.8,7.24,Music,Coaching,School,Yes,100.0
+STU12499,Female,4.4,78.6,60.8,10,7.55,6.85,None,Self Study,College,Yes,100.0
+STU11942,Male,5.69,52.1,39.7,6,8.32,6.33,None,Online Course,College,Yes,82.5
+STU11561,Female,4.72,80.9,67.9,2,6.63,3.79,Sports,Self Study,College,Yes,100.0
+STU12285,Female,6.42,78.8,46.1,8,5.97,2.57,None,Self Study,College,Yes,100.0
+STU10101,Male,4.74,71.5,55.7,2,4.86,3.65,Music,Group Study,College,No,83.8
+STU12196,Female,1.79,82.3,85.6,8,5.82,5.07,Music,Coaching,School,Yes,100.0
+STU10262,Female,4.97,58.6,80.6,7,5.68,4.4,Clubs,Online Course,College,Yes,100.0
+STU12249,Female,5.39,65.4,80.7,5,8.44,2.89,Volunteering,Coaching,School,No,100.0
+STU10799,Male,7.55,72.7,57.1,10,6.91,,Sports,Online Course,School,Yes,100.0
+STU11981,Male,5.84,80.6,90.5,4,7.66,0.58,Sports,Online Course,College,Yes,100.0
+STU10180,Female,6.07,83.4,58.7,3,4.61,1.59,None,Online Course,College,YES,100.0
+STU11906,Female,3.18,93.2,78.6,2,10.0,3.65,Music,,College,Yes,100.0
+STU11963,Male,4.96,91.0,64.9,4,8.5,,Music,Self Study,College,Yes,100.0
+STU11745,Male,6.84,80.7,75.4,10,8.39,3.43,Clubs,Online Course,Postgraduate,Yes,100.0
+STU11633,Female,5.79,82.2,61.6,9,4.73,2.13,Clubs,Self Study,Postgraduate,Yes,100.0
+STU12478,Female,5.92,,70.5,6,7.37,7.29,Sports,Coaching,School,Yes,100.0
+STU11069,Female,8.39,83.9,51.9,10,7.7,2.21,Sports,Online Course,School,Yes,100.0
+STU10509,Female,4.38,74.8,70.4,8,7.98,4.84,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU10142,Female,3.52,76.9,27.8,2,6.38,1.36,Clubs,Self Study,School,Yes,82.3
+STU10444,Male,8.14,74.5,67.3,6,6.83,4.97,Music,Coaching,Postgraduate,Yes,100.0
+STU12105,Female,23.10697457601756,76.6,65.4,9,5.89,5.18,None,Coaching,College,Yes,100.0
+STU11107,Female,2.79,58.2,64.3,10,6.48,4.87,Music,Coaching,School,Yes,86.0
+STU11860,Female,2.71,,74.7,7,,4.96,None,Group Study,College,Yes,100.0
+STU10583,Female,4.91,80.8,89.0,5,7.09,8.09,Clubs,Self Study,School,Yes,94.6
+STU11514,Male,1.51,98.7,66.1,5,,5.81,Sports,Coaching,,Yes,100.0
+STU10458,Female,3.81,79.4,85.8,10,5.93,2.45,None,Online Course,Postgraduate,Yes,100.0
+STU10999,Male,5.76,75.2,70.8,10,6.81,3.25,None,Coaching,Postgraduate,No,100.0
+STU10730,Female,3.26,60.6,49.3,8,7.72,2.67,Clubs,Coaching,,Yes,97.2
+STU11805,Female,5.68,78.1,77.4,10,9.07,4.68,None,Self Study,School,Yes,100.0
+STU10248,Female,9.17,72.4,82.8,3,8.97,3.07,Sports,Online Course,College,Yes,100.0
+STU12264,Female,5.11,97.3,62.1,8,9.11,3.45,None,Self Study,College,Yes,100.0
+STU11322,Male,4.38,92.8,64.5,3,7.62,2.49,Clubs,Coaching,School,Yes,100.0
+STU11508,Male,5.41,83.6,69.5,8,6.02,0.69,Sports,Group Study,College,Yes,100.0
+STU11326,Female,7.43,74.9,100.0,2,6.99,7.15,None,Online Course,Postgraduate,Yes,100.0
+STU11583,Female,6.6,78.9,70.3,2,6.81,2.93,None,Self Study,College,Yes,95.9
+STU12413,Male,2.09,82.3,61.4,3,6.56,2.27,Volunteering,Self Study,School,Yes,85.1
+STU10030,Male,6.36,71.5,41.6,6,8.46,2.93,Sports,Online Course,Postgraduate,Yes,100.0
+STU10487,Male,3.94,80.5,94.7,9,5.31,4.4,None,Online Course,College,Yes,100.0
+STU11733,Male,,66.5,63.4,7,7.55,2.3,None,Self Study,College,Yes,100.0
+STU11858,Female,7.59,73.6,91.1,7,7.81,0.55,None,,School,Yes,100.0
+STU10573,Female,6.02,59.1,,8,6.86,3.46,Clubs,Self Study,School,Yes,100.0
+STU10846,Male,6.23,75.2,78.3,7,6.43,4.32,Music,Self Study,College,Yes,100.0
+STU11209,Female,10.06,76.3,82.4,10,6.95,3.94,None,Coaching,School,Yes,100.0
+STU10481,Female,5.95,76.9,77.4,8,3.5,4.52,Volunteering,Online Course,College,Yes,100.0
+STU10953,Male,6.46,100.0,42.7,4,,0.02,Clubs,Self Study,College,Yes,97.9
+STU10486,Male,5.16,72.6,79.1,8,8.44,3.63,Sports,Self Study,College,Yes,100.0
+STU12076,Male,2.93,82.4,,6,6.32,4.85,Clubs,Online Course,School,Yes,77.2
+STU11629,Other,6.25,75.4,60.5,9,4.27,4.8,Volunteering,self-study,College,No,97.7
+STU11024,Female,,59.0,76.6,6,8.82,1.93,None,Self Study,Postgraduate,Yes,100.0
+STU11887,Female,3.37,74.6,66.2,4,7.61,4.5,None,Self Study,College,Yes,94.4
+STU10766,Male,1.93,82.7,69.9,10,7.13,2.75,Clubs,Online Course,Postgraduate,Yes,100.0
+STU10810,Male,5.93,72.7,53.8,2,7.77,5.74,Music,Coaching,College,Yes,84.4
+STU11282,Male,1.16,55.8,100.0,7,7.92,3.76,Sports,Online Course,Postgraduate,Yes,100.0
+STU10966,Female,2.77,100.0,85.1,5,9.89,4.95,None,Group Study,School,Yes,97.2
+STU10870,Other,5.41,79.5,96.2,7,6.47,3.66,None,Self Study,Postgraduate,Yes,100.0
+STU12017,Male,5.44,87.7,88.7,7,6.6,2.55,None,Self Study,School,Yes,100.0
+STU12014,Female,5.48,69.0,62.5,2,6.78,1.13,Music,Coaching,School,Yes,94.7
+STU10209,Female,3.74,81.6,62.5,2,5.03,4.41,Sports,Self Study,School,Yes,88.8
+STU10462,Female,3.83,77.7,65.7,2,8.05,4.53,None,Self Study,School,Yes,100.0
+STU10439,Male,4.19,73.2,72.5,5,5.95,3.68,Volunteering,Coaching,Postgraduate,Yes,100.0
+STU12203,Male,5.68,56.2,75.5,5,7.48,0.0,None,Self Study,School,Yes,100.0
+STU11361,Female,4.74,63.4,83.1,4,4.89,4.88,None,Group Study,College,Yes,96.4
+STU12126,Female,,82.7,75.2,6,6.69,0.41,Music,Self Study,College,No,100.0
+STU12334,Female,5.43,68.3,95.6,7,6.92,3.87,None,Group Study,College,Yes,100.0
+STU12309,Male,8.08,71.2,57.8,5,7.02,4.87,None,Self Study,Postgraduate,Yes,100.0
+STU11071,Female,5.11,86.7,52.8,5,7.7,3.61,None,Online Course,College,Yes,100.0
+STU12305,Male,6.24,72.5,67.4,7,7.94,3.35,None,Self Study,Postgraduate,Yes,100.0
+STU10523,Female,8.17,82.8,56.7,9,8.46,3.49,Music,Group Study,School,Yes,100.0
+STU11654,Female,4.73,67.9,52.7,10,6.33,6.29,Music,Online Course,College,Yes,98.1
+STU11012,Male,8.38,61.3,77.9,3,8.16,4.47,None,Coaching,School,Yes,100.0
+STU10200,Female,5.17,67.7,64.9,8,6.42,4.76,Sports,Online Course,College,Yes,84.6
+STU10230,Female,4.93,62.8,63.6,9,8.25,6.04,Clubs,Coaching,School,Yes,100.0
+STU11798,Male,5.2,70.1,73.4,5,7.8,1.39,Clubs,Self Study,School,Yes,100.0
+STU12090,Male,6.44,72.5,67.4,6,5.73,3.33,None,Online Course,College,Yes,100.0
+STU11624,Male,7.85,82.3,73.5,7,4.81,5.36,None,Coaching,,Yes,100.0
+STU11124,Female,5.03,90.6,64.3,5,6.62,3.01,Volunteering,Coaching,School,Yes,100.0
+STU11534,Male,3.17,85.1,90.0,10,7.68,2.18,Music,Self Study,College,Yes,100.0
+STU10663,Male,3.70,84.7,64.3,4,,2.87,Music,Self Study,College,Yes,100.0
+STU10316,Male,4.91,71.6,83.0,2,,5.69,None,Online Course,College,Yes,100.0
+STU10408,Male,7.16,78.2,68.4,6,6.79,5.02,None,Self Study,College,Yes,100.0
+STU12172,Female,3.34,72.6,66.9,8,6.07,1.71,None,Online Course,School,Yes,96.6
+STU12494,Male,3.98,69.9,,10,8.47,,Clubs,Self Study,School,No,100.0
+STU10070,Female,5.12,83.6,85.1,9,8.39,2.07,Clubs,Self Study,College,Yes,100.0
+STU12283,Female,7.71,67.8,85.5,6,7.5,2.45,None,Self Study,College,Yes,100.0
+STU11833,Female,3.27,96.3,80.9,5,6.32,1.94,Music,Group Study,Postgraduate,Yes,100.0
+STU11821,Male,1.28,69.4,66.2,9,5.75,3.3,Sports,Self Study,School,Yes,95.3
+STU11134,Female,8.26,76.5,47.4,9,4.73,3.92,Music,Coaching,College,Yes,100.0
+STU11702,Male,4.51,54.1,92.3,10,8.43,4.61,Sports,Coaching,School,Yes,100.0
+STU10658,Female,5.85,74.8,63.3,4,7.86,5.45,None,Self Study,Postgraduate,Yes,90.5
+STU10232,Male,4.32,62.4,45.8,5,5.46,1.85,Music,Self Study,College,Yes,74.3
+STU11396,Female,9.22,58.8,64.5,3,7.96,0.46,Clubs,Online Course,Postgraduate,Yes,100.0
+STU11652,Male,8.05,95.5,61.4,6,5.37,3.85,Sports,Self Study,College,Yes,100.0
+STU10757,Male,3.66,70.2,56.1,5,6.5,2.78,Volunteering,Self Study,College,Yes,86.4
+STU10813,Male,6.01,75.9,76.0,9,6.08,2.49,Music,Coaching,School,Yes,100.0
+STU10874,Female,5.63,71.0,68.3,3,7.79,3.43,Volunteering,Self Study,,,100.0
+STU11612,Male,5.0,84.7,52.9,5,,3.1,Music,Group Study,Postgraduate,Yes,94.1
+STU11100,Female,7.98,94.8,67.4,10,6.85,6.97,None,Self Study,College,Yes,100.0
+STU10423,Male,4.31,62.7,65.5,8,7.11,1.26,None,Self Study,Postgraduate,Yes,100.0
+STU12351,Male,6.8,74.1,87.2,10,7.41,2.48,Clubs,Self Study,College,No,100.0
+STU11448,Female,8.53,54.4,67.9,8,4.47,2.46,None,Self Study,Postgraduate,Yes,
+STU11264,Female,4.61,85.1,58.9,4,4.8,2.29,Volunteering,Coaching,Postgraduate,Yes,85.0
+STU10280,Female,6.03,65.9,95.7,9,6.24,4.92,Music,Self Study,College,Yes,100.0
+STU10464,Female,1.35,69.2,66.0,10,4.64,4.66,Volunteering,Self Study,Postgraduate,Yes,78.9
+STU11917,Female,4.27,92.8,,10,7.34,1.82,Clubs,Coaching,College,,100.0
+STU12012,Male,9.05,76.0,,2,5.56,0.98,Sports,Self Study,Postgraduate,Yes,99.1
+STU11989,Male,3.89,83.1,58.7,5,7.63,5.41,Clubs,Online Course,School,Yes,90.0
+STU11190,Other,5.22,94.2,64.8,7,7.31,6.11,Clubs,Coaching,College,,100.0
+STU10323,Female,7.84,86.1,58.8,6,5.44,6.13,None,Self Study,College,Yes,96.9
+STU11738,Male,5.12,80.7,82.1,3,7.37,2.14,None,Online Course,College,Yes,100.0
+STU10533,Female,4.6,63.2,67.4,2,7.69,5.25,Volunteering,Self Study,School,Yes,84.4
+STU10545,Male,4.99,80.4,67.1,4,5.99,2.4,Clubs,Coaching,College,Yes,100.0
+STU11594,Female,4.04,63.8,85.0,6,6.58,3.29,None,Coaching,College,Yes,100.0
+STU10822,Female,8.38,74.2,49.4,6,6.44,3.77,None,Group Study,School,Yes,100.0
+STU12174,Male,3.07,79.8,61.2,8,8.07,0.53,,Group Study,College,Yes,100.0
+STU12277,Female,2.94,67.8,98.3,7,7.26,3.25,Clubs,Coaching,College,Yes,98.8
+STU10480,Male,10.7,100.0,54.2,3,8.38,2.31,Clubs,Coaching,School,Yes,100.0
+STU11531,Female,6.61,63.3,63.9,10,7.96,4.8,None,Coaching,College,Yes,100.0
+STU11773,Male,2.91,82.7,68.4,6,7.6,4.93,Music,,College,Yes,96.5
+STU11499,Male,6.92,70.2,74.3,4,7.03,7.02,Volunteering,,School,Yes,100.0
+STU12386,Other,4.27,73.8,65.7,6,5.97,2.79,Sports,Online Course,School,Yes,100.0
+STU11781,Female,7.12,94.9,84.2,7,8.52,4.78,Music,,School,Yes,100.0
+STU10655,Female,6.67,70.7,60.3,4,7.33,5.57,None,Coaching,School,Yes,100.0
+STU10150,Female,5.81,100.0,49.7,10,5.38,5.15,Clubs,Self Study,College,Yes,100.0
+STU11217,Female,1.88,87.2,67.9,9,7.34,1.1,Clubs,Self Study,School,Yes,92.7
+STU10696,Female,3.94,90.7,98.8,2,7.9,3.97,None,Coaching,School,Yes,99.4
+STU11365,Male,4.74,57.4,60.7,4,7.25,6.07,,Self Study,College,Yes,90.4
+STU11886,Male,6.03,73.4,70.3,9,6.61,0.72,None,Coaching,College,Yes,100.0
+STU10472,Female,4.69,77.4,61.3,9,5.73,3.05,Music,Coaching,College,Yes,97.3
+STU10830,Male,0.5,74.9,60.5,3,6.83,3.17,Volunteering,Coaching,College,Yes,86.1
+STU12141,Male,5.31,96.2,48.7,6,7.8,5.99,Music,Online Course,School,Yes,100.0
+STU11715,Female,3.47,76.6,54.1,9,4.93,3.34,Clubs,Self Study,Postgraduate,Yes,100.0
+STU12322,Male,8.02,69.9,52.2,7,7.33,3.06,Clubs,Self Study,School,Yes,100.0
+STU10164,Female,3.86,60.9,70.5,10,7.86,1.01,Sports,Online Course,School,Yes,100.0
+STU10403,Male,7.14,90.3,49.5,4,7.11,2.29,None,Online Course,School,Yes,98.9
+STU10483,Male,5.68,75.7,68.2,3,6.94,3.35,Clubs,Self Study,College,Yes,100.0
+STU11311,Male,3.14,81.2,75.9,5,5.83,4.41,None,Group Study,School,Yes,88.7
+STU11406,Other,6.89,100.0,79.7,7,5.63,7.31,Clubs,Group Study,College,Yes,100.0
+STU12005,Male,2.69,69.6,57.3,2,6.84,5.03,Volunteering,Coaching,College,Yes,75.2
+STU12045,Female,2.74,84.8,62.0,3,8.79,3.83,None,Self Study,School,Yes,
+STU12458,Other,4.29,52.5,59.9,4,6.89,3.57,Sports,Self Study,School,Yes,97.0
+STU10901,Male,6.28,82.8,68.7,2,8.44,3.58,None,Self Study,School,Yes,100.0
+STU11352,Female,6.62,69.1,56.6,6,7.16,5.08,Clubs,Self Study,College,Yes,100.0
+STU10050,Male,5.64,84.0,82.3,9,5.62,4.93,Volunteering,Self Study,School,Yes,100.0
+STU10068,Male,4.58,83.3,80.5,3,8.66,3.91,Volunteering,Self Study,School,Yes,100.0
+STU10742,Female,7.88,67.8,83.9,4,5.02,3.79,None,Coaching,College,Yes,100.0
+STU11394,Male,6.42,65.3,67.9,4,6.56,2.09,None,Group Study,School,Yes,93.3
+STU10528,Male,5.76,61.7,71.0,7,5.49,3.34,Music,Coaching,School,Yes,100.0
+STU10049,Male,6.86,57.2,68.0,5,7.74,6.55,Music,Online Course,School,Yes,100.0
+STU11622,Female,5.59,86.8,,10,7.17,5.6,None,Coaching,College,Yes,100.0
+STU10942,Female,7.27,78.6,47.2,3,8.32,3.34,None,Self Study,School,Yes,95.4
+STU11076,Female,5.95,55.2,31.7,4,4.75,6.39,None,Self Study,School,Yes,82.7
+STU12002,Female,4.17,91.0,55.5,4,5.64,,Music,Self Study,College,Yes,100.0
+STU10125,Male,7.17,71.4,60.9,7,5.57,1.79,None,Online Course,College,No,98.8
+STU10475,Male,6.74,79.4,,2,6.63,1.52,Music,Online Course,Postgraduate,Yes,100.0
+STU11755,Male,7.7,68.5,67.1,6,6.86,6.28,Clubs,Online Course,Postgraduate,Yes,100.0
+STU12361,Female,8.64,58.8,60.1,9,,2.1,Clubs,Self Study,College,Yes,100.0
+STU11072,,3.27,87.4,49.3,4,5.51,4.16,Clubs,Self Study,Postgraduate,Yes,85.7
+STU11079,Female,4.33,84.7,96.7,9,6.54,1.3,Sports,Online Course,College,,100.0
+STU10026,Male,4.8,86.2,31.3,7,,5.53,None,Online Course,College,Yes,96.5
+STU12400,Female,6.68,72.7,68.2,2,6.71,3.08,None,Self Study,School,Yes,100.0
+STU11718,Female,4.44,83.7,71.5,6,7.92,0.0,Music,Self Study,School,Yes,100.0
+STU12486,Male,5.27,83.0,72.7,5,6.64,6.97,,Coaching,Postgraduate,No,100.0
+STU11558,Female,7.04,86.6,64.7,6,7.19,0.95,None,Self Study,Postgraduate,Yes,100.0
+STU11601,Female,5.39,84.8,80.4,8,6.09,6.46,Music,Online Course,School,Yes,100.0
+STU11205,Female,4.2,84.3,67.1,8,6.69,5.04,None,Self Study,Postgraduate,Yes,96.0
+STU12097,Female,,73.7,49.7,2,7.62,3.29,Clubs,Self Study,Postgraduate,Yes,85.7
+STU11510,Female,5.76,92.0,73.6,4,8.45,2.19,None,Online Course,College,Yes,100.0
+STU12420,Male,0.85,89.7,50.3,4,7.12,5.5,Clubs,Self Study,College,Yes,92.0
+STU11164,Female,2.49,,61.3,8,7.34,4.79,Sports,Self Study,Postgraduate,No,100.0
+STU10362,Male,6.27,85.6,69.9,3,5.11,10.0,Sports,Online Course,Postgraduate,Yes,83.4
+STU11850,Female,6.82,84.2,85.8,8,7.63,2.97,Volunteering,Online Course,School,Yes,100.0
+STU12046,Male,3.51,78.3,70.0,5,6.96,8.07,None,Online Course,Postgraduate,Yes,100.0
+STU11382,Female,0.5,94.9,55.5,9,7.73,3.81,Clubs,Self Study,College,Yes,100.0
+STU11861,Male,6.81,82.2,67.8,5,6.61,0.6,Clubs,Self Study,School,Yes,100.0
+STU11703,Male,5.78,84.5,49.4,8,8.25,1.16,Sports,Coaching,Postgraduate,Yes,100.0
+STU11274,Female,6.25,84.6,100.0,10,8.08,3.6,None,Coaching,School,No,100.0
+STU11608,Female,5.89,93.3,67.2,3,6.31,3.4,None,Online Course,School,Yes,100.0
+STU12406,Female,2.21,92.9,64.2,2,5.42,1.84,Music,Online Course,College,Yes,87.0
+STU11756,Male,6.76,89.8,74.8,5,6.05,3.17,Sports,Self Study,College,Yes,100.0
+STU12304,Female,4.63,89.7,66.3,3,7.7,5.25,None,Online Course,College,No,93.2
+STU10890,Male,2.09,71.9,,10,7.27,2.88,Clubs,Self Study,Postgraduate,Yes,83.6
+STU10837,Female,4.85,75.0,81.0,6,5.49,1.82,None,Online Course,College,Yes,100.0
+STU12356,,1.13,92.5,53.5,2,5.52,3.94,,Self Study,College,Yes,79.7
+STU11002,Male,4.04,93.9,67.3,5,9.8,2.15,Sports,Online Course,School,Yes,100.0
+STU10241,Male,3.75,67.8,79.9,8,7.43,1.52,Music,Self Study,Postgraduate,Yes,100.0
+STU11126,Male,4.96,100.0,47.7,2,7.68,4.05,None,Self Study,School,Yes,100.0
+STU11789,Female,6.1,76.4,47.6,2,7.08,3.57,Volunteering,Self Study,School,Yes,91.1
+STU10071,Male,2.95,100.0,61.3,4,7.55,1.02,Volunteering,Self Study,Postgraduate,Yes,92.4
+STU11641,Male,2.56,76.2,75.7,7,8.91,3.41,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU11454,Male,4.71,73.1,72.6,4,6.88,2.83,None,Self Study,Postgraduate,Yes,100.0
+STU10602,Female,4.34,71.7,86.8,10,7.19,5.01,,Self Study,College,Yes,100.0
+STU10074,Female,6.49,80.2,64.1,5,7.98,5.93,Clubs,Coaching,School,Yes,100.0
+STU11186,Female,2.75,81.2,47.7,4,7.53,3.39,Clubs,Group Study,School,Yes,85.5
+STU10351,,6.24,76.1,60.1,8,6.41,3.51,None,Self Study,School,Yes,100.0
+STU12489,Female,8.26,72.1,65.1,9,9.11,4.26,Sports,Coaching,College,Yes,100.0
+STU11462,Female,4.05,94.1,81.6,9,6.99,2.03,Sports,Self Study,College,Yes,100.0
+STU11619,Male,6.15,69.5,83.5,2,5.83,3.79,Clubs,Online Course,,Yes,100.0
+STU12271,Female,6.33,80.4,75.9,8,6.72,4.9,Music,Online Course,School,Yes,100.0
+STU11736,Male,7.33,85.2,77.5,9,,0.73,None,Self Study,College,Yes,100.0
+STU12262,Male,3.93,100.0,84.6,9,5.82,3.22,None,Online Course,College,Yes,100.0
+STU10077,Female,4.65,68.2,73.8,10,8.36,1.26,Volunteering,Online Course,Postgraduate,Yes,100.0
+STU10433,Male,5.24,92.1,52.8,5,6.12,1.64,Clubs,Online Course,School,Yes,100.0
+STU11937,Male,5.43,72.9,57.8,4,,,None,Coaching,College,Yes,91.1
+STU12013,Female,6.82,93.3,62.4,8,6.73,2.88,None,Online Course,Postgraduate,Yes,100.0
+STU10158,Male,7.47,66.6,74.9,2,9.15,1.8,Clubs,Coaching,Postgraduate,Yes,100.0
+STU11286,Male,6.0,63.4,50.1,6,7.89,0.91,Sports,Group Study,College,Yes,100.0
+STU11557,Other,4.04,88.4,76.8,7,8.56,0.61,None,Self Study,Postgraduate,Yes,100.0
+STU12470,Female,5.53,82.1,79.0,8,6.29,3.4,,Online Course,Postgraduate,Yes,100.0
+STU10136,Female,3.47,92.5,63.5,5,5.63,3.67,None,Self Study,School,Yes,91.6
+STU12159,Female,6.85,70.5,69.9,2,6.35,2.42,Music,Self Study,College,Yes,94.0
+STU12338,Female,7.17,65.8,53.7,3,7.49,5.42,Sports,Group Study,Postgraduate,Yes,100.0
+STU12184,Female,3.5,70.5,71.5,9,7.45,3.05,None,Self Study,College,Yes,93.3
+STU10904,Female,8.68,90.6,69.9,8,9.02,2.72,Sports,Coaching,School,Yes,100.0
+STU10857,Male,6.17,70.5,78.9,8,7.69,2.66,None,Online Course,Postgraduate,Yes,100.0
+STU10052,Female,6.76,76.7,70.1,5,7.16,5.9,Sports,Self Study,College,Yes,100.0
+STU11927,Female,4.33,80.0,49.1,4,8.0,4.95,Music,Self Study,School,Yes,85.3
+STU10496,Male,7.37,68.8,72.9,7,5.9,1.73,None,Online Course,School,No,100.0
+STU12070,Male,,83.4,73.7,6,5.89,0.0,None,Self Study,Postgraduate,Yes,100.0
+STU10648,Female,2.04,76.6,56.2,10,7.48,6.27,Sports,Online Course,School,Yes,88.6
+STU11704,Female,0.85,100.0,90.6,3,7.0,2.36,Sports,Self Study,School,Yes,100.0
+STU10290,Female,5.29,72.6,92.8,8,7.09,4.54,None,Online Course,School,Yes,100.0
+STU11620,Male,3.98,69.2,59.7,3,6.42,4.88,Music,Self Study,College,Yes,79.8
+STU12253,Male,6.85,84.1,54.5,2,7.75,3.15,Volunteering,Self Study,School,Yes,100.0
+STU12280,Female,1.53,78.4,84.1,8,6.45,2.92,Sports,Online Course,Postgraduate,Yes,97.6
+STU11627,Female,0.81,90.1,75.1,10,,4.23,None,Coaching,School,Yes,100.0
+STU11314,Male,6.31,75.1,75.7,5,8.85,5.06,Clubs,Self Study,College,Yes,100.0
+STU10943,Male,6.48,,77.3,8,5.65,5.1,Clubs,Coaching,School,Yes,100.0
+STU11771,Female,4.6,62.7,75.3,10,,3.14,None,Online Course,School,Yes,100.0
+STU11985,Female,3.93,78.7,52.8,8,8.22,5.05,Music,Coaching,College,Yes,97.4
+STU10292,Female,5.81,76.7,55.4,2,,5.81,Music,Self Study,College,Yes,84.0
+STU11747,Female,4.35,80.6,63.7,10,6.44,0.73,None,Self Study,Postgraduate,Yes,100.0
+STU11090,Male,4.95,71.4,58.4,3,6.99,3.17,None,Self Study,College,Yes,100.0
+STU10124,Male,8.22,80.5,66.8,4,7.56,6.93,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU11685,Female,4.22,77.7,64.2,8,7.88,4.76,None,Online Course,Postgraduate,No,100.0
+STU10858,Male,6.35,71.7,67.7,10,7.12,3.08,Clubs,Self Study,School,Yes,100.0
+STU10407,Female,5.26,91.7,45.8,2,5.77,5.59,,Self Study,Postgraduate,Yes,73.4
+STU11438,Female,0.5,83.6,83.3,9,5.84,7.52,Sports,Online Course,School,Yes,100.0
+STU10638,Male,3.27,90.8,84.1,8,5.08,3.14,Sports,Self Study,School,Yes,100.0
+STU10708,Female,6.62,81.8,74.0,3,6.06,0.35,None,Online Course,College,Yes,100.0
+STU10498,Other,4.83,100.0,76.3,4,6.08,0.0,None,Self Study,Postgraduate,Yes,100.0
+STU10970,Female,5.57,89.2,89.4,8,8.15,2.72,Clubs,,School,Yes,100.0
+STU10343,Female,5.64,85.0,69.7,8,7.99,3.42,Clubs,Online Course,College,Yes,100.0
+STU12340,Female,7.19,82.8,53.5,9,5.85,3.57,Clubs,Online Course,College,Yes,100.0
+STU10300,Female,6.16,70.3,73.6,4,6.13,4.18,None,Online Course,Postgraduate,Yes,100.0
+STU11928,Male,3.47,61.3,64.8,4,8.68,4.69,None,Coaching,College,Yes,77.5
+STU10565,Male,7.3,74.5,57.2,5,4.98,2.93,None,,School,Yes,99.2
+STU12443,Male,3.56,74.8,75.3,9,8.31,5.99,Clubs,Self Study,College,Yes,100.0
+STU10612,Female,5.97,92.6,,2,7.37,2.99,Sports,,Postgraduate,Yes,100.0
+STU11197,,3.04,69.6,79.9,7,8.05,3.82,None,Online Course,College,Yes,94.3
+STU10221,Male,5.05,80.1,81.0,9,6.5,0.0,None,Online Course,College,Yes,100.0
+STU12358,Female,6.15,70.3,62.9,6,8.72,0.85,Sports,Self Study,College,Yes,99.2
+STU12204,Male,6.71,81.2,69.0,4,7.88,4.32,Volunteering,Self Study,College,Yes,100.0
+STU12120,Female,7.05,85.1,48.3,8,7.37,3.45,Volunteering,,College,No,100.0
+STU10085,Female,3.11,83.5,77.9,5,7.51,2.36,Clubs,Self Study,Postgraduate,Yes,100.0
+STU12231,Male,6.47,76.1,63.3,8,7.12,3.66,None,Group Study,College,Yes,100.0
+STU10267,Female,5.81,56.1,46.9,8,7.01,4.96,None,Self Study,School,Yes,96.1
+STU10555,Male,5.33,72.6,65.6,6,7.63,4.67,None,Online Course,School,,100.0
+STU10291,Male,5.0,95.8,74.7,5,6.25,4.25,Clubs,Coaching,School,Yes,99.5
+STU12247,Female,2.34,87.0,49.6,10,8.99,,Sports,Self Study,School,Yes,100.0
+STU11269,Female,6.8,89.1,66.9,2,6.92,2.69,None,Self Study,Postgraduate,Yes,100.0
+STU10417,,7.68,96.9,76.6,9,8.3,1.6,Clubs,Online Course,College,Yes,100.0
+STU10473,Female,4.93,77.6,74.6,10,7.31,2.43,None,Coaching,College,Yes,100.0
+STU12426,Female,7.77,91.5,47.8,3,7.48,5.16,Music,Self Study,College,Yes,97.4
+STU12068,Male,5.44,80.1,37.7,9,5.52,3.2,Sports,Self Study,College,Yes,93.0
+STU12431,Female,2.46,86.2,57.9,3,9.65,3.23,None,Coaching,College,Yes,89.5
+STU10842,Male,5.57,87.2,64.1,9,6.7,7.36,None,Coaching,Postgraduate,Yes,100.0
+STU11584,Male,4.09,73.6,73.8,4,6.22,4.85,Clubs,Online Course,College,Yes,100.0
+STU10998,Male,5.74,91.0,90.6,10,4.89,0.0,Clubs,Self Study,College,Yes,100.0
+STU11930,Female,6.96,60.1,70.9,10,9.31,2.62,None,Self Study,School,Yes,100.0
+STU10279,Female,7.88,83.6,61.8,10,7.58,6.82,Sports,Online Course,College,No,100.0
+STU11302,Male,1.33,69.0,58.0,2,7.62,5.41,Music,Self Study,Postgraduate,Yes,78.6
+STU11518,Female,8.12,89.6,55.6,2,4.18,,,Self Study,School,Yes,100.0
+STU11693,Male,2.74,84.9,50.8,10,7.72,2.32,Sports,Self Study,College,Yes,100.0
+STU10019,Female,7.26,84.7,51.3,4,8.69,4.73,Music,Self Study,College,Yes,100.0
+STU11949,Female,3.76,,87.4,5,7.12,3.7,Clubs,Group Study,College,Yes,100.0
+STU10811,Female,5.1,71.9,94.5,2,9.82,0.0,Volunteering,,College,Yes,100.0
+STU10669,Male,4.45,67.0,58.9,7,10.0,2.6,Sports,Online Course,College,No,98.2
+STU11487,Female,,64.5,67.0,3,7.37,2.99,Sports,Coaching,College,Yes,100.0
+STU11901,Female,4.39,77.4,53.1,8,5.57,1.59,Music,Self Study,School,No,89.7
+STU11452,Female,6.52,100.0,72.4,7,5.25,3.05,Volunteering,Coaching,College,Yes,100.0
+STU11525,Female,4.65,67.4,70.9,4,,3.12,Music,Self Study,School,Yes,93.2
+STU10614,Male,6.39,87.4,88.3,9,7.2,5.43,Volunteering,Self Study,College,Yes,100.0
+STU10220,Male,4.11,65.0,76.4,4,,2.19,Sports,Coaching,College,Yes,100.0
+STU10644,Female,5.84,81.1,92.5,9,6.77,2.82,None,Self Study,College,Yes,100.0
+STU11384,Female,5.17,92.8,51.6,5,5.71,2.22,Volunteering,Online Course,School,Yes,100.0
+STU10304,Male,4.84,66.2,84.7,8,9.89,2.49,None,Online Course,School,Yes,100.0
+STU11764,Male,3.39,88.4,87.4,8,7.05,6.23,Sports,Self Study,College,Yes,100.0
+STU10651,Female,9.2,81.2,73.5,2,9.38,2.92,Music,Online Course,School,Yes,100.0
+STU10737,Female,7.06,91.2,74.3,2,5.28,2.08,None,Self Study,School,Yes,100.0
+STU11463,Female,3.79,84.2,64.1,3,6.54,3.54,None,Online Course,School,Yes,98.1
+STU11018,Female,4.95,77.3,46.8,6,8.08,5.72,,Coaching,School,Yes,100.0
+STU10652,Male,5.15,67.1,48.0,8,7.3,3.57,Volunteering,Coaching,College,Yes,100.0
+STU10917,Male,8.37,79.4,68.8,7,7.94,0.98,Music,Coaching,School,Yes,100.0
+STU11536,Female,3.58,79.9,87.8,3,5.29,3.49,None,Self Study,Postgraduate,Yes,100.0
+STU11339,,10.92,74.2,85.6,3,6.09,0.91,None,,College,Yes,100.0
+STU12112,Female,6.49,100.0,81.9,3,6.15,2.25,,Self Study,School,Yes,100.0
+STU11659,Female,7.0,90.6,83.0,7,5.03,2.36,Music,Self Study,,Yes,100.0
+STU11730,Female,5.58,88.9,43.8,7,7.3,3.18,Clubs,Coaching,College,Yes,100.0
+STU10619,Female,4.27,68.1,68.4,5,6.08,1.5,Music,Self Study,School,Yes,97.3
+STU11138,Male,5.57,94.0,38.8,3,7.14,4.52,None,Online Course,College,Yes,92.2
+STU10193,Male,4.73,77.2,72.6,10,7.68,4.5,None,Online Course,College,Yes,100.0
+STU10175,Male,2.94,75.1,96.8,4,5.29,3.29,Sports,Group Study,School,Yes,100.0
+STU11038,Male,4.38,74.0,75.6,5,5.54,4.1,Clubs,Self Study,School,Yes,100.0
+STU10679,Male,,85.5,71.2,8,6.73,2.89,Clubs,Self Study,School,Yes,100.0
+STU11847,Male,5.57,67.3,63.8,4,5.22,2.44,None,Coaching,Postgraduate,Yes,100.0
+STU12324,Female,5.52,71.0,79.6,9,6.33,7.42,Sports,Self Study,College,Yes,100.0
+STU10835,Female,3.99,78.7,65.6,4,8.53,5.64,Clubs,Group Study,Postgraduate,Yes,100.0
+STU10129,Male,4.22,68.2,71.7,9,5.62,4.77,Clubs,Online Course,College,Yes,100.0
+STU10341,Male,0.92,76.0,70.6,4,5.0,3.88,None,Self Study,Postgraduate,Yes,86.7
+STU12343,Male,1.39,59.6,65.2,10,7.41,3.81,Music,Online Course,College,Yes,100.0
+STU11832,Female,5.61,63.7,70.9,4,5.14,4.17,None,Self Study,School,Yes,100.0
+STU11028,Male,5.57,62.1,59.0,2,9.04,3.37,None,Coaching,College,Yes,100.0
+STU10308,Female,8.1,55.0,63.6,9,9.12,6.89,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU10384,Female,3.0,91.7,73.3,10,8.0,2.97,Music,Group Study,School,Yes,100.0
+STU11969,Male,4.64,100.0,100.0,2,7.64,0.5,Sports,Self Study,College,Yes,100.0
+STU12326,Female,6.53,70.2,87.4,10,8.35,1.76,None,Coaching,Postgraduate,Yes,100.0
+STU12098,Male,3.89,82.0,67.4,4,6.29,0.13,Volunteering,Self Study,Postgraduate,,98.6
+STU10178,Female,5.82,84.1,87.5,5,7.23,3.36,Music,Online Course,College,Yes,100.0
+STU10427,Female,7.11,87.6,58.4,5,7.57,2.14,Clubs,Coaching,College,Yes,100.0
+STU11221,Female,5.41,78.6,88.8,2,8.4,3.91,None,Online Course,College,Yes,100.0
+STU11772,Male,5.64,65.0,97.0,9,4.8,4.48,Volunteering,Self Study,School,Yes,100.0
+STU12475,Male,3.68,72.6,85.1,8,5.79,,None,Online Course,School,Yes,100.0
+STU10908,Female,2.95,98.1,55.9,4,7.0,2.08,Clubs,Online Course,College,Yes,100.0
+STU10185,Female,6.36,60.2,,6,5.47,2.49,Music,Coaching,School,No,100.0
+STU11074,Female,2.31,77.1,72.1,10,5.39,7.45,Music,Group Study,College,Yes,100.0
+STU12016,Male,5.82,89.5,58.7,9,7.8,3.52,,Coaching,College,Yes,100.0
+STU11663,Female,5.29,84.4,30.1,10,8.09,3.71,Clubs,Online Course,School,Yes,100.0
+STU12213,Female,8.08,91.3,70.5,6,4.67,6.19,Music,Coaching,School,Yes,100.0
+STU11737,Other,2.76,80.5,93.0,9,10.0,3.9,Clubs,Self Study,School,Yes,100.0
+STU10791,Female,4.01,75.4,83.8,4,7.12,3.4,Clubs,Coaching,Postgraduate,Yes,100.0
+STU12307,Female,9.37,100.0,72.5,2,1.6172013114754917,2.57,Sports,Online Course,School,Yes,100.0
+STU10490,Male,,,57.9,7,8.55,6.94,None,Coaching,College,Yes,100.0
+STU11211,Male,,,59.2,2,6.76,2.48,Clubs,Self Study,College,Yes,99.9
+STU11621,Male,6.65,70.3,66.0,3,9.12,4.09,Sports,,College,Yes,100.0
+STU12267,Male,6.72,66.1,60.4,2,7.65,2.89,Music,Self Study,College,Yes,94.2
+STU11006,Male,6.18,97.8,75.6,9,7.05,1.83,Clubs,Self Study,College,Yes,100.0
+STU11671,Female,5.32,90.7,65.6,8,7.08,3.16,Sports,Self Study,School,Yes,100.0
+STU11506,Male,6.5,74.3,81.6,3,8.22,0.4,Clubs,Self Study,College,Yes,100.0
+STU10991,Other,7.24,63.5,38.3,10,7.55,2.55,Clubs,Self Study,College,Yes,100.0
+STU10119,Female,8.7,68.7,58.1,2,6.82,1.87,None,Self Study,School,Yes,100.0
+STU11577,Female,5.56,46.7,76.2,5,6.57,2.03,None,Group Study,School,Yes,100.0
+STU10282,Female,2.01,70.1,73.4,3,4.98,4.81,Sports,Self Study,College,Yes,86.6
+STU12197,Male,5.14,86.6,60.0,3,9.13,4.95,None,Self Study,Postgraduate,Yes,100.0
+STU12030,Male,4.54,95.2,75.1,6,8.31,1.9,None,Self Study,Postgraduate,Yes,100.0
+STU11862,Female,3.33,82.1,49.9,8,7.07,4.57,None,Online Course,College,Yes,85.0
+STU10931,Female,5.51,58.7,75.4,8,6.6,1.47,None,Online Course,School,Yes,100.0
+STU11387,Male,8.0,66.2,88.8,7,5.96,5.1,Sports,Coaching,School,Yes,100.0
+STU12225,Male,3.3,81.0,57.0,4,8.41,5.58,Music,Self Study,School,Yes,85.4
+STU10367,Male,4.01,84.1,60.3,9,6.34,5.29,None,Self Study,College,Yes,100.0
+STU11375,Female,5.45,62.7,58.8,4,6.75,4.5,,Coaching,College,Yes,89.2
+STU10556,Female,4.89,64.3,70.3,3,4.87,3.91,Sports,Self Study,Postgraduate,Yes,100.0
+STU11129,Male,5.01,92.7,86.0,3,5.02,3.78,None,,,Yes,100.0
+STU11296,Male,7.19,75.9,41.8,3,6.34,4.93,None,Online Course,School,Yes,100.0
+STU11305,Female,5.0,89.8,81.9,5,7.66,6.58,Clubs,Coaching,Postgraduate,Yes,100.0
+STU10204,Other,6.79,92.2,51.4,6,5.3,4.1,,Group Study,School,Yes,100.0
+STU11713,Male,6.78,84.6,70.6,10,7.74,3.6,None,Self Study,Postgraduate,Yes,100.0
+STU10121,Female,3.45,69.8,70.4,9,7.47,4.47,Clubs,Coaching,College,Yes,100.0
+STU10284,Male,6.41,90.8,80.7,9,5.76,5.86,None,Online Course,College,Yes,100.0
+STU10576,Male,2.59,67.7,66.8,9,6.92,2.97,Clubs,Online Course,College,No,96.6
+STU11588,Female,7.39,57.4,72.0,2,5.99,4.2,Music,Online Course,College,Yes,100.0
+STU11546,Female,5.03,76.2,67.4,6,8.36,6.15,None,Self Study,College,,94.8
+STU10276,Male,6.27,100.0,42.2,10,5.62,2.02,Sports,Coaching,,Yes,100.0
+STU11732,Female,5.44,86.5,66.6,9,8.6,4.75,Volunteering,Group Study,Postgraduate,,100.0
+STU12380,Male,5.33,64.8,64.4,9,6.85,5.22,None,Self Study,School,Yes,94.1
+STU10361,Female,5.19,60.4,61.0,10,4.95,6.0,Music,Online Course,Postgraduate,Yes,100.0
+STU11043,Male,6.9,76.2,49.2,9,8.36,3.09,None,Self Study,Postgraduate,Yes,100.0
+STU11538,Female,2.13,77.8,52.0,2,6.68,4.1,Music,Online Course,College,Yes,81.4
+STU11135,Female,5.17,75.9,78.3,2,7.1,0.0,Clubs,Group Study,College,Yes,88.1
+STU10630,Female,0.67,82.4,94.9,10,5.5,3.71,Volunteering,Coaching,College,Yes,100.0
+STU11567,Female,3.17,68.1,84.4,4,7.21,4.28,Music,Self Study,Postgraduate,Yes,87.1
+STU11988,Female,3.97,65.4,78.4,3,7.19,5.38,Volunteering,Self Study,School,Yes,97.2
+STU10287,Female,6.03,78.1,54.8,3,8.78,3.32,Clubs,Self Study,School,Yes,97.3
+STU11299,Male,3.19,88.1,81.7,4,6.65,3.07,None,Online Course,Postgraduate,Yes,100.0
+STU10839,Female,9.17,65.1,67.5,8,4.49,0.72,Music,Self Study,School,Yes,100.0
+STU11972,Female,4.89,69.0,88.0,10,9.21,1.77,None,Self Study,School,Yes,100.0
+STU10424,Male,2.54,70.3,67.4,10,6.78,4.44,Sports,Coaching,School,Yes,96.1
+STU11835,Other,6.66,84.9,73.6,6,6.14,3.13,Clubs,Online Course,College,Yes,100.0
+STU11280,Female,5.06,55.4,37.8,8,5.11,0.85,None,Self Study,College,Yes,88.1
+STU11611,Other,6.08,84.7,33.0,10,6.9,2.48,None,Online Course,School,Yes,100.0
+STU10875,Female,1.72,77.9,50.1,10,8.0,1.14,None,Online Course,Postgraduate,Yes,96.7
+STU10066,Male,7.09,66.7,73.0,5,7.42,2.38,None,Self Study,School,Yes,99.7
+STU11670,Male,4.1,84.0,55.2,5,,2.77,Sports,Self Study,College,Yes,100.0
+STU11513,Female,7.29,86.2,73.8,6,6.44,0.68,Clubs,Self Study,College,Yes,100.0
+STU11749, FEMALE ,4.52,70.5,67.8,5,5.41,4.16,None,Self Study,School,Yes,100.0
+STU11995,Male,5.68,81.9,77.7,6,7.5,4.84,Volunteering,Online Course,College,No,100.0
+STU10231,Male,2.57,64.0,80.2,9,6.78,4.54,Sports,Coaching,Postgraduate,Yes,100.0
+STU11599,Female,8.66,83.2,53.9,6,8.57,20.485630602117737,Clubs,Self Study,College,Yes,100.0
+STU10788,Female,5.09,90.9,55.2,3,,3.27,None,Self Study,College,Yes,85.1
+STU11208,Female,3.74,85.2,57.2,8,7.22,2.28,None,Self Study,School,Yes,100.0
+STU10928,Male,6.33,84.3,80.5,6,4.2,5.79,Sports,,College,Yes,100.0
+STU11357,Female,4.75,64.2,79.3,10,6.32,4.33,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10760,Female,6.39,74.0,20.3,3,5.85,1.17,None,Self Study,Postgraduate,Yes,89.6
+STU11810,Female,7.42,49.5,62.5,2,6.81,2.03,None,Online Course,School,Yes,97.7
+STU11095,Male,4.19,73.5,74.5,10,5.99,3.52,Clubs,Online Course,Postgraduate,Yes,100.0
+STU10375,,6.61,79.4,69.1,6,6.09,1.47,Clubs,Coaching,College,Yes,100.0
+STU10790,Female,5.2,65.7,87.2,7,7.12,0.28,Music,Self Study,College,Yes,100.0
+STU11551,Male,2.37,88.7,68.1,6,3.5,4.72,Sports,Group Study,Postgraduate,Yes,87.9
+STU11262,Female,5.69,87.1,74.7,9,8.65,3.37,None,Self Study,College,Yes,100.0
+STU10298,Female,4.76,74.9,67.4,5,5.71,5.45,None,Self Study,College,Yes,100.0
+STU10599,Male,5.98,100.0,72.0,9,7.85,5.75,None,Coaching,School,Yes,100.0
+STU12308,Male,5.53,70.7,42.6,3,8.72,5.3,Sports,Self Study,College,Yes,88.3
+STU10100,Male,3.69,90.5,53.7,8,7.84,2.58,Sports,Self Study,College,Yes,100.0
+STU11791,,2.18,72.7,78.4,4,,3.65,None,Online Course,Postgraduate,Yes,100.0
+STU11929,Male,7.23,75.7,57.4,7,7.64,5.48,Sports,Self Study,School,,100.0
+STU11260,Female,4.54,56.6,54.2,10,7.36,1.23,Clubs,Online Course,School,Yes,83.4
+STU10530,Female,8.63,81.3,67.5,7,7.97,1.35,Volunteering,Self Study,School,Yes,100.0
+STU11259,Male,8.98,82.8,52.4,5,7.95,5.18,None,Self Study,School,Yes,100.0
+STU10720,Female,3.46,90.0,74.6,8,6.32,3.5,Music,Self Study,Postgraduate,Yes,100.0
+STU12483,Male,5.93,,,9,7.36,1.1,Clubs,Self Study,School,Yes,100.0
+STU10637,Other,5.12,93.2,74.2,2,4.52,4.59,Clubs,Self Study,School,Yes,94.1
+STU12208,Female,6.38,73.8,78.7,9,4.9,0.37,Clubs,Online Course,Postgraduate,Yes,100.0
+STU10186,Female,8.57,79.7,71.2,8,7.62,1.93,Music,Self Study,,Yes,100.0
+STU11412,Male,9.96,100.0,69.0,6,7.3,2.75,Music,,School,Yes,100.0
+STU10987,Male,2.69,86.8,65.7,9,7.78,2.08,None,Online Course,School,Yes,100.0
+STU11395,Female,1.76,85.5,94.8,7,6.04,6.97,Volunteering,Self Study,College,Yes,87.9
+STU12244,Male,7.39,77.1,35.2,10,4.17,2.71,Clubs,Self Study,College,Yes,96.3
+STU11804,Male,4.68,70.9,76.6,6,6.51,2.75,Music,Self Study,School,Yes,100.0
+STU10512,Female,4.91,73.8,68.2,8,7.21,3.95,None,Self Study,Postgraduate,Yes,100.0
+STU12015,Male,8.68,117.7895568101759,70.1,2,7.3,2.19,Sports,Coaching,School,Yes,100.0
+STU11976,Male,7.04,84.2,41.9,3,8.19,2.88,None,Self Study,College,Yes,100.0
+STU11921,,,91.9,87.7,3,7.08,2.4,None,Self Study,College,Yes,100.0
+STU12094,Female,7.14,74.5,60.3,6,9.4,6.97,Sports,Online Course,College,Yes,100.0
+STU10608,Female,6.4,79.6,69.4,7,4.68,3.3,None,Online Course,College,No,100.0
+STU11180,Female,6.33,79.0,52.8,5,8.48,3.87,Music,Self Study,Postgraduate,Yes,100.0
+STU12341,Female,8.46,80.2,50.8,2,9.52,3.77,None,Self Study,College,Yes,99.9
+STU10152,Male,3.43,55.2,66.8,4,6.04,6.2,None,Coaching,Postgraduate,Yes,82.5
+STU11581,Female,7.88,91.3,40.7,6,5.31,5.01,Sports,Coaching,Postgraduate,Yes,100.0
+STU10892,Male,4.38,57.3,91.9,9,7.37,4.02,Sports,Group Study,College,Yes,100.0
+STU12219,Male,4.2,81.4,66.8,6,7.05,3.87,None,Self Study,Postgraduate,Yes,96.3
+STU10912,Female,6.29,53.7,70.8,4,7.63,0.0,Sports,Coaching,Postgraduate,Yes,100.0
+STU12287,Male,6.89,62.2,62.4,2,8.87,1.25,Clubs,Online Course,Postgraduate,Yes,100.0
+STU10024,Male,5.19,56.4,53.4,3,7.0,5.57,Clubs,Group Study,Postgraduate,Yes,91.6
+STU10159,Female,4.5,75.8,,9,6.81,5.61,None,Self Study,School,Yes,98.7
+STU10332,,6.78,89.8,73.6,7,7.77,2.4,Sports,Self Study,College,Yes,100.0
+STU11026,Male,4.77,96.8,75.0,3,7.77,,None,Online Course,Postgraduate,Yes,100.0
+STU12399,Female,4.21,81.7,57.3,8,5.98,0.45,None,Self Study,School,Yes,99.5
+STU11743,Female,6.51,65.4,57.1,6,7.35,3.31,Volunteering,Coaching,College,Yes,100.0
+STU12008,Male,3.28,65.9,45.9,6,5.83,2.08,None,Online Course,School,,85.1
+STU12462,Female,2.87,85.5,65.8,3,7.52,2.15,Clubs,Online Course,College,Yes,89.2
+STU11455,Male,8.43,78.3,67.7,4,8.28,4.25,,Coaching,School,Yes,100.0
+STU10643,Female,9.61,75.3,77.7,5,7.89,4.33,,Self Study,School,Yes,100.0
+STU12479,Male,7.02,91.5,34.8,4,5.29,2.18,None,Online Course,School,Yes,95.6
+STU10312,Male,6.38,73.6,53.5,2,6.32,6.18,Volunteering,Coaching,,Yes,100.0
+STU10352,Female,7.19,95.2,,3,6.18,3.49,None,Self Study,College,Yes,100.0
+STU10549,Male,6.91,88.7,72.7,4,6.78,4.45,Volunteering,Coaching,School,Yes,99.1
+STU11377,Male,6.61,64.5%,43.2,6,7.35,2.89,Sports,Coaching,College,Yes,100.0
+STU11358,Male,4.49,78.1,78.3,10,4.89,7.75,None,Coaching,School,Yes,95.8
+STU12321,Male,6.34,72.3,32.2,4,8.33,2.43,None,Coaching,,Yes,100.0
+STU10307,Female,4.83,98.7,69.9,10,7.92,1.89,Volunteering,Coaching,Postgraduate,Yes,100.0
+STU10288,Male,5.6,77.3,57.3,10,6.76,3.61,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU10695,Male,3.85,76.6,77.2,6,6.73,,Clubs,Coaching,College,Yes,100.0
+STU10860,Male,6.83,80.0,86.4,7,6.93,2.8,Sports,Coaching,School,Yes,100.0
+STU10631,Male,8.72,86.0,40.1,10,7.46,3.72,None,Coaching,Postgraduate,Yes,100.0
+STU12051,Female,7.03,89.9,75.3,5,7.59,5.42,Sports,Online Course,College,Yes,100.0
+STU11892,Female,3.93,93.4,62.8,2,7.35,1.2,Music,Coaching,Postgraduate,Yes,100.0
+STU12333,Female,6.02,64.9,62.9,8,5.71,2.47,,Self Study,School,Yes,100.0
+STU11413,Male,2.36,72.3,54.0,2,8.13,3.03,Clubs,Online Course,Postgraduate,Yes,88.4
+STU11293,Male,4.71,73.5,69.4,8,6.71,0.62,Clubs,Self Study,School,Yes,100.0
+STU10808,male,3.01,86.4,65.9,5,8.93,6.36,Sports,Coaching,Postgraduate,Yes,100.0
+STU11614,Male,5.66,84.6,68.9,9,6.42,4.38,None,Self Study,College,Yes,100.0
+STU11115,Female,5.7,55.8,74.1,2,4.94,4.93,Clubs,Self Study,Postgraduate,Yes,95.7
+STU11400,Male,2.68,81.9,78.1,10,7.82,5.9,Music,Coaching,College,Yes,100.0
+STU12401,Female,4.61,53.0,70.6,4,7.56,3.46,Clubs,Self Study,Postgraduate,Yes,93.9
+STU11353,Female,2.92,61.8,97.0,5,5.14,3.15,Clubs,Group Study,Postgraduate,Yes,100.0
+STU11175,Female,5.33,61.7,92.0,10,8.29,0.58,Volunteering,Group Study,College,Yes,100.0
+STU10014,Male,7.75,87.7,91.4,4,7.01,1.02,Sports,Group Study,School,Yes,100.0
+STU11045,Female,3.98,74.8,78.9,4,6.43,0.2,Music,Coaching,College,Yes,100.0
+STU11431,Female,4.96,65.3,55.3,8,6.86,1.79,None,Self Study,College,Yes,99.4
+STU10515,,7.08,89.8,62.3,6,4.75,3.76,None,Coaching,School,Yes,100.0
+STU10410,Male,2.91,84.5,75.1,10,6.88,0.19,None,Online Course,College,Yes,100.0
+STU12145,Male,4.06,77.5,65.0,3,6.74,,Sports,Self Study,College,Yes,100.0
+STU10314,Female,6.38,71.6,65.5,7,8.48,5.32,None,Online Course,College,Yes,100.0
+STU11897,Female,2.4,78.8,69.3,2,5.24,4.94,,Self Study,College,Yes,97.6
+STU10867,Female,2.82,78.4,64.0,5,6.51,4.2,Clubs,Self Study,College,Yes,92.3
+STU11005,Female,5.51,79.9,26.2,5,5.54,5.47,Music,Self Study,College,Yes,88.3
+STU12115,Male,6.48,71.4,47.1,9,8.78,4.19,Clubs,Self Study,Postgraduate,Yes,100.0
+STU11104,Female,6.54,95.5,92.4,8,8.01,4.05,Sports,Self Study,College,Yes,100.0
+STU10383,Female,2.3,87.0,58.6,2,7.65,1.17,None,Group Study,College,Yes,82.4
+STU11118,Male,4.78,69.6,52.2,3,7.9,5.13,Music,Coaching,School,Yes,100.0
+STU11648,Male,7.84,100.0,69.3,4,7.76,1.78,None,Self Study,Postgraduate,No,100.0
+STU10762,Female,6.77,64.9,75.9,5,5.6,2.96,Sports,Group Study,School,Yes,100.0
+STU11423,Male,6.28,64.8,30.6,9,6.15,3.41,None,,College,Yes,93.2
+STU11034,,6.47,82.2,73.5,7,3.5,3.54,Music,Group Study,School,Yes,100.0
+STU11065,Male,4.21,94.6,91.0,9,4.81,5.66,Music,Online Course,Postgraduate,Yes,97.8
+STU10264,Male,4.39,88.7,75.4,10,3.74,4.17,Sports,Self Study,Postgraduate,Yes,100.0
+STU10932,Male,6.4,94.8,58.3,7,8.49,4.89,None,Online Course,College,Yes,100.0
+STU12171,Male,3.8,47.3,66.0,7,7.02,0.0,Clubs,Self Study,School,Yes,100.0
+STU11707,Male,4.59,78.1,61.1,2,4.81,0.0,Clubs,Self Study,School,Yes,86.7
+STU10416,Female,5.9,100.0,45.0,5,7.44,0.0,Sports,Self Study,College,Yes,100.0
+STU10977,Female,7.71,52.3,62.5,10,7.65,2.99,None,Self Study,College,Yes,100.0
+STU10359,Female,3.77,73.9,62.0,4,6.31,0.37,None,Self Study,Postgraduate,No,100.0
+STU11196,Male,9.42,68.5,66.1,2,7.68,2.3,Clubs,Self Study,College,Yes,100.0
+STU10009,Female,5.47,88.9,56.6,2,7.95,2.51,Clubs,Self Study,College,Yes,100.0
+STU11054,Male,10.39,57.6,95.9,7,6.75,4.1,None,Self Study,College,Yes,100.0
+STU10317,Female,5.63,60.5,78.6,2,7.12,4.5,Music,Self Study,Postgraduate,Yes,98.8
+STU10305,Male,5.38,67.7,89.2,4,8.71,5.9,Clubs,Coaching,Postgraduate,Yes,100.0
+STU10428,Other,8.94,81.3,,5,7.24,3.97,None,Coaching,School,Yes,100.0
+STU10106,Female,5.09,67.2,56.6,5,8.72,3.57,Music,,Postgraduate,Yes,100.0
+STU12497,Female,5.26,73.9,64.2,6,9.6,3.46,Sports,Self Study,School,Yes,100.0
+STU10122,Male,5.86,69.8,48.1,7,8.76,3.12,Music,Self Study,School,Yes,100.0
+STU11037,Male,7.47,89.3,63.8,10,8.11,1.96,Music,Group Study,School,No,100.0
+STU11576,Female,2.98,68.1,66.9,4,6.28,3.52,Clubs,Self Study,School,Yes,91.5
+STU11879,Male,8.35,72.3,68.0,9,8.17,3.83,None,Self Study,School,Yes,100.0
+STU11560,Male,5.21,76.8,65.7,5,7.59,3.36,Clubs,Online Course,School,No,96.8
+STU11801,Female,5.42,72.7,61.3,4,7.12,2.76,Clubs,Coaching,College,No,96.4
+STU12276,Female,0.5,,59.7,9,7.81,3.79,None,Self Study,College,Yes,93.8
+STU10116,Male,4.44,69.9,76.2,9,7.96,3.68,Sports,Online Course,College,,100.0
+STU11147,,6.45,95.1,60.8,6,,1.83,Clubs,Self Study,College,Yes,100.0
+STU10745,Female,5.7,83.8,75.3,7,7.2,4.26,Clubs,Group Study,College,Yes,100.0
+STU12480,Female,4.94,69.5,60.0,8,7.91,4.12,Volunteering,Coaching,College,Yes,100.0
+STU12345,Female,7.12,77.5,75.8,4,6.63,0.06,,Online Course,School,Yes,100.0
+STU11055,Male,2.75,89.1,66.7,4,7.33,3.6,Sports,Online Course,College,Yes,100.0
+STU11271,Female,8.57,72.7,73.2,10,8.35,0.51,,Self Study,School,Yes,100.0
+STU10673,Female,4.07,89.7,68.4,2,5.98,5.46,Clubs,Online Course,Postgraduate,Yes,89.6
+STU12448,Female,4.58,82.3,85.5,5,6.1,6.26,Sports,Self Study,College,Yes,100.0
+STU11991,Male,6.28,99.1,60.6,7,5.89,3.32,Sports,Self Study,School,Yes,100.0
+STU12153,Male,3.81,83.1,84.9,3,6.43,3.85,None,Coaching,School,No,99.5
+STU10310,Male,8.96,61.5,78.0,4,8.64,1.53,Music,Group Study,College,Yes,100.0
+STU10592,Male,6.0,70.0,70.4,10,4.12,4.27,Sports,Coaching,College,Yes,100.0
+STU10463,Female,2.32,81.7,53.1,9,6.35,6.11,Clubs,,College,No,92.7
+STU11000,Female,7.15,85.1,48.6,5,8.48,2.78,None,Self Study,Postgraduate,Yes,100.0
+STU11132,Male,4.97,92.3,70.4,8,,2.88,None,Group Study,College,Yes,100.0
+STU11238,Male,,96.5,49.6,3,6.71,3.33,None,Self Study,Postgraduate,Yes,94.9
+STU10945,Female,6.08,91.3,85.1,4,6.99,3.49,None,Coaching,College,Yes,100.0
+STU10553,Male,6.09,67.2,75.8,10,5.48,5.9,None,Online Course,School,Yes,100.0
+STU10088,Male,5.52,94.9,57.7,7,6.46,3.27,Music,Online Course,College,Yes,100.0
+STU10691,Male,6.13,60.9,93.4,3,7.85,2.09,None,Online Course,College,Yes,100.0
+STU11717,Male,4.33,92.5,61.9,6,6.05,2.31,Volunteering,Online Course,College,Yes,97.4
+STU11421,Male,5.07,81.9,67.5,8,7.22,2.24,,Coaching,School,Yes,100.0
+STU12424,Male,4.63,62.2,70.8,4,,3.17,Volunteering,Online Course,College,,100.0
+STU11640,Female,5.09,81.7,77.8,7,6.85,4.23,Volunteering,Online Course,Postgraduate,Yes,100.0
+STU12292,Male,,40.7,56.1,2,8.41,6.31,None,Coaching,College,Yes,99.9
+STU10801,,3.81,84.6,61.4,3,7.24,1.31,Music,Self Study,College,Yes,95.3
+STU12074,Male,4.98,83.3,68.7,8,6.33,2.17,Sports,Online Course,College,Yes,97.0
+STU10301,Female,8.95,74.9,57.3,4,7.47,2.62,None,Online Course,Postgraduate,Yes,100.0
+STU11992,Female,6.59,67.2,72.7,8,7.45,2.95,Volunteering,Self Study,,Yes,100.0
+STU10544,Male,5.14,72.1,51.1,2,6.77,5.4,Clubs,Self Study,School,Yes,88.1
+STU12124,Male,,88.2,72.9,9,9.88,2.18,None,Group Study,College,Yes,100.0
+STU12228,Female,6.66,65.3,75.6,3,8.91,3.16,None,Group Study,School,Yes,100.0
+STU10495,Female,4.88,72.2,79.0,4,7.25,2.35,Music,Self Study,School,Yes,100.0
+STU10366,Male,8.46,62.9,95.9,8,4.86,1.97,None,Group Study,Postgraduate,Yes,100.0
+STU12270,Other,4.59,97.2,74.6,5,9.44,2.83,None,Online Course,College,Yes,100.0
+STU11574,Female,5.47,95.0,,2,8.51,5.91,Clubs,Group Study,School,Yes,100.0
+STU10274,Female,9.69,76.0,76.3,4,5.66,4.37,None,Online Course,College,Yes,100.0
+STU10789,Male,3.34,73.1,57.8,8,7.76,4.16,None,Self Study,College,Yes,83.7
+STU10072,Female,3.23,85.7,67.3,2,6.58,5.54,Clubs,Self Study,College,Yes,99.7
+STU11265,Female,5.4,77.2,68.7,8,6.37,4.39,None,Online Course,Postgraduate,Yes,100.0
+STU11838,Male,4.98,72.3,60.7,5,6.33,3.07,None,Group Study,College,Yes,90.5
+STU10064,Female,6.67,98.2,64.9,8,8.82,0.67,Music,Self Study,School,No,100.0
+STU10395,Female,6.9,70.1,72.0,2,6.22,1.13,None,Self Study,Postgraduate,Yes,100.0
+STU11481,Female,6.4,81.9,65.0,7,6.83,8.16,Sports,Group Study,College,Yes,100.0
+STU10344,Male,6.33,86.8,39.7,9,3.82,4.31,Volunteering,Self Study,College,Yes,91.6
+STU11753,Female,4.19,83.8,56.8,3,7.33,3.86,Volunteering,Self Study,School,Yes,99.5
+STU11404,Male,4.52,75.2,48.7,5,6.9,6.86,Clubs,Self Study,School,Yes,83.4
+STU10501,Male,,93.0,61.1,8,5.62,1.05,Volunteering,Self Study,College,Yes,100.0
+STU11698,Male,10.25,58.3,61.5,4,5.78,2.66,Clubs,Self Study,School,Yes,100.0
+STU10963,Male,,62.2,90.3,10,7.69,5.85,Music,Self Study,School,Yes,100.0
+STU10678,Female,6.34,80.1,73.4,6,4.83,4.53,None,Self Study,School,Yes,96.4
+STU11049,Male,3.59,68.9,79.6,3,5.62,2.44,Clubs,Self Study,School,Yes,86.1
+STU11913,Female,6.6,87.0,77.6,3,7.3,1.22,Sports,Coaching,College,No,100.0
+STU11552,Female,4.05,76.8,52.8,7,8.25,5.5,Sports,Online Course,School,Yes,98.8
+STU10273,Male,5.31,75.1,59.3,5,7.12,3.64,None,Online Course,College,Yes,100.0
+STU11638,Female,7.45,80.4,70.8,4,9.02,2.32,Music,Online Course,Postgraduate,Yes,100.0
+STU10206,Male,5.4,75.9,64.7,4,6.61,5.57,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10734,Other,5.12,88.4,68.6,8,7.31,1.02,Sports,Self Study,Postgraduate,Yes,100.0
+STU10153,Male,2.15,93.4,68.7,8,6.4,1.96,None,Coaching,College,Yes,100.0
+STU12122,Female,5.59,77.5,70.3,9,8.54,0.0,Sports,Self Study,College,Yes,100.0
+STU10558,Male,3.44,72.3,74.9,9,7.19,4.09,Sports,Group Study,School,Yes,100.0
+STU10378,Female,1.49,71.6,63.6,3,7.5,0.97,Sports,Online Course,School,Yes,98.6
+STU11945,Male,4.74,79.2,69.9,9,5.47,2.13,Volunteering,Online Course,School,Yes,100.0
+STU10536,Female,6.77,83.8,51.8,9,5.31,1.72,None,Self Study,College,Yes,100.0
+STU12297,Male,10.65,82.2,64.9,5,8.03,2.68,None,Group Study,,Yes,100.0
+STU12047,Male,6.82,45.7,76.0,7,7.2,5.61,Music,Online Course,College,Yes,100.0
+STU11600,Male,3.36,75.4,85.7,10,6.57,3.01,Volunteering,Online Course,School,Yes,100.0
+STU10199,Male,5.49,82.7,59.6,6,7.0,1.91,Clubs,Online Course,School,Yes,100.0
+STU10562,Male,6.17,80.4,100.0,9,7.0,21.60441144008915,Volunteering,Coaching,Postgraduate,Yes,100.0
+STU10686,Male,4.54,61.6,43.7,7,5.18,2.87,Sports,,College,Yes,91.1
+STU11658,Male,1.98,94.1,,7,6.19,1.95,Sports,Self Study,Postgraduate,No,94.4
+STU10591,Female,3.06,92.9,68.9,6,7.76,1.41,None,Self Study,School,Yes,100.0
+STU10520,Female,8.76,53.5,54.2,10,6.81,0.57,Clubs,Online Course,School,Yes,100.0
+STU10309,Female,6.67,81.3,86.9,5,5.28,3.68,Volunteering,Coaching,College,Yes,100.0
+STU10605,Male,4.23,77.2,66.8,6,7.19,4.75,Sports,Online Course,School,Yes,100.0
+STU12166,Other,,88.6,78.8,2,9.66,2.9,Volunteering,Online Course,College,Yes,100.0
+STU12108,Female,3.41,93.6,72.8,2,6.72,0.0,None,Coaching,College,Yes,98.1
+STU10060,Male,7.44,,68.5,6,9.02,4.48,Sports,Online Course,School,Yes,100.0
+STU10584,Male,3.36,71.7,53.2,10,6.04,2.8,None,Online Course,School,Yes,100.0
+STU12315,Male,6.49,80.1,61.2,4,,0.56,Clubs,Coaching,College,Yes,100.0
+STU10208,Male,3.06,43.7,54.0,8,,5.75,Music,Self Study,College,No,87.5
+STU12044,Male,3.97,66.4,96.3,2,7.83,2.39,Music,Coaching,College,Yes,100.0
+STU10924,Other,4.36,66.3,51.1,9,8.94,2.17,Clubs,Group Study,College,Yes,100.0
+STU10786,Female,6.0,90.1,92.8,10,6.65,0.0,None,Online Course,Postgraduate,Yes,100.0
+STU11337,Female,6.44,84.9,73.3,7,5.92,1.35,None,Self Study,Postgraduate,Yes,100.0
+STU12439,Female,7.49,86.4,57.6,10,5.38,2.81,None,Coaching,College,Yes,100.0
+STU10793,Male,6.52,72.1,61.8,7,6.31,3.92,None,Self Study,Postgraduate,Yes,
+STU10832,Female,8.62,77.6,70.9,8,3.85,3.02,None,Coaching,Postgraduate,Yes,100.0
+STU10163,Female,9.76,73.8,90.6,4,6.79,3.75,Volunteering,Self Study,College,No,100.0
+STU12319,Other,9.97,85.0,54.9,8,6.99,4.15,None,Coaching,Postgraduate,No,100.0
+STU10527,Male,8.41,86.8,74.4,10,5.89,5.12,None,Self Study,School,Yes,100.0
+STU12034,Female,4.71,60.0,,5,7.14,2.55,Volunteering,Self Study,College,Yes,88.1
+STU10257,Male,6.37,85.7,74.8,6,7.44,4.3,Clubs,Self Study,School,Yes,100.0
+STU10507,Female,10.34,54.3,60.8,10,7.56,5.85,None,Self Study,School,Yes,100.0
+STU12189,Male,9.52,75.7,55.3,5,6.85,1.6,Clubs,Self Study,College,Yes,100.0
+STU12132,Female,10.18,59.2,70.1,9,7.42,3.06,Volunteering,Online Course,School,Yes,100.0
+STU12240,Female,4.89,77.4,63.9,2,5.79,3.73,None,Self Study,School,Yes,78.9
+STU12176,Male,5.6,93.9,87.4,8,,3.1,Clubs,Self Study,College,No,100.0
+STU11564,Female,3.21,70.5,61.7,6,7.98,2.08,None,Coaching,College,Yes,100.0
+STU11915,Female,7.88,76.0,45.2,3,5.98,4.78,Music,Self Study,College,Yes,99.9
+STU11701,Male,3.24,68.3,57.0,4,7.74,5.64,Volunteering,Online Course,Postgraduate,Yes,78.6
+STU10021,Female,,75.4,57.1,8,6.96,,None,Online Course,School,Yes,100.0
+STU11428,Male,7.34,60.9,52.1,6,8.24,3.09,Sports,Online Course,College,Yes,100.0
+STU10440,Female,6.36,69.0,74.8,7,6.55,2.95,None,Coaching,Postgraduate,Yes,100.0
+STU11294,Male,1.24,,60.2,7,7.5,6.39,None,Online Course,School,Yes,88.3
+STU10382,Male,8.12,88.7,58.7,8,6.86,4.69,None,Self Study,School,Yes,100.0
+STU11830,Female,5.05,56.7,48.7,2,6.34,3.9,None,Self Study,College,Yes,89.3
+STU11284,Female,7.09,94.2,51.8,9,6.77,4.45,Sports,Online Course,Postgraduate,Yes,100.0
+STU10539,Male,25.276953721156644,68.0,75.9,5,4.57,3.25,Clubs,Group Study,College,Yes,82.0
+STU11682,Male,3.45,79.0,46.7,8,7.36,1.85,Clubs,self-study,School,Yes,100.0
+STU10941,Other,5.92,100.0,42.2,7,7.78,,None,Group Study,Postgraduate,Yes,100.0
+STU10084,Male,4.74,82.1,64.9,7,9.26,4.4,Music,Coaching,College,Yes,100.0
+STU11243,Male,8.87,57.5,61.2,7,8.51,2.66,None,Online Course,Postgraduate,Yes,100.0
+STU11223,Male,6.32,89.2,68.3,10,6.8,1.93,Clubs,Group Study,School,Yes,100.0
+STU12300,Male,4.89,72.9,69.0,7,6.36,6.57,None,Online Course,School,Yes,93.9
+STU10884,Male,3.16,70.0,,7,,1.38,Clubs,Online Course,School,Yes,100.0
+STU11512,Male,6.6,81.1,58.4,4,7.9,2.84,None,Self Study,College,Yes,100.0
+STU11954,Male,4.19,82.9,77.9,10,9.38,2.52,Sports,Self Study,Postgraduate,Yes,100.0
+STU11775,Female,,82.7,51.7,5,6.23,5.08,Clubs,Coaching,College,Yes,100.0
+STU10887,Male,7.99,77.7,73.2,10,8.54,4.01,Sports,Self Study,School,Yes,100.0
+STU10271,Female,4.06,89.6,80.2,10,,6.36,Music,Online Course,College,No,100.0
+STU11430,Female,6.99,68.9,64.3,3,7.34,1.74,Clubs,Self Study,School,Yes,100.0
+STU11363,Male,2.03,63.8,64.4,6,5.47,2.92,None,,School,Yes,100.0
+STU12072,Female,2.69,97.7,81.5,8,8.35,2.51,None,Online Course,School,No,100.0
+STU12275,Male,5.75,75.2,53.8,10,7.32,3.87,None,Online Course,Postgraduate,Yes,100.0
+STU11623,,7.02,66.0,87.9,2,6.05,2.97,Clubs,Online Course,College,Yes,100.0
+STU10933,Male,7.83,73.9,64.6,6,6.95,1.16,None,Self Study,School,Yes,100.0
+STU11051,Male,3.02,69.1%,57.7,8,5.03,5.86,Sports,,College,Yes,99.7
+STU10430,Female,,74.3,100.0,7,9.02,3.86,Clubs,Self Study,College,Yes,100.0
+STU11345,Male,,79.0,54.2,2,7.43,3.96,Clubs,Self Study,Postgraduate,Yes,90.0
+STU12205,,7.66,86.7,60.7,9,6.06,2.45,None,Coaching,College,Yes,100.0
+STU12216,Female,5.53,97.6,47.3,7,7.42,5.57,None,Self Study,School,Yes,100.0
+STU10459,Female,6.17,80.2,76.7,8,7.68,2.49,Music,Self Study,College,Yes,100.0
+STU10079,Female,6.75,93.2,79.9,10,6.1,,Clubs,Self Study,College,Yes,100.0
+STU12441,Female,5.64,82.4,,2,7.07,6.43,None,Group Study,College,Yes,77.6
+STU11235,Female,6.15,78.9,65.8,8,7.78,,None,Coaching,School,Yes,100.0
+STU10033,Female,4.48,80.9,85.5,10,8.7,2.59,Music,Self Study,College,Yes,100.0
+STU10907,Female,5.05,86.5,68.7,3,7.64,3.24,Sports,Self Study,School,Yes,100.0
+STU11114,Male,5.02,72.4,58.2,5,6.7,,None,Online Course,College,Yes,100.0
+STU12411,Other,3.7,68.7,79.3,8,9.56,1.63,Clubs,Self Study,College,Yes,100.0
+STU12255,Female,7.57,99.4,69.4,7,6.78,4.08,Volunteering,Group Study,College,Yes,100.0
+STU10381,Male,5.72,81.7,85.2,2,7.21,4.54,Music,Coaching,School,Yes,100.0
+STU10227,Female,10.53,67.1,68.7,10,7.61,5.69,None,Self Study,College,Yes,100.0
+STU12023,Male,5.76,76.3,59.6,6,6.59,5.14,Clubs,Group Study,Postgraduate,Yes,100.0
+STU11979,Female,8.65,87.1,95.6,2,4.44,5.75,None,Self Study,College,Yes,100.0
+STU10716,Male,3.07,83.6,64.6,10,5.47,20.11861395802299,Clubs,Group Study,School,Yes,100.0
+STU11770,Other,11.12,75.8,48.4,10,6.79,3.13,Clubs,Self Study,College,Yes,100.0
+STU10687,Female,7.08,66.2,89.5,2,9.45,,Sports,Self Study,College,Yes,100.0
+STU12143,Male,10.91,88.6,55.3,3,6.37,1.98,Clubs,Self Study,College,Yes,100.0
+STU11539,Female,3.64,69.7,64.7,4,7.64,4.32,Music,Self Study,College,Yes,93.1
+STU10306,Male,3.39,,93.3,4,8.41,4.54,Clubs,Self Study,School,Yes,100.0
+STU10210,Other,4.83,76.6,49.3,6,8.62,3.27,Volunteering,Group Study,School,No,92.7
+STU12165,Male,6.71,100.0,68.3,7,7.17,2.84,Sports,Online Course,School,Yes,100.0
+STU12335,Female,4.52,58.6,65.8,5,10.0,4.17,None,Self Study,School,Yes,100.0
+STU12490,Male,5.5,87.9,65.7,4,9.12,4.62,None,Self Study,School,Yes,100.0
+STU12226,Male,5.97,91.6,69.6,5,8.36,3.27,Sports,Online Course,College,Yes,100.0
+STU11961,Male,5.83,82.6,35.0,6,5.55,2.88,Clubs,Self Study,Postgraduate,Yes,100.0
+STU12131,Female,5.7,56.9,68.3,9,5.63,3.83,None,Self Study,College,Yes,100.0
+STU11160,Female,2.66,78.1,81.8,10,8.72,4.22,None,,School,Yes,99.9
+STU12040,Male,6.09,86.3,49.9,3,8.1,4.49,Music,Group Study,School,No,92.8
+STU11424,Male,8.3,86.0,70.9,10,8.22,1.45,None,Coaching,Postgraduate,Yes,100.0
+STU10979,Male,2.67,91.7,60.2,8,7.43,3.06,Clubs,Online Course,School,No,97.5
+STU10192,Female,5.14,65.6,75.2,6,5.69,6.34,Clubs,Self Study,College,Yes,100.0
+STU11943,Female,3.04,77.6,60.1,2,6.18,5.32,None,Self Study,College,Yes,81.3
+STU11722,Male,2.7,84.5,83.7,6,8.15,4.35,Sports,Group Study,Postgraduate,Yes,100.0
+STU12469,Male,6.82,74.0,70.1,7,1.5438761384149227,3.46,None,Online Course,College,Yes,100.0
+STU10484,Female,6.66,81.1,87.8,2,6.21,0.88,None,Online Course,School,Yes,100.0
+STU12395,Male,3.73,67.7,49.2,3,6.63,3.85,Clubs,Online Course,Postgraduate,Yes,90.9
+STU10916,Female,7.82,78.8,72.4,7,7.61,4.89,Sports,Online Course,College,Yes,100.0
+STU11484,Male,6.16,61.6,92.1,10,5.04,2.22,Clubs,Online Course,School,Yes,100.0
+STU10278,Female,3.28,72.4,61.4,3,10.0,3.43,None,Self Study,Postgraduate,Yes,93.4
+STU11162,Male,4.77,82.8,59.1,3,,2.23,Music,,College,Yes,100.0
+STU10222,Female,5.98,93.5,40.3,9,8.38,2.48,Clubs,Self Study,College,Yes,100.0
+STU12288,Male,10.05,78.1,89.6,2,6.8,0.0,Volunteering,Group Study,College,Yes,100.0
+STU10572,Female,5.36,80.5,63.2,6,7.69,4.28,Clubs,Group Study,College,Yes,100.0
+STU10412,Male,0.83,100.0,86.0,2,,3.76,None,Online Course,College,Yes,99.6
+STU11757,Female,8.92,57.2,61.6,6,5.84,3.61,Sports,Group Study,Postgraduate,Yes,100.0
+STU12107,Female,8.3,65.3,73.9,5,4.08,6.61,,Online Course,Postgraduate,Yes,100.0
+STU10980,Male,6.39,78.2,48.4,7,6.75,3.19,Sports,Group Study,,Yes,100.0
+STU10586,Male,9.49,86.9,70.2,5,6.71,8.59,None,Online Course,Postgraduate,Yes,100.0
+STU11229,Female,6.62,81.4,58.7,3,7.76,1.46,Sports,Self Study,College,Yes,100.0
+STU11554,Female,4.77,71.5,66.2,9,,3.63,Music,Self Study,School,Yes,100.0
+STU10433,Male,5.24,92.1,52.8,5,6.12,1.64,Clubs,Online Course,School,Yes,100.0
+STU11778,Male,5.92,75.1,66.7,6,7.87,5.33,Volunteering,Online Course,Postgraduate,Yes,100.0
+STU10675,Female,7.17,87.3,63.4,5,6.36,7.69,None,Self Study,College,Yes,99.7
+STU11200,Male,3.38,63.3,69.9,5,,4.1,None,Coaching,College,Yes,96.9
+STU10856,Female,5.53,45.6,,3,5.19,1.25,Clubs,Self Study,School,Yes,92.9
+STU10448,Female,4.84,83.1,67.5,10,7.28,3.41,Music,Coaching,School,Yes,100.0
+STU11011,Male,3.03,84.1,45.0,2,6.41,3.67,Clubs,Self Study,Postgraduate,Yes,100.0
+STU11478,,2.59,75.0,38.5,6,,6.42,Music,Online Course,College,Yes,72.4
+STU10223,Male,5.85,57.2,87.0,2,8.56,7.24,Music,Self Study,School,Yes,97.2
+STU11750,Male,7.29,95.6,62.8,4,8.99,2.86,Music,Self Study,College,Yes,100.0
+STU12237,Male,5.42,68.6,91.3,3,8.9,3.44,Volunteering,Self Study,School,Yes,100.0
+STU11653,Female,6.57,82.5,56.3,4,5.12,2.95,Clubs,Self Study,College,Yes,97.9
+STU11969,Male,4.64,100.0,100.0,2,7.64,0.5,Sports,Self Study,College,Yes,100.0
+STU12154,Female,3.35,72.6,69.9,7,8.87,0.0,Clubs,Coaching,College,Yes,100.0
+STU10046,Male,5.94,72.2,87.2,7,5.2,2.49,Clubs,Group Study,College,Yes,100.0
+STU12274,Female,7.32,85.8,74.4,8,6.24,5.34,Clubs,Self Study,Postgraduate,Yes,100.0
+STU11035,Female,4.44,83.7,63.8,10,6.77,3.54,Volunteering,Self Study,School,Yes,100.0
+STU10962,Female,5.76,61.0,48.4,10,8.42,1.2,Clubs,Coaching,School,Yes,100.0
+STU10295,Male,5.03,91.2,69.4,5,9.56,4.92,Clubs,Self Study,,Yes,100.0
+STU11270,Female,6.69,87.0,65.2,6,7.1,2.86,Clubs,Online Course,School,Yes,100.0
+STU10989,Female,4.89,79.1,70.5,10,4.87,2.69,Volunteering,Self Study,College,Yes,100.0
+STU10589,Other,5.97,79.8,65.4,3,6.36,1.72,Music,Self Study,School,,100.0
+STU12065,Male,4.88,84.0,90.1,10,7.09,2.84,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10258,Female,4.75,82.0,50.6,4,8.54,1.02,Music,Group Study,College,Yes,100.0
+STU11015,Female,3.41,82.3,55.9,9,5.56,3.5,Music,Coaching,Postgraduate,Yes,100.0
+STU11290,Male,7.15,72.1,56.0,7,8.08,4.48,None,Coaching,Postgraduate,Yes,100.0
+STU10927,Female,5.16,82.6,66.6,7,9.7,0.16,None,Self Study,College,Yes,100.0
+STU12130,Male,,65.6,60.5,5,7.78,1.32,None,Self Study,Postgraduate,Yes,100.0
+STU12376,Male,0.62,72.7,57.8,2,7.02,5.25,,Self Study,College,Yes,71.7
+STU10437,Male,27.218407270715467,56.8,59.8,5,8.99,1.07,None,Online Course,Postgraduate,Yes,95.2
+STU11222,Male,8.08,86.4,63.6,4,6.46,1.21,Volunteering,Self Study,College,No,100.0
+STU11742,Female,8.45,67.8,88.6,8,6.69,0.61,Sports,Self Study,Postgraduate,Yes,100.0
+STU10394,Female,6.42,70.0,56.4,8,4.63,3.33,Clubs,Coaching,College,Yes,100.0
+STU10426,,4.78,88.8,59.2,4,7.51,2.37,None,Self Study,College,Yes,100.0
+STU10535,Female,2.37,91.1,73.0,7,8.7,2.52,Music,Online Course,Postgraduate,Yes,100.0
+STU10031,Female,9.78,91.8,84.3,10,6.58,3.1,Music,Online Course,College,Yes,100.0
+STU11522,Female,0.5,82.3,78.5,8,7.81,0.23,Music,Group Study,School,Yes,100.0
+STU12093,Female,5.76,80.9,79.6,8,7.29,2.94,Sports,Self Study,School,Yes,100.0
+STU11019,Female,4.83,78.2,82.9,8,5.04,2.73,None,Self Study,School,,100.0
+STU10747,Male,9.1,67.9,42.5,2,6.19,3.6,None,Group Study,College,No,89.9
+STU11776,Female,6.09,73.4,83.2,10,6.67,2.49,None,Self Study,College,Yes,100.0
+STU11678,Female,6.23,82.0,62.4,9,6.55,3.74,None,Self Study,College,Yes,100.0
+STU11291,Male,5.84,72.3,60.3,10,5.6,3.17,Music,Coaching,College,Yes,100.0
+STU11519,Female,4.87,74.1,73.8,3,7.04,3.28,Sports,Group Study,College,Yes,93.3
+STU11744,Female,2.88,69.0,88.7,4,7.63,1.38,,Online Course,School,Yes,100.0
+STU12224,Male,3.91,73.7,65.4,3,6.72,2.15,Clubs,Self Study,College,Yes,89.6
+STU11436,Male,5.33,80.5,70.9,10,4.91,6.28,Clubs,Coaching,Postgraduate,Yes,100.0
+STU11591,Female,2.73,100.0,73.4,7,7.8,2.51,Clubs,Self Study,College,No,100.0
+STU12177,Female,6.46,82.6,74.2,2,7.85,3.03,Sports,Online Course,College,,100.0
+STU10345,Male,8.73,70.0,66.9,2,7.59,1.72,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10557,Female,3.99,72.7,71.4,3,8.69,2.67,Clubs,Self Study,College,No,97.5
+STU11447,Female,10.15,93.7,90.7,10,8.3,2.67,Music,Self Study,College,Yes,100.0
+STU11059,Male,5.74,85.0,64.7,8,,2.19,Sports,Self Study,School,Yes,94.8
+STU10681,Male,7.13,66.2,60.6,10,8.82,3.07,Sports,Coaching,Postgraduate,Yes,100.0
+STU12241,Male,7.96,74.8,83.4,2,6.21,3.18,Clubs,Self Study,College,Yes,100.0
+STU11414,Female,8.02,62.2,63.6,8,8.0,1.57,Sports,Group Study,Postgraduate,Yes,100.0
+STU10571,Female,2.6,88.3,80.1,6,5.9,2.95,None,Self Study,Postgraduate,Yes,100.0
+STU10353,Female,4.36,94.4,81.9,10,6.11,1.85,Clubs,Online Course,College,Yes,100.0
+STU10092,Other,5.3,100.0,74.7,5,5.21,7.78,Volunteering,Online Course,School,Yes,100.0
+STU12118,,5.72,66.0,52.0,5,5.65,3.5,None,Online Course,School,Yes,96.4
+STU11062,Female,8.41,79.4,55.8,7,7.69,6.83,None,Online Course,Postgraduate,Yes,100.0
+STU11048,Male,6.59,90.6,60.5,5,7.29,3.88,Sports,Online Course,College,Yes,100.0
+STU12261,Male,0.75,80.2,69.0,6,7.34,4.09,Music,Coaching,College,Yes,90.3
+STU12095,Female,5.69,87.1,72.6,10,6.99,3.9,Clubs,Coaching,School,Yes,100.0
+STU10349,Female,2.34,87.4,75.1,9,5.71,4.52,Music,Online Course,Postgraduate,Yes,100.0
+STU11111,Male,8.47,85.7,64.2,3,7.09,2.8,Music,Coaching,Postgraduate,Yes,100.0
+STU11877,Female,6.96,59.8,55.7,9,6.88,4.49,Music,Group Study,Postgraduate,Yes,100.0
+STU11272,Female,8.4,61.9,39.6,2,6.78,3.46,None,Coaching,College,Yes,88.8
+STU11500,Male,3.14,63.0,99.2,5,5.49,3.44,None,Online Course,Postgraduate,Yes,100.0
+STU12381,Female,4.95,71.5,67.0,2,7.94,6.32,Volunteering,Self Study,College,Yes,96.8
+STU12367,Male,,67.2,61.8,8,6.35,3.02,None,Coaching,Postgraduate,Yes,100.0
+STU12081,Male,6.31,73.8,85.2,8,6.09,5.01,Sports,Self Study,Postgraduate,No,100.0
+STU10454,Female,9.65,47.8,53.6,9,6.46,3.42,Music,Online Course,School,Yes,100.0
+STU10914,Male,,73.7,65.9,5,6.57,3.72,None,Coaching,School,Yes,99.8
+STU11422,Male,5.08,74.2,77.0,8,7.54,3.73,Music,Group Study,School,Yes,100.0
+STU10038,Female,3.82,58.5,,6,7.33,4.99,Volunteering,Online Course,School,Yes,93.9
+STU10975,Female,3.5,62.3,86.3,3,7.71,6.74,None,Online Course,College,Yes,100.0
+STU11767,Female,3.07,68.4,94.2,5,7.71,4.62,Clubs,Coaching,Postgraduate,Yes,100.0
+STU12432,Male,7.56,67.1,86.9,9,8.12,1.23,Sports,Coaching,Postgraduate,Yes,100.0
+STU10040,,6.8,85.6,52.3,3,7.16,0.59,None,Self Study,School,Yes,99.9
+STU11261,Female,7.5,72.7,60.1,2,7.87,1.57,Music,Self Study,Postgraduate,Yes,100.0
+STU12036,Female,6.97,82.4,51.0,6,5.4,3.79,Sports,Self Study,Postgraduate,Yes,100.0
+STU12419,Female,6.73,81.4,63.9,7,5.35,3.18,Sports,Online Course,School,Yes,100.0
+STU11103,Male,6.7,61.3,60.2,7,6.58,4.75,Sports,Online Course,College,,100.0
+STU11341,Female,3.9,61.4,64.6,9,7.18,3.96,Sports,Coaching,College,Yes,100.0
+STU10635,Male,4.88,71.7,67.9,9,10.0,3.79,Clubs,Online Course,School,Yes,100.0
+STU12117,Male,5.63,44.3,70.7,8,6.14,1.23,Music,Self Study,Postgraduate,,100.0
+STU10580,Male,6.23,90.6,82.4,9,6.82,0.76,Music,Online Course,School,Yes,100.0
+STU11559,Male,7.12,85.1,61.7,2,8.54,6.15,None,Online Course,College,Yes,99.8
+STU10893,Female,4.68,68.5,96.0,3,6.34,4.23,None,Self Study,Postgraduate,Yes,100.0
+STU10781,Male,5.4,98.9,,9,6.96,2.36,Sports,Self Study,Postgraduate,Yes,100.0
+STU10160,Male,3.13,83.4,38.4,8,6.34,2.05,Sports,Self Study,School,Yes,94.9
+STU11099,Female,,56.7,82.0,10,5.39,4.16,None,Self Study,Postgraduate,Yes,100.0
+STU11174,Male,3.5,54.8,51.2,8,7.3,4.72,None,Group Study,School,No,77.1
+STU10062,Male,4.83,78.6,79.2,9,6.58,0.57,Sports,Online Course,Postgraduate,Yes,100.0
+STU10850,Female,7.44,67.0,67.5,4,8.85,3.84,None,Online Course,School,Yes,100.0
+STU11568,Male,5.82,77.1,53.8,6,7.7,4.11,Clubs,Group Study,College,Yes,100.0
+STU12422,Female,4.94,87.9,65.9,4,6.44,4.12,Music,Self Study,School,Yes,99.3
+STU11044,Male,5.7,82.9,49.2,7,8.42,5.91,Sports,Self Study,College,Yes,98.1
+STU11419,Female,7.44,,94.5,7,6.76,4.14,None,Self Study,College,Yes,100.0
+STU12185,Male,2.02,70.2,70.9,2,9.09,0.17,None,Group Study,College,Yes,88.8
+STU10054,Male,4.86,53.0,57.8,4,7.53,2.8,Sports,Self Study,School,Yes,94.4
+STU11570,Male,2.33,51.4,50.6,9,,0.87,Music,Coaching,School,Yes,90.2
+STU10506,Female,4.41,72.4,54.8,7,4.35,3.35,Music,Self Study,Postgraduate,Yes,100.0
+STU10753,Male,3.47,61.1,83.6,7,6.68,5.15,None,Group Study,School,Yes,97.2
+STU12388,Male,6.84,97.1,70.8,8,7.31,4.97,None,Coaching,College,Yes,100.0
+STU11445,Male,5.21,92.8,68.5,8,6.46,4.07,Clubs,Online Course,College,No,99.5
+STU11415,,8.24,51.2,45.6,5,7.23,4.85,Sports,Online Course,College,Yes,99.9
+STU11081,Male,5.99,85.7,56.6,3,7.27,2.79,Volunteering,Group Study,School,Yes,98.2
+STU12061,Male,2.61,85.7,82.9,7,6.61,4.17,Volunteering,Online Course,School,Yes,100.0
+STU10772,Female,8.22,74.1,76.2,4,5.73,0.98,Clubs,Self Study,College,Yes,100.0
+STU12350,Male,7.0,78.3,76.7,5,7.22,4.13,None,Self Study,Postgraduate,No,100.0
+STU12246,Female,4.26,81.0,74.5,9,8.8,4.15,Sports,Online Course,Postgraduate,Yes,100.0
+STU11673,Male,5.77,78.9,51.4,6,5.12,2.93,Music,Online Course,Postgraduate,Yes,100.0
+STU11212,Female,4.52,86.0,85.0,6,5.25,6.24,None,Online Course,School,Yes,100.0
+STU11350,,5.28,141.58466828481912,68.1,10,8.83,3.01,Volunteering,Online Course,School,Yes,100.0
+STU11191,Female,8.56,86.6,65.6,5,6.39,3.43,None,Self Study,Postgraduate,Yes,100.0
+STU11562,Male,,90.8,43.6,6,6.53,2.52,None,Coaching,,Yes,95.6
+STU12144,Female,,77.8,,5,5.42,6.16,,Self Study,Postgraduate,Yes,100.0
+STU10964,Female,5.28,61.4,67.1,3,8.25,4.26,Clubs,Online Course,Postgraduate,Yes,100.0
+STU11179,Female,6.23,69.8,31.5,9,6.93,3.46,None,Coaching,College,Yes,97.6
+STU10399,Female,6.56,67.6,43.3,9,6.33,2.96,Sports,Self Study,School,Yes,100.0
+STU10585,Female,6.93,72.4,60.3,5,5.78,4.08,Volunteering,Group Study,College,Yes,100.0
+STU10949,Female,6.27,71.5,82.7,7,7.51,2.52,,Self Study,School,Yes,100.0
+STU10705,Male,7.6,83.1,54.1,3,6.5,2.48,Clubs,Coaching,Postgraduate,Yes,100.0
+STU10432,Male,6.45,88.4,72.4,10,8.54,3.37,Clubs,Online Course,,Yes,100.0
+STU10293,Female,8.44,68.6,72.7,5,7.49,3.48,None,Coaching,School,Yes,100.0
+STU11878,Female,9.12,76.4,,2,8.04,6.43,Clubs,Self Study,College,Yes,98.5
+STU11468,Male,2.78,65.5,70.0,4,7.63,3.73,Sports,,College,Yes,91.4
+STU11947,Male,4.0,83.1,,4,6.7,7.05,None,Self Study,Postgraduate,Yes,100.0
+STU10003,Male,,90.1,58.2,7,7.8,1.99,Sports,Coaching,Postgraduate,Yes,100.0
+STU10577,Male,8.17,77.9,73.7,8,6.25,3.95,Music,Self Study,Postgraduate,Yes,100.0
+STU11816,Other,4.58,77.4,68.6,2,,2.28,Clubs,,Postgraduate,Yes,96.0
+STU10340,Other,6.72,78.9,83.8,3,8.82,3.7,None,Self Study,College,Yes,100.0
+STU12178,Male,,87.6,66.5,3,6.01,1.13,None,Self Study,College,Yes,100.0
+STU10926,Female,9.26,82.5,54.6,2,7.85,2.63,Clubs,Coaching,College,Yes,100.0
+STU10266,Male,7.53,69.7,66.5,6,8.71,2.59,None,Online Course,Postgraduate,Yes,100.0
+STU10377,Male,5.09,62.1,67.8,10,6.01,2.38,Music,Coaching,College,Yes,100.0
+STU10272,Female,6.13,84.9,83.5,4,7.12,3.46,None,Self Study,College,Yes,100.0
+STU10697,Male,0.86,62.4,71.5,8,5.6,3.2,Clubs,Self Study,School,Yes,91.0
+STU11643,Male,0.67,81.4,60.1,4,7.48,3.51,Clubs,Self Study,College,Yes,71.5
+STU10245,Male,9.76,90.2,82.8,10,6.92,3.02,Sports,Group Study,School,Yes,100.0
+STU11553,Female,4.34,82.8,64.4,5,6.59,5.11,,Self Study,School,Yes,100.0
+STU10477,Male,7.63,68.6,55.7,2,6.44,4.44,Volunteering,Self Study,School,Yes,100.0
+STU11201,Male,2.85,77.4,88.9,5,7.0,5.65,Volunteering,Coaching,School,Yes,94.5
+STU12031,Female,8.12,88.9,65.5,6,5.85,5.85,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU11308,Male,7.97,79.9,63.2,3,5.06,4.27,None,Online Course,Postgraduate,Yes,100.0
+STU11188,Male,6.23,83.1,68.9,6,5.83,0.4,Music,Coaching,School,Yes,100.0
+STU11323,Male,5.46,77.2,69.4,3,6.88,2.17,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10251,Other,,82.7,66.6,8,,3.72,None,Group Study,Postgraduate,Yes,100.0
+STU10414,Female,,51.2,81.0,3,8.16,6.98,Sports,Group Study,School,Yes,100.0
+STU11724,Female,9.35,63.7,48.4,8,6.02,2.75,Sports,Online Course,College,Yes,100.0
+STU11675,Female,5.05,65.1,95.9,5,6.68,4.87,Clubs,Online Course,College,Yes,100.0
+STU10311,Male,7.85,70.4,54.2,8,5.81,2.01,None,Online Course,Postgraduate,No,100.0
+STU10894,Female,5.58,65.4,84.6,9,7.25,3.89,Clubs,Self Study,College,Yes,100.0
+STU12496,Female,9.92,90.9,89.1,9,4.64,3.07,None,Coaching,School,Yes,100.0
+STU10016,Female,3.78,71.0,62.1,4,5.44,2.97,None,Self Study,College,Yes,92.8
+STU10722,Female,7.76,79.0,79.2,10,5.94,4.56,Music,Group Study,School,Yes,100.0
+STU12202,Male,5.15,72.1,78.3,7,7.2,4.64,Volunteering,,School,Yes,100.0
+STU10982,Female,2.44,88.7,89.0,7,6.6,1.82,None,Self Study,Postgraduate,Yes,100.0
+STU12116,Female,4.98,97.9,66.4,7,6.01,0.83,,Coaching,School,Yes,100.0
+STU12000,Male,9.93,72.0,74.6,9,6.85,5.31,Sports,Self Study,Postgraduate,Yes,100.0
+STU10364,Male,3.38,100.0,63.5,7,7.22,5.37,None,Online Course,College,Yes,100.0
+STU11592,Male,,78.7,92.1,9,7.48,1.46,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10183,Male,4.68,,67.2,7,7.94,0.47,None,,College,Yes,100.0
+STU10986,Male,6.76,91.0,76.0,5,6.74,3.71,None,Self Study,Postgraduate,Yes,100.0
+STU11411,Female,4.66,94.2,92.6,5,,0.0,,Coaching,Postgraduate,Yes,100.0
+STU12011,Female,2.97,74.9,47.6,3,5.43,6.31,Sports,Coaching,School,Yes,78.4
+STU11187,Female,4.87,63.4,71.2,6,7.52,1.46,None,Online Course,College,Yes,100.0
+STU11122,Male,,70.5,82.0,2,6.98,1.01,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10188,Female,3.05,75.1,68.0,8,6.81,5.3,None,Coaching,College,Yes,100.0
+STU10620,Female,8.4,63.0,74.6,3,7.01,0.9,Clubs,Online Course,School,No,100.0
+STU11309,Other,0.5,76.8,85.7,3,5.74,,None,Online Course,College,Yes,80.3
+STU10615,Male,3.89,81.4,78.8,6,6.75,2.02,None,Self Study,School,,100.0
+STU11524,Female,5.12,59.5,76.5,2,6.57,4.77,Clubs,Group Study,,Yes,100.0
+STU10995,Female,5.28,,54.5,6,4.54,3.73,Clubs,Self Study,,Yes,98.9
+STU10935,Male,6.12,62.6,45.8,4,6.67,2.45,Clubs,Self Study,Postgraduate,Yes,98.5
+STU10372,Male,8.16,69.9,72.3,4,6.94,3.4,Clubs,Self Study,College,Yes,100.0
+STU11362,Female,7.33,86.6,93.9,8,5.89,5.91,Sports,Group Study,College,Yes,100.0
+STU10594,Female,2.2,68.6,73.5,10,4.75,3.16,None,Group Study,College,Yes,84.7
+STU10727,Male,6.07,67.0,44.1,10,8.57,4.52,Clubs,Online Course,Postgraduate,Yes,100.0
+STU11869,Female,4.76,76.4,47.8,3,7.36,2.67,None,Coaching,School,Yes,93.6
+STU10688,Female,8.5,69.3,87.2,7,5.8,3.67,Volunteering,Self Study,,No,100.0
+STU12500,Other,7.96,67.3%,42.9,3,6.75,20.060248395635348,Clubs,Self Study,School,Yes,100.0
+STU10137,Female,6.13,74.0,73.8,2,9.46,0.84,None,Self Study,College,Yes,100.0
+STU10629,Female,3.42,69.3,77.4,2,6.62,5.27,Clubs,,College,Yes,93.2
+STU10335,Female,5.57,83.9,83.4,2,7.51,3.07,None,Online Course,College,Yes,100.0
+STU11504,Male,6.16,100.0,78.6,10,7.1,0.82,Music,Online Course,Postgraduate,Yes,100.0
+STU11881,Female,6.95,100.0,44.1,7,7.51,0.23,Music,Self Study,College,Yes,100.0
+STU11110,Male,7.18,77.5,57.9,10,6.54,3.17,Sports,Coaching,College,Yes,100.0
+STU11226,Female,6.55,94.6,63.8,5,8.23,7.07,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU11812,Male,1.55,78.5,61.5,9,6.18,7.57,None,Group Study,College,Yes,86.9
+STU10711,Male,5.47,78.5,80.1,7,8.19,3.85,Clubs,,School,Yes,100.0
+STU11040,Female,6.85,68.2,78.6,5,3.96,1.87,Music,Coaching,School,Yes,100.0
+STU11331,Female,1.74,66.4,88.2,8,6.03,4.27,None,Self Study,Postgraduate,Yes,100.0
+STU11469,Male,2.65,70.6,100.0,2,8.04,2.14,None,Online Course,Postgraduate,Yes,100.0
+STU12310,Female,6.02,77.2,64.1,3,5.51,2.24,,Self Study,College,Yes,100.0
+STU11113,Other,3.2,71.0,70.0,4,6.72,2.18,Clubs,Self Study,College,Yes,88.6
+STU10466,Male,4.58,58.8,74.8,5,7.01,6.84,Volunteering,Group Study,School,Yes,100.0
+STU11383,Male,4.87,81.9,78.2,5,9.76,3.68,None,Self Study,College,Yes,100.0
+STU12484,Male,5.43,100.0,25.8,5,7.76,2.22,,Self Study,School,No,97.3
+STU11880,Female,2.25,62.1,69.7,4,,1.86,Sports,Group Study,Postgraduate,Yes,84.8
+STU11105,Male,3.31,78.8,72.3,8,6.46,3.84,None,Self Study,College,Yes,89.1
+STU11692,Female,2.35,87.9,74.1,3,9.15,2.01,Sports,Coaching,School,Yes,100.0
+STU12026,Male,2.56,63.8,88.9,3,5.5,4.35,None,Self Study,College,Yes,85.9
+STU11998,Female,5.32,52.2,53.4,3,6.48,2.37,Clubs,Self Study,College,Yes,85.4
+STU12103,Female,4.07,77.4,76.0,2,6.43,3.63,None,Online Course,School,Yes,91.9
+STU11667,Female,5.95,64.3,62.1,6,7.64,2.51,Music,Self Study,College,Yes,98.1
+STU11193,Male,4.99,54.7,49.4,2,9.26,0.0,None,Self Study,School,Yes,96.9
+STU12110,Male,5.92,148.78240709400893,75.9,7,7.95,0.25,Clubs,Group Study,College,Yes,100.0
+STU10817,Male,4.7,76.1,71.8,2,6.33,1.59,,Online Course,College,Yes,95.3
+STU11068,Female,6.41,63.7,78.1,4,6.76,0.41,None,Group Study,School,Yes,99.8
+STU10275,Female,8.65,72.9,58.7,7,7.12,3.32,None,Coaching,School,Yes,100.0
+STU11727,Male,3.62,82.8,83.5,5,6.71,2.06,None,Online Course,School,Yes,100.0
+STU10866,Male,7.16,62.6,44.9,8,6.96,2.66,Sports,Coaching,College,Yes,100.0
+STU10102,Male,8.1,94.9,90.5,5,7.82,2.32,Clubs,Self Study,School,Yes,100.0
+STU11565,Male,3.62,80.2,85.7,8,8.2,4.35,Sports,Coaching,School,Yes,100.0
+STU10108,Male,4.82,75.6,62.7,6,5.02,0.54,Sports,Coaching,Postgraduate,Yes,95.9
+STU10171,Male,4.19,86.3,78.2,9,6.87,1.83,None,Coaching,College,Yes,100.0
+STU11507,Male,1.29,74.2,60.2,8,7.32,5.45,Sports,Coaching,College,Yes,100.0
+STU11986,Male,4.92,70.3,73.6,8,7.41,3.87,Sports,Self Study,College,Yes,100.0
+STU11245,Female,7.59,100.0,89.7,2,6.8,3.54,Music,Group Study,College,Yes,100.0
+STU11392,Male,8.45,61.0,48.4,2,7.5,2.86,Clubs,Self Study,School,Yes,97.4
+STU11741,Female,4.72,78.4,48.8,9,6.88,4.25,Music,Self Study,Postgraduate,,97.1
+STU11870,Male,5.97,86.8,83.2,7,6.82,1.44,Music,Coaching,College,Yes,100.0
+STU12425,Male,5.7,61.0,,9,6.39,2.55,Volunteering,,College,Yes,100.0
+STU10713,Male,3.43,86.4,73.4,9,6.88,4.85,None,Online Course,College,Yes,100.0
+STU10073,Male,3.66,95.7,94.8,7,7.92,4.94,Music,Self Study,College,Yes,100.0
+STU11826,Male,6.85,72.7,84.4,5,,2.97,Volunteering,Group Study,College,Yes,100.0
+STU12415,Female,7.72,92.4,43.5,3,7.52,3.19,Clubs,Self Study,School,Yes,100.0
+STU10482,Male,8.37,96.5,60.5,5,6.47,2.84,Music,Self Study,College,Yes,100.0
+STU11691,Male,4.43,90.0,64.5,10,4.19,3.19,Clubs,Self Study,Postgraduate,No,100.0
+STU12001,Male,4.6,60.1,47.5,8,5.65,1.2,None,Online Course,College,Yes,96.3
+STU11172,Female,1.68,84.3,42.1,10,6.34,3.66,None,Online Course,College,Yes,100.0
+STU12049,Male,5.7,79.6,71.8,6,6.41,2.56,Volunteering,Group Study,School,Yes,100.0
+STU11458,Male,5.68,89.8,71.7,9,6.42,0.65,None,Online Course,Postgraduate,Yes,100.0
+STU10406,Male,4.97,78.5,84.2,7,7.76,,None,Self Study,School,Yes,100.0
+STU10758,Male,7.21,97.7,65.4,3,7.64,3.03,Sports,Self Study,College,Yes,100.0
+STU11386,Female,,78.7,97.0,5,6.13,3.34,Sports,Self Study,School,Yes,100.0
+STU11645,Other,2.52,95.0,59.7,6,5.36,6.3,None,Self Study,Postgraduate,Yes,96.8
+STU12294,Male,4.65,76.8,,7,7.03,5.84,Clubs,Online Course,School,Yes,100.0
+STU11794,Female,4.9,93.4,57.9,2,8.62,4.52,Volunteering,Self Study,College,Yes,91.3
+STU10744,Male,1.78,81.1,77.2,8,5.75,4.11,Music,Online Course,School,Yes,100.0
+STU10807,Male,,83.8,54.5,3,6.79,0.0,None,Self Study,School,Yes,100.0
+STU12320,Female,4.96,61.5,64.1,9,7.26,2.76,Volunteering,Self Study,College,Yes,100.0
+STU11919,Female,4.87,82.4,63.3,7,7.38,1.52,Volunteering,,College,Yes,100.0
+STU11923,Female,1.66,60.9,65.2,5,4.21,3.17,None,Online Course,College,Yes,88.6
+STU11457,Other,10.1,68.9,69.8,4,5.58,5.83,Music,Self Study,Postgraduate,,100.0
+STU10149,Male,7.63,81.5,68.0,8,7.31,2.38,None,Coaching,Postgraduate,Yes,100.0
+STU11317,Other,5.09,77.2,67.1,3,6.57,6.52,None,Group Study,College,Yes,97.1
+STU11460,Male,6.21,68.1,80.7,10,5.56,3.14,None,Online Course,Postgraduate,Yes,100.0
+STU10693,Female,7.4,79.0,64.2,9,6.01,3.6,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10819,Male,6.05,91.6,74.1,6,8.23,3.18,Clubs,Coaching,College,Yes,100.0
+STU12123,Male,3.88,78.8,45.0,2,8.25,5.21,None,Coaching,School,Yes,99.3
+STU11466,Female,5.58,68.4,50.7,2,7.54,1.2,Sports,Coaching,Postgraduate,Yes,95.2
+STU11740,Other,5.72,85.7,53.9,8,7.35,4.48,Clubs,Online Course,School,Yes,100.0
+STU10702,Male,5.01,92.0,84.0,6,,1.75,Music,Self Study,College,Yes,100.0
+STU12223,Female,5.67,77.4,76.1,4,8.01,7.4,Sports,Self Study,School,No,100.0
+STU10922,Female,3.77,76.6,91.9,3,7.66,2.77,Volunteering,Self Study,College,Yes,100.0
+STU10906,Male,9.62,63.0,64.6,4,7.0,2.59,,Self Study,College,Yes,100.0
+STU10455,Male,5.64,52.5,57.8,10,8.26,1.21,Music,self-study,School,Yes,100.0
+STU11509,Male,9.5,67.9,58.9,8,7.23,7.01,None,Self Study,Postgraduate,Yes,100.0
+STU11819,,6.47,66.6,69.9,10,8.24,6.19,Clubs,Group Study,School,Yes,100.0
+STU11955,Female,5.93,85.1,65.1,9,7.01,2.22,None,Online Course,School,Yes,100.0
+STU10168,Male,6.27,74.7,52.6,2,8.52,3.67,Clubs,Online Course,College,Yes,100.0
+STU10731,Female,6.4,72.6,37.8,10,6.58,8.65,Clubs,Self Study,College,Yes,98.6
+STU11602,Female,7.77,80.1,63.7,2,6.8,4.49,Volunteering,Group Study,College,Yes,100.0
+STU10027,Female,6.56,77.2,66.3,10,8.04,4.09,None,,College,Yes,100.0
+STU12430,Male,9.14,90.7,82.7,10,6.49,0.13,Sports,Coaching,School,Yes,100.0
+STU11547,Other,1.94,76.0,67.6,2,6.66,2.59,Sports,Self Study,School,Yes,85.6
+STU10998,Male,5.74,91.0,90.6,10,4.89,0.0,Clubs,Self Study,College,Yes,100.0
+STU11177,Male,3.98,65.4,57.3,7,6.88,3.7,Music,Online Course,Postgraduate,,100.0
+STU11041,Female,3.59,80.1,97.9,8,7.5,5.33,Sports,Self Study,Postgraduate,Yes,100.0
+STU11646,Male,5.61,55.9,68.3,9,6.27,3.99,Music,Online Course,College,Yes,100.0
+STU11456,Female,5.27,54.0,58.7,2,7.4,3.55,Music,Group Study,School,Yes,92.0
+STU11914,Male,0.5,69.0,97.9,4,8.5,6.72,Sports,Coaching,Postgraduate,Yes,100.0
+STU10042,Female,6.59,82.9,56.5,6,7.0,4.91,Volunteering,Self Study,College,YES,100.0
+STU11267,Female,,89.1,74.0,10,6.25,2.44,None,Self Study,College,Yes,100.0
+STU11651,Male,4.49,73.2,79.5,9,8.09,6.44,Sports,Online Course,College,Yes,98.5
+STU11731,Female,5.32,91.9,80.9,4,8.24,3.23,Clubs,Self Study,College,Yes,100.0
+STU11399,Other,6.65,70.4,53.6,3,6.29,4.49,Sports,Coaching,Postgraduate,Yes,100.0
+STU11279,Male,6.23,77.1,81.6,9,8.76,2.62,Music,Online Course,School,Yes,100.0
+STU10610,Female,6.58,68.2,74.6,10,5.95,3.85,Sports,Online Course,School,No,100.0
+STU11133,Female,4.13,70.2,80.5,7,7.18,3.83,None,Coaching,College,Yes,100.0
+STU12029,Female,5.91,69.6,,4,7.82,4.85,None,Self Study,College,Yes,91.7
+STU10442,Female,6.16,93.2,49.4,9,8.11,2.94,Sports,Self Study,College,Yes,100.0
+STU11376,Male,6.23,82.8,70.0,7,4.94,4.94,None,Self Study,Postgraduate,Yes,100.0
+STU11603,Female,8.03,68.7,77.0,4,8.0,0.13,Music,Online Course,School,Yes,100.0
+STU10494,Other,6.41,100.0,60.4,3,6.96,2.77,,Coaching,School,No,100.0
+STU11908,Male,5.79,80.9,68.5,4,6.11,2.83,None,Online Course,School,Yes,96.5
+STU10237,Female,1.21,,55.6,8,9.26,0.29,Sports,Self Study,College,Yes,91.6
+STU10552,Male,6.61,66.8,65.8,8,6.79,5.79,None,Self Study,College,Yes,100.0
+STU10521,Male,3.56,63.3,77.5,2,8.56,3.85,None,Self Study,College,Yes,84.8
+STU11689,Female,5.22,69.3,88.9,5,4.94,2.81,Sports,Self Study,College,Yes,100.0
+STU11233,Female,3.13,100.0,66.6,7,7.01,2.85,Sports,Self Study,School,Yes,100.0
+STU11139,Male,5.32,80.8,66.1,6,4.63,1.18,Music,Coaching,College,Yes,100.0
+STU10721,Male,5.31,95.1,70.1,4,6.01,2.33,Music,Group Study,College,Yes,100.0
+STU11934,Female,8.09,82.5,70.7,3,5.46,4.53,Sports,Self Study,College,Yes,100.0
+STU12220,Female,2.53,79.9,55.7,6,6.93,4.28,Volunteering,Coaching,College,Yes,95.5
+STU10059,Female,3.77,95.2,69.0,2,8.97,5.35,None,Online Course,School,Yes,85.2
+STU10632,Male,10.6,70.0,89.3,4,6.39,3.87,Clubs,Self Study,College,Yes,100.0
+STU11182,Male,7.21,84.7,79.8,8,6.71,3.17,None,Self Study,School,No,100.0
+STU11855,Male,6.45,65.7,62.1,7,6.33,3.96,None,Coaching,College,Yes,97.8
+STU10593,Male,9.14,89.2,81.1,5,,2.65,Music,Self Study,Postgraduate,Yes,100.0
+STU12188,Male,4.56,60.0,77.9,7,5.55,2.1,Sports,Self Study,School,Yes,100.0
+STU10940,Female,7.23,100.0,76.6,9,8.14,3.92,None,Coaching,College,Yes,100.0
+STU12421,Female,1.78,74.0,71.0,7,5.31,0.78,Clubs,Coaching,College,Yes,100.0
+STU11250,Female,2.38,93.6,,4,6.19,3.24,Music,Online Course,School,Yes,98.8
+STU10905,Female,4.26,59.8,92.1,4,7.2,3.88,Clubs,Coaching,College,Yes,100.0
+STU11973,Female,5.71,99.4,51.6,6,6.24,0.71,None,Online Course,College,Yes,100.0
+STU12410,Male,4.43,76.9,71.4,8,6.66,5.39,Sports,Self Study,,No,100.0
+STU11566,Male,4.23,146.79104738606713,76.3,5,6.69,3.32,Sports,Self Study,School,Yes,100.0
+STU12248,Male,4.01,63.2,74.0,9,8.25,1.97,Volunteering,Online Course,,Yes,100.0
+STU11883,Male,4.59,83.7,79.1,4,6.7,1.94,Clubs,Coaching,College,Yes,100.0
+STU11938,Female,3.18,87.8,60.3,3,7.03,2.08,Clubs,Group Study,Postgraduate,Yes,100.0
+STU10707,Other,3.68,83.8,82.2,7,7.83,1.73,Sports,Self Study,School,Yes,100.0
+STU11023,Female,6.32,74.3,65.9,6,6.69,,Clubs,,School,Yes,100.0
+STU10746,Female,7.36,,,9,8.36,5.47,Sports,Self Study,School,Yes,100.0
+STU11856,Female,4.12,69.0,68.2,3,8.84,6.93,Clubs,Self Study,Postgraduate,Yes,90.5
+STU11450,Female,4.31,77.5,88.5,6,6.44,0.48,None,Online Course,,Yes,100.0
+STU10514,Male,5.33,79.4,59.3,6,7.74,4.93,Sports,Self Study,Postgraduate,Yes,100.0
+STU10082,Female,4.18,89.6,59.1,4,7.58,5.21,Music,Coaching,School,Yes,85.5
+STU12227,Male,5.8,74.1,50.3,3,6.23,0.84,Sports,Self Study,College,No,100.0
+STU10915,Female,7.47,64.7,75.4,8,6.32,1.71,Clubs,Online Course,College,Yes,100.0
+STU12313,Female,8.24,77.8,68.3,10,5.73,3.76,Music,Coaching,School,Yes,100.0
+STU12311,Male,7.15,78.8,56.0,5,,2.74,Music,Self Study,College,Yes,100.0
+STU10151,Female,5.18,65.3,90.8,8,6.44,2.13,Sports,Coaching,School,Yes,100.0
+STU10775,Female,5.52,55.0,100.0,9,5.53,1.27,Sports,Online Course,College,Yes,100.0
+STU10330,Male,4.46,100.0,75.8,9,6.12,2.69,Music,Self Study,School,Yes,100.0
+STU10007,Male,5.76,96.3,44.9,2,6.7,2.84,Clubs,Coaching,College,Yes,100.0
+STU10944,Female,7.9,73.5,29.1,4,4.96,0.51,Sports,Self Study,College,Yes,91.1
+STU12214,Female,9.06,67.4,62.2,8,9.73,,None,Coaching,College,Yes,100.0
+STU10735,Female,6.06,72.2,63.3,8,,5.85,Music,Group Study,School,Yes,100.0
+STU10910,Female,3.35,77.5,87.1,4,6.38,4.55,Clubs,Group Study,Postgraduate,Yes,100.0
+STU10469,Female,7.71,100.0,73.2,8,5.33,4.7,None,Online Course,College,Yes,100.0
+STU10182,Male,5.94,75.3,66.9,9,,3.65,Clubs,Online Course,College,Yes,100.0
+STU10165,Female,7.18,72.9,55.3,10,5.51,2.41,Volunteering,Self Study,College,Yes,100.0
+STU10452,Female,6.2,87.1,55.8,5,,5.19,Music,Group Study,College,Yes,100.0
+STU10491,Male,7.67,85.7,64.4,9,7.18,0.05,None,Self Study,School,Yes,100.0
+STU11420,Male,5.56,82.7,66.7,6,10.0,,None,Group Study,College,Yes,100.0
+STU11144,Female,4.41,70.2,67.4,8,7.28,1.83,None,Online Course,College,Yes,97.9
+STU12384,Male,4.47,74.7,61.9,3,6.96,0.0,None,Self Study,College,Yes,99.5
+STU11112,Female,4.96,68.8,65.0,10,7.67,5.83,,Self Study,College,Yes,98.3
+STU12498,Female,1.11,87.4,71.1,10,7.37,1.65,None,Self Study,College,Yes,100.0
+STU11335,Female,6.32,95.2,45.3,6,4.35,5.46,Volunteering,,Postgraduate,Yes,100.0
+STU11511,Male,5.64,82.3,58.9,2,7.64,6.63,Volunteering,Group Study,School,No,96.2
+STU11739,Male,3.86,77.1,59.7,5,7.84,5.04,Volunteering,Self Study,School,No,90.7
+STU11785,Male,6.88,73.1,62.9,2,7.6,1.11,None,Self Study,College,Yes,100.0
+STU11540,Female,8.53,75.9,63.5,10,7.53,,None,Self Study,College,Yes,100.0
+STU11876,Male,1.84,51.6,78.6,5,6.56,3.55,Volunteering,Self Study,School,Yes,89.9
+STU11814,Male,5.49,81.0,53.0,6,5.45,5.82,Volunteering,Self Study,College,Yes,82.2
+STU11818,Female,7.37,71.5,67.2,8,5.8,2.09,Music,Group Study,,Yes,100.0
+STU10328,Male,5.37,100.0,56.6,6,6.44,1.13,None,Self Study,School,Yes,100.0
+STU10443,Other,6.22,78.3,78.2,2,5.73,3.08,Clubs,Group Study,Postgraduate,Yes,100.0
+STU11616,,6.56,70.7,76.2,7,5.32,0.59,Clubs,Self Study,Postgraduate,YES,100.0
+STU11405,Male,4.34,58.6,65.5,7,7.95,1.9,None,Online Course,College,Yes,100.0
+STU10833,Female,3.24,55.4,70.8,2,7.15,4.49,Clubs,Self Study,College,Yes,91.2
+STU11926,Female,3.12,86.7,54.3,7,6.69,3.53,Clubs,Online Course,College,Yes,100.0
+STU11918,,7.55,81.7,62.2,5,8.66,5.44,None,Online Course,College,Yes,100.0
+STU11408,Male,6.8,65.4,64.5,8,7.52,2.72,None,Self Study,Postgraduate,Yes,100.0
+STU10087,Female,4.56,79.0,54.3,9,9.11,1.09,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU12452,Male,4.69,68.0,52.5,7,6.74,3.2,None,Coaching,Postgraduate,No,94.1
+STU10778,Female,6.29,52.7,70.4,6,8.12,,Sports,Coaching,College,Yes,100.0
+STU12024,Female,5.36,78.9,78.7,3,4.75,1.45,Clubs,Self Study,College,Yes,95.8
+STU10055,Female,4.56,82.7,68.4,3,7.19,3.27,None,,School,Yes,100.0
+STU11902,Female,7.64,72.4,87.0,5,8.26,3.47,Music,,College,Yes,100.0
+STU11288,Female,5.45,78.5,54.6,3,6.15,4.96,Sports,Self Study,School,Yes,96.0
+STU11712,Male,0.95,81.6,62.3,4,6.45,0.7,Music,Self Study,Postgraduate,Yes,89.0
+STU12382,Female,7.08,81.3,56.9,8,8.51,3.86,None,Self Study,School,Yes,100.0
+STU11246,Female,5.64,73.6,85.6,10,4.43,4.89,Sports,Self Study,School,No,100.0
+STU10114,Male,2.61,73.3,79.1,10,5.76,3.45,None,Coaching,Postgraduate,Yes,100.0
+STU12353,Female,5.43,100.0,38.3,5,7.56,4.6,Volunteering,Online Course,College,Yes,99.3
+STU10988,Female,6.16,81.2,61.3,4,8.01,2.64,Music,Coaching,,Yes,93.3
+STU11911,Male,3.94,95.1,76.8,3,8.02,3.73,Music,Online Course,College,Yes,100.0
+STU11595,Female,6.26,84.6,59.5,5,8.0,,Music,Self Study,College,Yes,100.0
+STU11010,Male,6.26,65.6,73.8,9,6.41,3.76,None,Coaching,School,Yes,100.0
+STU11199,Male,8.47,65.3,57.5,3,6.57,1.59,None,Self Study,Postgraduate,YES,100.0
+STU10590,Other,8.72,89.6,54.1,10,6.31,6.25,Music,Online Course,College,Yes,100.0
+STU10769,Female,2.94,74.2,66.5,3,6.7,3.27,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10018,Female,3.58,95.2,60.9,7,4.43,0.0,Sports,Coaching,School,Yes,94.9
+STU11043,Male,6.9,76.2,49.2,9,8.36,3.09,None,Self Study,Postgraduate,Yes,100.0
+STU12058,Female,1.88,83.5,60.0,2,3.96,4.74,Volunteering,Coaching,School,Yes,79.7
+STU10286,Female,4.56,79.1,73.3,3,7.79,3.84,None,Self Study,College,Yes,100.0
+STU10429,Male,2.74,61.8,82.1,8,7.13,3.58,None,Online Course,Postgraduate,Yes,100.0
+STU11948,Female,3.68,78.2,78.6,4,4.64,1.68,Sports,Self Study,College,Yes,97.2
+STU11380,Male,8.45,81.6,67.2,8,5.38,1.08,None,,Postgraduate,Yes,100.0
+STU10670,Female,0.5,63.7,75.3,4,5.85,3.63,Clubs,Self Study,College,Yes,90.1
+STU10032,Female,4.69,84.5,79.5,6,6.17,5.7,Volunteering,Self Study,School,Yes,100.0
+STU11342,Male,6.36,76.9,56.2,3,9.83,3.01,None,Group Study,School,Yes,100.0
+STU10723,Male,0.94,58.1,68.2,4,7.55,2.03,Clubs,Self Study,School,Yes,84.0
+STU10952,Female,6.4,86.5,77.7,4,8.64,5.16,Clubs,Coaching,College,Yes,100.0
+STU11790,Male,7.53,83.0,59.3,5,7.36,2.18,None,Self Study,College,Yes,100.0
+STU10215,Female,4.84,76.3,75.5,9,8.35,1.73,Clubs,Online Course,School,Yes,100.0
+STU11815,Male,5.84,77.7%,71.5,3,6.87,2.07,Music,Coaching,College,,100.0
+STU11165,Other,3.53,76.0,90.6,9,6.25,2.11,None,Online Course,Postgraduate,Yes,100.0
+STU10327,,2.36,100.0,96.3,4,7.54,2.33,Sports,Online Course,College,Yes,100.0
+STU10561,Male,5.36,92.1,90.7,7,7.92,4.43,Sports,Self Study,,Yes,100.0
+STU11087,Male,2.7,65.7,,3,7.67,2.02,Volunteering,Self Study,College,Yes,100.0
+STU12022,Male,3.92,81.8,85.0,5,7.78,5.7,Music,Self Study,School,Yes,90.0
+STU10342,Male,6.11,91.2,70.8,4,5.91,4.87,Clubs,Coaching,College,Yes,100.0
+STU10148,Male,5.22,71.8,57.4,5,5.76,0.0,None,Coaching,School,Yes,88.6
+STU11867,Male,5.08,83.4,59.8,2,6.19,5.95,Music,Group Study,College,Yes,94.8
+STU11108,Male,,95.6,100.0,2,5.32,1.07,None,Coaching,College,Yes,100.0
+STU10849,Male,4.09,84.5,76.0,7,7.77,6.03,Music,Online Course,School,Yes,100.0
+STU10967,Female,4.99,94.3,56.8,9,6.29,7.53,Sports,Online Course,School,Yes,100.0
+STU11073,Female,5.04,82.4,79.1,2,6.99,,Sports,Group Study,School,Yes,100.0
+STU10156,Male,9.04,71.0,55.7,7,8.89,17.366428347082227,Clubs,Coaching,Postgraduate,Yes,100.0
+STU11690,Male,7.25,100.0,93.5,2,6.61,5.6,None,Self Study,College,Yes,100.0
+STU11628,,8.68,74.3,64.5,2,6.73,5.73,None,Coaching,College,Yes,100.0
+STU11003,Male,4.67,85.6%,80.1,6,5.99,2.76,None,Coaching,School,Yes,100.0
+STU11871,Male,7.24,59.3,66.5,3,7.53,2.48,Sports,Coaching,Postgraduate,Yes,100.0
+STU12104,Female,7.04,84.7,82.4,9,5.69,5.42,None,Self Study,School,Yes,100.0
+STU11875,Male,3.37,88.5,51.0,8,7.27,3.1,None,Coaching,College,Yes,94.7
+STU12221,Male,5.69,45.1,77.1,7,4.68,3.96,Clubs,Group Study,College,Yes,100.0
+STU12471,Male,4.58,75.9,70.7,4,6.52,4.02,None,Online Course,School,Yes,99.4
+STU11204,Male,5.3,68.6,65.3,5,7.77,3.18,None,Self Study,College,Yes,100.0
+STU11657,Female,6.28,82.3,62.4,2,6.46,4.33,,Self Study,College,Yes,100.0
+STU12357,Male,5.8,60.4,70.1,6,7.34,0.07,Music,Online Course,College,Yes,100.0
+STU12035,Female,5.73,77.9,61.6,5,7.43,2.52,None,Self Study,School,Yes,100.0
+STU11503,Male,8.15,81.3,100.0,5,8.66,2.99,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU11813,Female,6.05,78.5,68.7,5,7.29,6.74,Music,Self Study,School,Yes,100.0
+STU12222,Female,3.96,67.1,67.1,7,7.09,3.53,None,Self Study,Postgraduate,Yes,100.0
+STU12461,Female,2.98,70.0,72.9,10,6.07,5.26,None,Coaching,Postgraduate,Yes,100.0
+STU10939,Female,7.38,74.6,71.4,4,6.07,3.52,Clubs,Self Study,School,Yes,100.0
+STU12289,Male,7.44,100.0,,7,7.04,4.32,Sports,Self Study,School,Yes,100.0
+STU10347,Male,4.32,71.2,51.4,8,6.31,2.99,Music,Online Course,School,Yes,100.0
+STU12096,Female,7.07,88.4,,8,7.85,5.36,None,Online Course,School,Yes,100.0
+STU12487,Female,5.71,82.7,74.5,9,5.75,2.13,Sports,Self Study,College,,100.0
+STU11442,Male,6.22,74.3,,8,6.59,3.05,Sports,Group Study,School,Yes,100.0
+STU10386,Female,3.91,81.6,84.0,10,6.64,1.73,Clubs,Group Study,School,No,100.0
+STU11656,Male,2.37,71.3,87.2,5,9.28,3.59,None,Online Course,College,Yes,100.0
+STU11661,Female,10.27,62.0,95.5,4,7.19,6.05,None,Online Course,College,No,100.0
+STU10244,Male,2.57,120.4592743552646,79.5,10,5.4,6.55,Volunteering,Self Study,Postgraduate,Yes,91.1
+STU12091,Male,,88.2,53.4,7,8.27,1.17,None,Online Course,Postgraduate,Yes,100.0
+STU10937,Female,3.2,70.2,52.3,4,6.34,1.51,None,Online Course,Postgraduate,Yes,91.2
+STU12158,Female,3.88,78.8,71.5,5,6.72,4.49,Music,Self Study,College,Yes,92.6
+STU10313,Male,8.99,73.0,74.9,6,7.67,6.78,None,Group Study,College,Yes,100.0
+STU12451,Female,4.43,91.6,35.3,4,8.71,3.68,None,,College,Yes,94.6
+STU11548,Other,3.89,71.2,91.6,10,8.65,4.8,None,Coaching,School,Yes,100.0
+STU11333,Female,7.25,75.9,64.5,8,7.41,2.73,Music,Self Study,College,Yes,100.0
+STU10969,Male,7.35,95.1,69.7,8,6.47,4.49,Music,Self Study,School,Yes,100.0
+STU10661,Male,2.12,77.4,73.3,3,7.46,3.63,None,Self Study,Postgraduate,,90.6
+STU10936,,6.68,84.3,51.7,7,6.37,2.55,Music,Group Study,College,Yes,100.0
+STU10371,Male,5.52,,78.5,10,6.46,5.26,Music,Self Study,Postgraduate,Yes,100.0
+STU10567,Male,5.18,81.1,86.8,5,5.66,1.11,Music,Online Course,Postgraduate,Yes,100.0
+STU11984,Male,5.0,80.8,50.9,8,6.37,2.68,Clubs,Online Course,College,Yes,100.0
+STU10825,Male,1.78,88.9,41.5,4,10.0,8.2,Music,Self Study,School,Yes,89.8
+STU10983,Male,5.96,89.7,65.1,8,4.98,0.21,Sports,Self Study,School,Yes,100.0
+STU12006,Male,7.75,97.2,77.9,9,9.78,4.55,None,Coaching,School,Yes,100.0
+STU11495,Female,4.79,85.2,69.7,9,5.87,6.6,Music,Self Study,College,Yes,100.0
+STU12160,Female,4.01,66.7,50.5,9,4.95,6.2,,,School,Yes,98.7
+STU10814,Other,4.49,79.7,80.4,10,6.25,4.53,Sports,Self Study,School,Yes,100.0
+STU10779,Male,5.62,68.8,86.3,8,6.66,0.89,None,Self Study,School,Yes,100.0
+STU11321,Female,3.98,89.5,48.8,8,6.09,2.89,None,Self Study,College,No,90.3
+STU11545,Male,8.23,66.4,61.9,8,6.36,7.12,Sports,Online Course,College,Yes,100.0
+STU11053,Female,5.72,90.4,51.2,9,6.85,3.1,Volunteering,Coaching,College,Yes,100.0
+STU11840,Female,3.7,75.0,66.6,4,9.09,3.39,None,Online Course,College,Yes,100.0
+STU11014,Male,2.19,90.9,68.7,10,8.35,5.95,Music,Coaching,School,Yes,100.0
+STU11402, FEMALE ,4.85,86.0,54.6,7,8.66,2.19,Clubs,Self Study,College,Yes,100.0
+STU12312,Female,6.06,73.4,90.8,3,7.0,5.33,Clubs,Online Course,Postgraduate,No,100.0
+STU12100,Male,8.59,100.0,73.3,6,5.98,2.32,None,Coaching,School,No,100.0
+STU11779,Male,3.26,73.5,50.7,8,7.22,4.72,Music,Coaching,Postgraduate,Yes,100.0
+STU10127,Female,8.43,94.2,74.7,6,9.32,1.42,Sports,Self Study,College,Yes,100.0
+STU10888,Female,4.64,72.0,95.6,7,9.33,2.11,Clubs,Coaching,School,Yes,100.0
+STU12053,Female,7.82,69.7,75.3,2,5.55,2.52,Volunteering,Online Course,College,Yes,100.0
+STU11348,Female,4.04,100.0,64.7,3,3.99,4.24,Sports,Online Course,College,Yes,90.5
+STU11008,Female,4.75,83.4,48.1,8,5.21,2.61,None,Self Study,College,,100.0
+STU10356,Female,5.97,96.9,80.2,8,9.25,6.65,,Self Study,College,Yes,100.0
+STU11004,Female,6.77,63.7,76.5,7,7.1,5.29,Sports,Coaching,College,Yes,100.0
+STU10683,Female,8.0,69.5,62.7,4,5.75,0.63,Sports,Online Course,School,Yes,100.0
+STU10828,Male,5.26,78.8,100.0,3,7.71,3.61,Clubs,Coaching,School,Yes,100.0
+STU11515,Male,2.14,80.1,41.0,10,6.86,6.02,None,Online Course,School,No,78.0
+STU10985,Other,6.25,88.5,33.3,4,5.52,1.72,Clubs,Self Study,College,Yes,94.9
+STU11234,Female,5.67,73.5,93.3,6,6.67,2.08,Volunteering,Online Course,School,Yes,100.0
+STU12133,Male,,,65.3,3,7.25,7.5,Clubs,Coaching,College,Yes,100.0
+STU10141,Female,6.33,85.1,65.5,6,6.37,2.6,Volunteering,Self Study,College,Yes,100.0
+STU10218,Other,8.17,79.9,84.8,8,9.1,5.09,Music,Coaching,College,Yes,100.0
+STU12060,Female,3.31,62.9,68.4,3,9.21,5.24,None,Self Study,School,Yes,91.9
+STU12139,Female,6.14,72.3,100.0,3,7.86,4.89,None,Self Study,College,Yes,100.0
+STU12230,Male,6.05,74.1,80.9,4,7.06,4.54,None,Coaching,Postgraduate,Yes,100.0
+STU11726,Female,5.7,83.0,35.6,7,6.72,4.47,Volunteering,Self Study,School,Yes,100.0
+STU11477,Male,9.69,81.8,67.3,4,9.12,2.01,None,Coaching,College,Yes,100.0
+STU10023,Male,7.95,75.4,62.4,3,4.81,2.8,Sports,Online Course,School,,100.0
+STU10712,Male,6.9,77.3,24.2,9,7.26,6.31,Sports,,College,Yes,93.3
+STU11158,Male,8.45,100.0,63.0,10,5.12,4.58,None,,Postgraduate,Yes,100.0
+STU12059,Male,4.29,87.5,88.9,5,6.52,3.66,Clubs,Online Course,College,Yes,100.0
+STU10872,Male,3.48,59.6,100.0,8,4.95,2.1,,Self Study,School,Yes,100.0
+STU11866,Female,5.81,89.6,74.7,8,7.69,4.16,Clubs,Group Study,College,Yes,100.0
+STU10011,Male,7.26,70.8,78.9,6,6.33,0.22,Music,Online Course,,Yes,100.0
+STU11766,Male,5.21,72.3,59.1,9,6.78,5.56,Sports,Self Study,College,No,97.2
+STU12368,Male,4.72,74.0,74.5,6,7.28,3.7,None,Online Course,Postgraduate,Yes,100.0
+STU11721,Male,7.59,97.5,89.2,10,7.86,0.83,Music,Self Study,College,Yes,100.0
+STU11316,Male,9.17,69.2,95.3,9,9.57,0.0,Volunteering,Self Study,Postgraduate,,100.0
+STU10755,Male,,73.6,55.8,5,,1.22,,Online Course,School,,100.0
+STU10627,Male,4.68,77.5,73.6,10,5.77,2.27,Music,Group Study,College,Yes,100.0
+STU11754,Male,4.37,56.0,76.4,4,7.36,2.88,None,Self Study,College,Yes,91.8
+STU11488,Male,2.75,83.3,67.6,2,6.42,1.95,Clubs,Coaching,College,Yes,84.5
+STU10130,Female,3.65,77.5,69.1,4,8.13,2.58,None,Self Study,Postgraduate,,100.0
+STU10844,Male,5.31,87.4,74.7,7,4.64,0.0,None,Self Study,College,Yes,100.0
+STU10324,Female,7.0,65.6,56.2,3,6.61,3.13,None,Coaching,School,Yes,96.3
+STU11719,Female,6.71,98.6,41.2,9,6.75,5.59,Sports,Self Study,College,Yes,100.0
+STU12207,Female,4.59,83.1,86.1,9,7.1,4.23,None,Online Course,School,Yes,100.0
+STU11285,Male,5.62,99.9,71.9,8,,1.94,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU12433,,3.46,98.8,88.2,8,6.85,3.48,Music,Online Course,Postgraduate,Yes,100.0
+STU10015,,6.44,79.5,72.9,5,5.17,3.61,Sports,Self Study,School,Yes,
+STU10948,Female,0.5,89.7,55.6,5,6.33,3.97,Sports,Online Course,College,Yes,95.2
+STU10216,Female,7.51,78.8,58.0,7,8.91,5.99,Music,Online Course,School,Yes,100.0
+STU12281,Female,7.97,73.8,54.7,6,5.99,1.27,,Self Study,School,Yes,100.0
+STU11964,Male,5.03,70.6,74.4,7,6.27,5.61,Volunteering,Coaching,College,No,100.0
+STU11183,Male,3.9,79.6,40.8,8,6.54,5.63,Volunteering,Online Course,College,Yes,77.1
+STU11676,Female,2.27,71.9,59.0,3,,0.31,None,Online Course,College,Yes,83.7
+STU11585,Female,5.26,90.3,66.0,9,6.69,2.47,None,Self Study,School,Yes,100.0
+STU10865,Female,4.11,83.8,59.5,5,7.57,2.5,Music,Group Study,College,Yes,100.0
+STU10517,Male,6.84,70.4,69.0,3,6.97,0.22,None,Online Course,College,Yes,97.1
+STU10598,Male,7.13,70.1,58.0,3,9.01,1.31,None,Group Study,School,,100.0
+STU10196,Male,3.71,89.5,81.1,5,7.37,1.06,None,Self Study,School,Yes,96.2
+STU11278,Female,8.74,83.5,91.0,3,7.08,2.37,Clubs,Coaching,College,Yes,100.0
+STU10289,Male,4.92,71.1,81.0,6,6.51,1.91,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10951,Male,2.05,59.0,36.2,3,5.36,5.88,None,Self Study,Postgraduate,No,56.1
+STU12362,Female,3.5,85.1,62.3,5,6.45,2.03,Music,Group Study,School,Yes,94.2
+STU11851,Female,4.22,75.6,85.2,8,6.81,6.02,Music,Coaching,College,Yes,100.0
+STU12393,Male,2.18,64.8,57.6,3,5.92,2.41,Sports,Self Study,College,No,65.7
+STU11121,Male,6.4,81.9,96.0,9,5.77,2.7,Clubs,Self Study,College,Yes,100.0
+STU12180,Male,4.75,64.9,69.0,6,7.09,4.18,Sports,Online Course,School,Yes,100.0
+STU10550,Male,6.83,95.1,53.9,4,5.84,3.26,None,Coaching,School,Yes,100.0
+STU10157,Female,5.76,81.2,58.9,4,7.59,1.03,Music,Self Study,College,Yes,
+STU10420,Female,8.21,88.9,51.0,7,5.87,1.31,Clubs,Online Course,College,Yes,100.0
+STU10923,Female,5.74,90.8,,3,8.94,2.5,Music,Coaching,College,Yes,100.0
+STU11666,Male,4.11,81.6,64.3,2,6.16,3.5,None,Self Study,College,Yes,100.0
+STU10478,Male,3.22,76.5,76.9,3,6.66,0.66,Volunteering,Self Study,School,Yes,88.9
+STU11630,Male,7.66,66.3,58.8,8,6.89,2.7,None,Group Study,Postgraduate,Yes,91.0
+STU11674,Male,6.4,69.0,45.0,5,5.72,2.71,Clubs,,School,Yes,100.0
+STU11472,Male,7.75,80.6,71.5,7,5.93,2.83,None,Self Study,College,Yes,100.0
+STU10554,Other,9.57,77.1,59.1,8,5.38,0.54,Clubs,Self Study,School,Yes,100.0
+STU11203,Female,6.34,69.1,70.0,2,5.15,1.94,None,Self Study,Postgraduate,Yes,100.0
+STU10391,Female,0.88,68.2,90.5,2,6.92,2.72,Volunteering,Online Course,School,Yes,77.4
+STU10579,Male,4.99,62.9,56.2,9,6.84,3.88,Clubs,Self Study,College,Yes,97.2
+STU12493,Male,7.03,71.2,50.3,6,6.61,2.54,Volunteering,Online Course,School,Yes,96.4
+STU11668,Female,5.5,65.7,79.4,7,6.39,3.33,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU12278,Female,9.27,62.3,64.5,9,5.94,6.53,Sports,,Postgraduate,Yes,100.0
+STU10821,Female,4.54,58.7,62.6,9,6.02,5.28,Clubs,Coaching,School,Yes,100.0
+STU12403,Other,6.06,78.3,47.3,9,5.01,2.17,None,Self Study,Postgraduate,Yes,100.0
+STU11007,Male,6.84,75.8,54.0,3,6.84,2.57,Clubs,Coaching,College,Yes,100.0
+STU11249,Other,5.16,69.3,,4,6.84,1.78,None,Online Course,School,Yes,100.0
+STU11660,Male,5.76,83.5,42.7,10,7.09,2.22,Clubs,Online Course,School,Yes,97.6
+STU10665,Male,5.34,70.3,82.0,7,5.15,5.49,Clubs,Self Study,College,Yes,100.0
+STU12226,Male,5.97,91.6,69.6,5,8.36,3.27,Sports,Online Course,College,Yes,100.0
+STU10143,Male,1.24,66.4,61.2,4,8.74,2.31,Clubs,Online Course,College,Yes,99.0
+STU12186,Male,5.53,69.5,76.4,4,,2.14,Sports,Self Study,Postgraduate,Yes,99.1
+STU11852,Female,25.61425246910228,64.2,94.4,7,,,None,Group Study,College,Yes,100.0
+STU10422,Male,3.83,80.7,51.2,2,7.3,2.86,Clubs,Self Study,Postgraduate,No,86.2
+STU10800,Female,5.58,79.8,73.7,10,6.39,8.58,None,Group Study,School,Yes,100.0
+STU10616,Male,,87.0,62.5,2,6.21,6.11,,Coaching,College,Yes,80.4
+STU11319,Male,2.53,96.7,55.1,4,8.26,2.02,Clubs,Coaching,College,Yes,97.0
+STU10296,Female,5.85,86.1,88.5,7,7.53,2.07,None,Self Study,School,Yes,100.0
+STU10402,Male,5.89,61.1,78.2,3,8.14,0.14,Music,Self Study,College,Yes,100.0
+STU10089,Female,6.46,81.7,47.9,9,6.89,0.0,Clubs,Group Study,School,Yes,100.0
+STU12056,Female,6.67,97.5,42.7,2,5.04,4.3,None,Self Study,College,Yes,96.8
+STU12472,Male,4.63,61.0,73.3,2,7.12,1.77,Clubs,Online Course,College,Yes,100.0
+STU10132,Male,2.75,66.2,68.2,10,5.58,0.0,Clubs,Coaching,College,Yes,100.0
+STU11710,Female,5.17,73.9,89.0,2,6.24,4.57,Volunteering,Self Study,School,Yes,94.5
+STU12459,Male,1.82,85.3,,8,7.66,3.95,Music,Self Study,Postgraduate,Yes,90.2
+STU12168,Male,2.08,87.5,70.3,2,8.31,1.58,None,Coaching,School,Yes,93.0
+STU11403,Female,5.09,59.7,68.3,7,7.64,4.58,None,Group Study,College,Yes,100.0
+STU12064,Female,6.26,75.3,64.5,6,4.94,1.28,Music,Self Study,Postgraduate,Yes,100.0
+STU12179,Female,6.71,66.7,76.7,6,8.31,2.32,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU12428,Male,4.35,81.9,63.4,3,7.16,3.46,,Coaching,School,Yes,97.9
+STU10725,Female,3.65,81.1,70.1,6,9.5,4.24,Sports,Self Study,School,Yes,100.0
+STU11315,Female,6.63,91.8,92.7,6,7.61,3.46,None,Self Study,School,Yes,100.0
+STU11793,Female,,67.6,73.0,4,7.18,2.02,Sports,,College,Yes,100.0
+STU10270,Male,,87.2,57.5,7,5.08,3.29,None,Self Study,College,Yes,100.0
+STU11806,Female,1.66,78.0,61.7,7,4.45,5.18,Sports,Group Study,School,No,86.7
+STU12079,Female,1.19,72.3,55.2,9,6.69,4.89,Volunteering,Group Study,Postgraduate,Yes,86.8
+STU11373,Female,6.31,72.1,61.7,9,,6.59,Clubs,Group Study,Postgraduate,Yes,100.0
+STU10918,Female,6.56,89.3,69.9,7,5.64,5.38,Clubs,Coaching,College,Yes,100.0
+STU12302,Male,3.72,,59.6,8,8.77,2.57,Clubs,Group Study,College,Yes,100.0
+STU11320,Other,7.88,74.4,81.7,7,,1.48,None,Self Study,College,Yes,100.0
+STU12150,Female,5.75,75.2,74.1,2,8.9,5.42,Clubs,Coaching,College,Yes,98.9
+STU12485,Male,5.3,60.7,62.5,8,9.62,4.04,Sports,Online Course,School,Yes,100.0
+STU11617,Female,11.33,91.5,69.1,7,6.78,5.29,None,Self Study,College,Yes,100.0
+STU12451,Female,4.43,91.6,35.3,4,8.71,3.68,None,,College,Yes,94.6
+STU10376,Female,10.16,51.1,80.6,6,7.19,2.29,None,Online Course,College,Yes,100.0
+STU10334,Male,3.47,,91.6,6,8.53,5.04,Clubs,Self Study,College,No,91.5
+STU12218,Female,5.3,73.7,62.8,7,8.2,5.15,Music,Self Study,College,Yes,100.0
+STU12360,Male,8.64,75.3,77.4,2,6.13,5.54,,Group Study,Postgraduate,Yes,100.0
+STU11119,Male,6.2,82.2,61.2,6,8.58,3.79,None,Coaching,College,Yes,100.0
+STU11443,Female,2.72,67.9,85.3,9,6.92,2.05,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU10911,Male,4.0,51.7,90.7,5,5.67,3.12,Clubs,Self Study,Postgraduate,Yes,98.0
+STU10777,Female,3.31,89.5,69.6,2,,3.83,None,Coaching,College,Yes,88.8
+STU12232,Male,3.34,,,3,7.08,1.66,None,Coaching,School,Yes,100.0
+STU10329,Male,3.16,58.0,75.4,8,9.38,5.57,None,Online Course,School,Yes,100.0
+STU11343,Female,6.38,81.6,76.7,5,7.9,3.94,Music,Self Study,School,Yes,100.0
+STU10321,Male,7.06,59.5,77.7,10,7.5,2.17,Sports,Self Study,Postgraduate,Yes,100.0
+STU12037,Male,4.57,67.0,75.8,3,7.66,3.13,None,Self Study,College,Yes,100.0
+STU10013,Female,5.63,80.6,48.2,10,7.52,2.96,Music,Self Study,Postgraduate,Yes,100.0
+STU10898,Female,3.78,74.9,91.4,5,8.12,3.65,Clubs,Online Course,School,Yes,100.0
+STU10172,Female,6.39,95.2,66.7,2,5.96,3.83,Clubs,Online Course,College,Yes,99.8
+STU10261,Female,5.02,69.7,75.3,5,5.8,5.3,Music,Group Study,College,Yes,100.0
+STU11890,Male,6.59,97.2,81.9,6,5.89,0.0,Music,Self Study,Postgraduate,Yes,100.0
+STU10690,Male,4.65,61.7,55.5,5,6.75,3.35,None,Coaching,School,Yes,84.8
+STU10902,Female,5.71,87.9,63.4,2,9.24,,None,Group Study,Postgraduate,Yes,100.0
+STU10259,Male,5.23,87.0,47.2,2,6.21,1.51,Sports,Online Course,School,No,84.4
+STU10845,Female,5.76,,88.1,5,6.71,2.45,Music,Coaching,Postgraduate,Yes,91.1
+STU12314,Female,5.61,77.5,70.5,7,7.37,4.11,Music,Self Study,College,Yes,98.7
+STU10139,Male,9.49,127.50921890444997,59.9,7,8.68,1.44,Music,Group Study,College,Yes,100.0
+STU10320,Female,3.14,88.1,71.5,6,10.0,4.82,,Self Study,School,Yes,100.0
+STU10654,Female,3.29,76.4,76.4,5,7.65,0.54,Music,Self Study,School,Yes,99.7
+STU11922,Female,7.55,87.2,48.1,4,4.99,6.6,Clubs,Coaching,Postgraduate,No,100.0
+STU11841,Male,4.33,53.5,92.8,2,5.6,1.44,None,Self Study,College,Yes,94.8
+STU10559,Male,3.01,69.9,59.9,8,6.95,0.39,None,Online Course,College,Yes,98.8
+STU10140,Female,11.33,71.0,74.6,3,8.07,3.36,Sports,Self Study,College,Yes,100.0
+STU10113,Male,4.31,70.8,68.1,7,4.61,1.92,Music,Self Study,School,Yes,89.4
+STU10532,Female,3.62,84.9,76.5,9,6.13,5.48,Clubs,Online Course,School,Yes,100.0
+STU10225,Male,5.68,71.0,,2,5.38,2.07,None,Coaching,Postgraduate,Yes,99.2
+STU10724,Female,2.51,55.9,100.0,6,6.65,4.46,None,Group Study,School,Yes,90.0
+STU12331,Female,3.7,62.2,68.9,4,5.25,0.0,Volunteering,Coaching,College,Yes,97.7
+STU12148,Male,7.37,68.8,75.9,7,6.57,0.05,Music,Online Course,College,Yes,100.0
+STU11434,Male,2.23,91.2,89.5,9,6.14,3.79,None,Self Study,School,Yes,100.0
+STU10326,Male,6.96,76.6,90.8,8,7.56,4.36,Sports,Online Course,College,Yes,100.0
+STU11324,Female,2.37,75.5,61.0,2,6.77,2.27,None,Self Study,College,Yes,90.9
+STU11966,Female,6.47,84.5,72.2,10,8.82,3.41,Clubs,Self Study,College,Yes,100.0
+STU11459,Male,9.07,70.5,62.7,7,8.06,4.82,Clubs,Coaching,College,Yes,100.0
+STU12336,Female,5.67,,86.7,6,7.36,3.36,,Online Course,School,No,100.0
+STU12260,Other,6.6,71.4,53.4,9,7.0,5.7,Clubs,Self Study,College,Yes,100.0
+STU10715,Male,5.08,90.2,46.9,5,5.63,6.89,None,Coaching,School,Yes,98.0
+STU10847,Female,11.86,81.1,81.5,7,8.15,4.91,None,Self Study,School,Yes,100.0
+STU10194,Female,8.42,73.6,76.0,4,7.74,1.98,Volunteering,Coaching,School,Yes,100.0
+STU11952,Female,5.99,75.0,93.9,10,6.91,1.7,Clubs,Group Study,Postgraduate,Yes,100.0
+STU10574,Male,3.7,,76.7,2,5.87,1.55,None,Self Study,College,Yes,100.0
+STU10947,Female,6.17,72.9,79.8,8,8.52,1.61,Volunteering,Self Study,College,Yes,100.0
+STU10504,Female,2.49,59.4,57.6,3,7.14,3.07,Clubs,Online Course,School,Yes,78.2
+STU11834,Female,6.33,90.3,52.1,10,8.21,,Clubs,Self Study,College,Yes,100.0
+STU12078,Female,5.61,48.7,63.3,10,5.48,3.92,None,Coaching,School,Yes,100.0
+STU10646,,5.22,82.5,40.2,7,7.22,7.13,None,Online Course,College,Yes,91.7
+STU10004,Female,7.38,83.8,74.0,5,6.97,3.69,Sports,Group Study,College,Yes,100.0
+STU11874,Female,3.11,99.3,66.1,8,5.64,0.0,None,Online Course,College,Yes,100.0
+STU10468,Male,9.37,69.8,88.7,7,6.64,2.07,None,Coaching,College,Yes,100.0
+STU11346,Female,10.12,50.0,84.6,3,4.9,1.34,None,Coaching,College,Yes,100.0
+STU10006,Female,2.9,89.0,45.7,5,6.82,2.96,Volunteering,Self Study,College,Yes,
+STU11247,Female,4.68,58.0,56.1,9,6.82,4.03,Clubs,Online Course,School,Yes,99.1
+STU10920,Male,1.74,92.7,63.9,4,8.15,0.0,None,Self Study,School,,100.0
+STU10548,Male,3.48,84.3,81.8,3,8.32,1.45,Clubs,Self Study,School,Yes,98.0
+STU10229,Male,3.79,100.0,,7,4.52,2.37,Sports,Self Study,School,No,100.0
+STU11064,Female,7.76,76.0,75.0,5,7.88,4.92,,Group Study,College,Yes,100.0
+STU10543,Male,6.0,67.3,76.4,5,6.91,3.1,Volunteering,Group Study,College,Yes,100.0
+STU10243,Male,1.98,68.0,79.0,4,,2.67,None,Online Course,Postgraduate,Yes,100.0
+STU10899,Male,6.46,55.7,74.1,4,3.73,6.64,None,Self Study,Postgraduate,No,95.6
+STU11780,Female,8.42,66.5,89.8,2,8.31,3.74,Sports,Self Study,College,Yes,100.0
+STU11161,Male,3.13,78.2,72.0,10,5.75,6.73,Music,Self Study,College,Yes,88.2
+STU11859,Male,6.29,72.6,99.4,8,5.99,2.07,Clubs,Self Study,College,Yes,100.0
+STU11714,Female,5.27,76.4,57.1,10,9.06,3.02,Sports,Self Study,College,Yes,100.0
+STU11836,Male,5.68,67.7,68.2,7,7.98,2.63,None,Coaching,College,Yes,100.0
+STU10843,Female,9.01,98.3,67.8,3,8.11,2.27,Sports,Self Study,School,Yes,100.0
+STU11374,Female,26.727094072068645,63.5,69.8,5,,0.91,None,Self Study,College,Yes,80.1
+STU12119,Female,5.93,100.0,63.0,8,5.22,5.66,Volunteering,Coaching,Postgraduate,Yes,98.1
+STU12009,,7.88,67.0,63.3,7,7.18,4.03,None,Coaching,College,Yes,98.2
+STU11527,Female,7.9,70.3,80.9,10,7.69,1.82,None,Online Course,College,Yes,100.0
+STU11606,Female,8.22,87.3,49.2,8,,4.74,Music,Group Study,,Yes,100.0
+STU10277,Female,3.97,84.7,69.7,7,8.42,4.18,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10662,Male,5.46,84.6,71.4,8,6.92,7.29,Clubs,Self Study,School,Yes,100.0
+STU11965,Female,4.03,89.8,88.4,4,7.86,3.48,Volunteering,Self Study,College,Yes,100.0
+STU12128,Male,4.45,87.4,56.8,8,7.84,1.77,Volunteering,Coaching,College,No,100.0
+STU12369,Female,3.73,100.0,86.9,3,,,None,Self Study,School,Yes,92.4
+STU12273,Female,6.76,73.9,47.5,8,7.1,2.87,,Coaching,Postgraduate,Yes,100.0
+STU10315,Male,7.16,78.1,67.6,8,5.62,5.87,Sports,Self Study,College,Yes,100.0
+STU11467,Female,2.93,66.1,77.4,4,6.08,2.46,Clubs,Self Study,School,Yes,87.6
+STU11344,Female,4.45,100.0,56.7,10,7.16,4.25,Music,Online Course,School,Yes,100.0
+STU11872,Male,4.38,70.9,84.2,3,7.72,3.43,None,Coaching,Postgraduate,No,100.0
+STU10692,Female,5.01,68.1,63.1,7,7.55,3.52,Sports,Group Study,School,Yes,100.0
+STU11542,Female,7.18,,77.1,10,7.76,0.06,Music,Self Study,School,Yes,100.0
+STU10613,Female,2.65,97.4,58.4,5,5.66,3.78,Sports,Self Study,School,Yes,94.5
+STU10425,Male,3.72,69.9,78.0,9,5.7,2.76,Music,Coaching,Postgraduate,Yes,100.0
+STU11578,Male,7.56,145.20820666142848,43.4,4,7.95,1.14,Sports,Coaching,School,Yes,100.0
+STU10595,Female,2.94,99.9,74.5,7,5.3,0.94,None,Coaching,College,Yes,100.0
+STU12488,Male,7.2,81.3,81.5,7,5.16,2.61,None,Self Study,College,Yes,100.0
+STU11977,Male,1.71,81.1,75.8,6,8.36,3.27,None,Online Course,College,Yes,98.8
+STU10623,Female,6.04,86.3,77.3,3,,5.66,Clubs,Self Study,School,Yes,100.0
+STU11831,Male,6.99,100.0,64.7,3,7.22,3.1,Music,Self Study,School,Yes,100.0
+STU11494,Male,3.36,69.7,67.4,7,7.01,1.47,Music,Self Study,School,Yes,98.3
+STU12092,Male,6.76,96.6,44.4,5,6.52,2.9,Sports,Online Course,Postgraduate,Yes,100.0
+STU10228,Female,9.25,76.0,64.1,3,4.99,3.06,None,Online Course,School,Yes,100.0
+STU12217,Male,5.52,88.4,46.1,5,5.3,7.54,Volunteering,Self Study,School,Yes,89.0
+STU11170,Female,4.77,79.6,97.2,3,,2.72,Music,Self Study,School,Yes,100.0
+STU10109,Female,7.18,87.9,64.4,9,7.16,1.74,Clubs,Coaching,College,Yes,100.0
+STU11799,Female,4.37,98.1,46.1,6,6.34,1.73,Volunteering,Self Study,School,Yes,100.0
+STU10067,Male,4.8,80.4,38.3,5,7.2,5.85,Music,Coaching,School,Yes,92.8
+STU11418,Male,7.49,70.2,66.0,6,6.28,2.91,None,Online Course,College,Yes,100.0
+STU12266,Male,7.08,82.4,73.9,10,7.56,3.84,Music,Coaching,College,Yes,100.0
+STU10025,Female,4.64,100.0,62.0,4,9.36,4.46,None,Self Study,School,Yes,100.0
+STU11236,Male,3.91,72.6,64.7,8,8.29,8.33,None,Group Study,,No,100.0
+STU12080,Male,3.67,87.1,72.7,10,6.57,3.09,Music,Self Study,College,Yes,100.0
+STU10145,Female,3.87,95.4,,6,4.75,1.13,None,Self Study,College,Yes,91.3
+STU10537,,,79.7,,9,9.82,2.32,None,Coaching,School,No,100.0
+STU10812,Female,4.34,85.8,74.5,4,7.48,3.96,Clubs,Online Course,College,Yes,100.0
+STU11761, FEMALE ,3.15,81.5,80.4,10,8.66,2.83,None,Coaching,School,Yes,100.0
+STU11498,Male,3.2,75.1,80.2,9,7.52,6.86,None,Online Course,College,Yes,100.0
+STU10086,Male,6.47,89.9,86.3,3,,3.82,Sports,Online Course,College,Yes,100.0
+STU11255,Male,4.05,75.3,71.1,10,5.84,4.9,Sports,,College,Yes,100.0
+STU12077,Male,5.43,,76.3,5,6.43,1.65,None,Online Course,Postgraduate,Yes,100.0
+STU12291,Male,6.39,57.3,92.9,6,8.36,5.04,Sports,Coaching,College,Yes,100.0
+STU11848,Male,3.26,50.9,30.7,3,6.45,6.02,Sports,Self Study,School,Yes,73.6
+STU11695,Female,3.0,93.3,61.0,2,5.67,1.68,None,Self Study,School,Yes,81.6
+STU10485,Female,5.39,62.1,79.3,3,8.04,7.69,Music,Group Study,Postgraduate,Yes,98.2
+STU11655,Male,5.03,69.8,73.9,7,9.35,1.74,None,Online Course,School,Yes,100.0
+STU12371,Female,,63.7,77.6,4,9.21,,None,Coaching,Postgraduate,Yes,100.0
+STU12398,Male,5.13,93.1,80.7,3,7.47,3.44,Clubs,Online Course,College,Yes,98.2
+STU10739,Male,2.26,88.9,43.1,2,6.78,4.67,Music,Self Study,School,Yes,85.9
+STU11837,Female,5.94,79.8,72.9,7,4.2,2.07,None,Coaching,College,Yes,100.0
+STU12286,Male,6.23,59.3,75.6,10,6.31,3.61,Sports,Online Course,College,Yes,100.0
+STU12474,Female,6.67,45.1,59.2,5,6.48,1.02,,Group Study,College,Yes,98.6
+STU11768,Female,7.18,82.1,67.3,7,6.4,5.45,Clubs,Self Study,College,Yes,100.0
+STU10363,Female,7.5,68.6,94.9,9,5.55,5.65,Volunteering,Online Course,Postgraduate,No,100.0
+STU10750,Female,3.71,80.2,66.2,4,6.53,4.86,,Online Course,College,Yes,99.8
+STU11808,Male,,100.0,57.4,6,8.72,7.81,Sports,Self Study,School,Yes,100.0
+STU11647,Male,5.26,79.1,57.0,4,9.62,1.43,Volunteering,Group Study,School,Yes,91.2
+STU11027,Other,,82.6,69.2,4,5.52,1.93,Clubs,Self Study,School,Yes,76.2
+STU11031,Male,7.88,96.7,72.9,9,9.43,6.9,Music,Coaching,College,Yes,100.0
+STU11895,Other,4.97,64.1,66.7,6,8.3,0.0,Clubs,Group Study,Postgraduate,Yes,100.0
+STU11336,Male,9.22,81.4,42.3,6,7.5,,Clubs,Group Study,School,Yes,100.0
+STU12125,Male,5.44,100.0,67.2,9,6.91,1.43,None,,School,Yes,100.0
+STU12284,Female,,81.8,68.6,3,8.18,2.65,Music,Self Study,Postgraduate,Yes,100.0
+STU10666,Male,2.09,82.1,66.7,7,8.15,5.61,Sports,Self Study,College,Yes,86.3
+STU10365,,5.25,65.0,72.1,8,8.29,4.44,Sports,Group Study,,Yes,100.0
+STU12210,Female,4.63,84.6,68.6,9,6.39,3.88,Volunteering,Coaching,School,Yes,100.0
+STU11240,Female,8.6,72.3,60.6,8,6.69,1.08,None,Coaching,Postgraduate,Yes,100.0
+STU10078,Male,5.82,66.4,69.0,5,9.0,4.34,None,Self Study,School,Yes,100.0
+STU10028,Male,6.23,73.5,65.6,3,6.42,4.21,Sports,Online Course,School,Yes,100.0
+STU10474,Female,5.87,71.0,62.6,7,5.85,6.42,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU10526,Male,4.61,78.2,48.3,10,7.81,1.87,Clubs,Coaching,School,Yes,100.0
+STU10726,Male,8.42,70.9,70.7,8,8.5,3.16,Clubs,Coaching,College,Yes,100.0
+STU10056,Male,4.22,73.4,67.8,4,3.75,1.74,Clubs,Coaching,College,Yes,100.0
+STU10639,Female,6.66,84.4,73.1,5,7.91,5.36,Sports,Group Study,College,Yes,100.0
+STU10303,,7.23,88.5,81.8,5,7.06,4.18,Music,Self Study,School,Yes,100.0
+STU10719,Male,4.8,100.0,82.5,8,5.97,6.28,None,Self Study,School,No,100.0
+STU11898,Male,6.41,72.4,51.1,6,8.96,3.77,None,Online Course,School,Yes,100.0
+STU10625,Female,6.44,80.9,61.2,7,6.54,1.88,Volunteering,Coaching,School,Yes,100.0
+STU10008,Male,4.87,82.3,73.9,2,5.96,2.96,Music,Group Study,Postgraduate,Yes,95.3
+STU11281,Male,7.89,82.5,75.9,2,4.97,3.02,Volunteering,Self Study,College,Yes,100.0
+STU10804,Male,6.26,89.7,83.6,6,5.15,4.85,None,Online Course,Postgraduate,,100.0
+STU11050,Female,6.38,84.8,65.8,10,7.75,1.84,None,Self Study,Postgraduate,Yes,100.0
+STU10337,Male,4.16,84.7,79.1,9,6.2,2.88,None,Group Study,School,No,100.0
+STU11597,Male,6.14,84.6,64.7,8,8.3,3.99,Clubs,Online Course,School,Yes,100.0
+STU10048,Female,5.95,100.0,53.3,5,4.93,6.1,Sports,Self Study,,Yes,92.8
+STU12164,Female,6.77,69.7,72.7,7,6.88,4.43,Sports,Self Study,Postgraduate,No,100.0
+STU10107,Female,3.6,66.1,80.5,6,5.61,3.11,Clubs,Coaching,College,Yes,100.0
+STU10350,Female,8.45,89.7,67.6,2,6.37,2.76,None,Coaching,Postgraduate,Yes,100.0
+STU11080,Male,8.37,61.9,47.7,8,8.07,3.83,Music,Online Course,School,Yes,100.0
+STU10239,Female,3.38,,57.7,6,6.6,1.27,Music,Coaching,Postgraduate,Yes,100.0
+STU10214,Female,4.53,64.3,61.9,5,6.91,0.0,Sports,Coaching,School,Yes,100.0
+STU11145,Male,,74.7,81.3,2,7.82,4.46,Music,Self Study,College,No,100.0
+STU11950,Female,9.5,78.1,78.7,4,7.53,4.15,Sports,Coaching,College,Yes,100.0
+STU11787,Female,7.72,69.4%,43.3,6,5.12,1.25,None,Online Course,College,No,100.0
+STU10794,Female,6.28,84.6,83.7,7,6.56,3.47,Clubs,Coaching,School,Yes,100.0
+STU11097,Male,8.66,72.9,81.9,2,,4.5,Sports,Self Study,College,Yes,100.0
+STU11843,Male,7.26,77.0,78.4,7,8.27,2.65,Volunteering,Self Study,College,No,100.0
+STU11765,Male,3.4,,63.0,3,5.61,3.76,Music,Online Course,School,,87.0
+STU12234,Female,8.67,51.1,58.5,3,6.78,5.46,Sports,Self Study,College,Yes,100.0
+STU10346,Male,1.37,65.5,58.6,8,8.27,,None,Self Study,Postgraduate,Yes,93.5
+STU10524,Female,5.12,68.9,79.9,4,6.32,3.75,Clubs,Online Course,School,Yes,100.0
+STU10233,Male,6.13,98.7,60.4,8,6.75,1.3,Clubs,Coaching,School,No,100.0
+STU10645,Male,4.83,73.2,83.8,3,6.69,6.47,None,Online Course,College,Yes,99.9
+STU11944,Female,1.14,65.8,73.0,7,6.44,4.02,None,Online Course,College,No,100.0
+STU12182,Female,5.97,79.2,72.7,9,4.59,4.98,Clubs,Self Study,School,Yes,100.0
+STU11429,Female,6.81,60.8%,85.4,7,8.53,4.72,Clubs,,College,Yes,100.0
+STU10534,Female,6.4,82.3,70.3,2,7.05,2.06,None,Online Course,College,Yes,98.5
+STU12416,Female,8.21,79.2,49.5,5,9.03,2.62,Clubs,Self Study,College,Yes,100.0
+STU10604,Female,4.24,90.6,,7,6.02,0.0,None,Online Course,School,Yes,100.0
+STU11490,Male,5.86,67.1,57.2,2,4.8,5.55,Music,Group Study,,Yes,86.5
+STU11884,Female,5.7,69.7,62.7,5,4.92,5.06,None,Online Course,Postgraduate,Yes,100.0
+STU11427,Male,7.15,87.5,81.5,5,7.26,4.53,Music,Self Study,School,Yes,100.0
+STU11075,Female,3.67,70.7,69.1,3,7.46,2.73,Music,Online Course,School,Yes,92.4
+STU12032,Female,4.51,81.5,91.5,3,7.09,4.45,None,Self Study,College,Yes,100.0
+STU10061,Male,2.13,82.3,53.3,4,5.36,6.07,None,Coaching,School,Yes,86.1
+STU11967,Male,5.98,77.9,88.2,2,6.97,2.25,Volunteering,Self Study,College,Yes,100.0
+STU10093,Female,4.65,83.6,49.2,7,7.9,0.26,None,Coaching,College,Yes,100.0
+STU10667,Female,2.27,67.5,72.4,7,5.96,,None,Coaching,School,Yes,100.0
+STU11746,Female,3.95,77.7,72.6,9,7.37,0.0,Clubs,Coaching,College,Yes,100.0
+STU12258,Male,5.99,88.3,57.9,4,9.21,5.2,Sports,Coaching,College,Yes,100.0
+STU10281,Male,6.46,96.1,46.6,5,3.96,2.43,None,Self Study,College,No,93.9
+STU11720,Female,2.82,73.4,67.4,8,6.13,4.09,None,Self Study,College,Yes,99.7
+STU11751,Male,3.95,74.8,77.7,10,6.35,,Music,Self Study,Postgraduate,Yes,100.0
+STU10360,Female,5.2,67.3,66.1,2,6.29,2.07,Volunteering,Self Study,Postgraduate,Yes,96.0
+STU12134,Female,6.15,63.9,62.1,9,7.17,0.43,Sports,Coaching,School,Yes,100.0
+STU11544,Male,5.29,60.7,82.8,7,6.48,3.13,Music,Self Study,College,Yes,100.0
+STU11398,Female,5.14,99.5,50.3,5,5.39,3.66,Sports,Online Course,College,Yes,97.5
+STU11829,Female,3.75,84.8,62.4,8,8.1,3.91,None,Online Course,College,Yes,100.0
+STU10848,Male,7.2,80.1,88.2,4,7.81,7.6,Sports,Group Study,Postgraduate,Yes,100.0
+STU11207,Female,4.08,75.9,87.8,10,7.28,4.54,None,Coaching,College,No,100.0
+STU12212,Male,7.46,71.3,52.2,4,9.38,4.54,None,Self Study,Postgraduate,Yes,100.0
+STU10761,Male,8.0,79.3,100.0,6,7.44,1.51,Music,Online Course,School,Yes,100.0
+STU10111,Male,6.37,58.0,65.4,7,5.19,,,Group Study,College,Yes,100.0
+STU10043,Male,4.17,74.2,73.3,7,6.47,4.71,Volunteering,Self Study,College,Yes,99.8
+STU10126,Female,6.21,76.1,88.7,9,6.37,5.44,None,Group Study,Postgraduate,Yes,100.0
+STU10205,Male,1.4,80.5,44.9,10,5.81,2.76,Music,Group Study,Postgraduate,Yes,87.9
+STU11474,Male,0.98,98.4,53.9,10,8.24,4.77,Clubs,Self Study,College,Yes,97.8
+STU10053,Male,2.59,72.8,83.3,4,6.92,3.04,None,Online Course,College,Yes,92.3
+STU10546,Female,5.18,73.5,91.4,10,7.52,2.46,None,Online Course,Postgraduate,Yes,100.0
+STU10069,Male,7.22,56.3,58.5,7,8.45,3.06,None,Self Study,College,Yes,99.5
+STU11784,Female,3.53,72.4,89.5,7,7.59,4.04,Volunteering,Online Course,College,Yes,94.2
+STU11978,Male,,71.8,75.5,8,6.36,5.36,Sports,Online Course,School,Yes,100.0
+STU12209,Male,6.72,68.3,58.3,4,6.61,3.98,Clubs,Online Course,School,No,94.7
+STU11935,Male,2.8,100.0,88.2,3,8.15,3.11,Music,Online Course,College,Yes,100.0
+STU11425,Male,5.86,78.2,67.3,9,7.91,2.98,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10184,Male,7.71,69.7,100.0,3,5.14,4.13,None,Self Study,College,Yes,100.0
+STU10138,Male,7.18,75.4,74.5,10,,3.08,Volunteering,Online Course,College,Yes,100.0
+STU10900,Male,2.43,72.1,74.4,6,7.23,3.76,None,Online Course,College,Yes,88.2
+STU10797,Male,7.49,83.3,,6,6.72,4.33,None,Coaching,College,Yes,100.0
+STU10133,Female,6.77,77.3,68.2,7,8.83,2.39,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10081,Other,6.41,66.1,54.2,5,7.42,1.51,None,Self Study,Postgraduate,Yes,100.0
+STU11587,Male,0.81,68.2,79.8,2,5.79,4.22,Clubs,Online Course,College,Yes,85.5
+STU12169,Female,4.02,100.0,48.9,4,6.28,0.0,Volunteering,Online Course,School,Yes,100.0
+STU10759,,6.78,67.5,72.5,2,5.86,4.05,Sports,Group Study,Postgraduate,Yes,100.0
+STU10542,Female,3.85,76.6,73.2,4,6.95,3.34,Music,Online Course,Postgraduate,No,100.0
+STU11020,Male,6.74,85.9,65.7,7,6.04,5.21,Sports,Self Study,College,Yes,100.0
+STU11792,Female,5.48,59.1,62.7,6,8.26,3.62,Clubs,,College,Yes,100.0
+STU10984,Male,6.97,93.7,77.9,6,8.01,2.37,Music,,College,Yes,100.0
+STU12243,Female,2.71,76.7,73.9,4,,3.73,Sports,Self Study,Postgraduate,Yes,98.9
+STU10166,Male,3.69,79.4,58.2,8,7.85,1.92,None,Group Study,School,Yes,100.0
+STU10249,Female,11.31,76.0,72.5,9,7.07,4.22,Sports,Self Study,College,Yes,100.0
+STU11332,Male,3.35,100.0,70.3,9,7.47,2.31,Clubs,Group Study,School,Yes,100.0
+STU10447,Male,,97.2,45.6,10,9.83,3.25,None,Coaching,College,No,100.0
+STU11802,Female,6.38,91.2,82.7,5,5.8,1.05,Sports,Self Study,School,Yes,100.0
+STU10859,Male,,65.8,83.9,4,8.29,4.82,Sports,Coaching,Postgraduate,Yes,100.0
+STU11359,Female,4.68,73.1,84.1,9,8.66,2.39,None,Self Study,Postgraduate,Yes,100.0
+STU11888,Male,5.9,85.3,53.6,6,7.81,5.83,None,Self Study,School,Yes,100.0
+STU10098,Female,3.51,81.4,100.0,5,5.64,4.76,Clubs,Coaching,School,Yes,100.0
+STU12219,Male,4.2,81.4,66.8,6,7.05,3.87,None,Self Study,Postgraduate,Yes,96.3
+STU10806,Male,7.7,84.2,62.7,2,4.58,4.72,Sports,Group Study,Postgraduate,Yes,100.0
+STU10738,Male,7.11,,77.3,7,9.21,4.11,Clubs,Self Study,College,Yes,100.0
+STU11958,Male,3.09,74.8,76.7,7,7.83,2.56,Clubs,Online Course,School,Yes,100.0
+STU11912,Male,6.52,76.4,59.7,2,8.69,4.39,Clubs,Online Course,College,No,91.2
+STU12027,Male,6.63,75.2,86.1,5,8.99,4.14,None,Self Study,School,Yes,100.0
+STU10103,Male,4.79,76.9,82.6,4,4.99,4.8,Clubs,Coaching,School,Yes,98.9
+STU10435,Female,7.36,68.9,54.9,6,8.48,2.79,Music,Self Study,,Yes,100.0
+STU10075,Male,5.78,77.1,85.3,9,6.77,4.21,Sports,Self Study,College,Yes,100.0
+STU10578,Female,8.0,57.3,61.4,10,7.05,3.52,None,Coaching,College,Yes,100.0
+STU11873,Male,4.27,64.4,65.2,7,8.31,3.82,Volunteering,Coaching,Postgraduate,Yes,100.0
+STU11957,Male,7.32,70.5,63.3,6,6.35,3.48,Music,Group Study,Postgraduate,Yes,100.0
+STU11231,Female,4.4,69.2,68.1,10,,3.43,None,Self Study,College,Yes,100.0
+STU10919,Female,8.23,79.6,74.3,10,5.45,3.4,Music,Coaching,School,Yes,100.0
+STU11327,Female,6.09,88.3,66.3,8,8.2,4.98,None,Online Course,School,Yes,100.0
+STU12327,Other,,72.6,77.4,4,8.56,7.17,Sports,Self Study,College,Yes,83.1
+STU12298,Female,4.0,88.2,64.6,2,6.45,0.0,,Self Study,School,Yes,90.7
+STU12257,Male,6.16,80.0,91.4,5,5.8,5.83,Music,Self Study,College,Yes,100.0
+STU10763,Male,6.98,82.0,59.7,9,7.87,3.24,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU12127,Male,9.91,71.5,62.5,6,5.44,0.91,Clubs,Online Course,Postgraduate,Yes,100.0
+STU10990,Male,4.53,75.2,61.1,8,6.89,3.41,Clubs,Self Study,School,Yes,100.0
+STU10389,Female,6.05,73.2,55.0,6,5.42,15.052168851449522,Clubs,self-study,Postgraduate,Yes,97.5
+STU10236,Female,4.19,73.2,64.7,4,5.14,0.71,None,Coaching,School,Yes,80.7
+STU12181,Female,9.74,97.4,65.3,3,,3.41,Clubs,Self Study,College,Yes,100.0
+STU10268,Male,6.2,99.0,40.0,7,8.08,5.34,Volunteering,Online Course,School,Yes,100.0
+STU11330,Female,6.98,64.5,71.4,9,5.5,3.69,Sports,Self Study,College,Yes,100.0
+STU12157,Female,,67.6,71.0,8,6.68,5.6,Sports,Self Study,College,Yes,99.5
+STU10118,Other,5.54,89.2,65.2,7,8.32,4.08,Sports,Online Course,College,Yes,100.0
+STU10438,Male,3.36,95.1,66.9,3,7.56,2.75,Sports,Self Study,School,Yes,100.0
+STU10674,Male,2.87,78.5,63.7,5,8.06,3.68,Music,Coaching,College,Yes,99.8
+STU10250,Female,3.16,87.0,55.7,7,7.25,4.01,,Group Study,School,Yes,94.2
+STU12466,Male,3.95,79.5,74.2,8,8.44,3.3,,Self Study,College,Yes,100.0
+STU11575,Female,2.59,63.4,61.6,3,5.37,2.29,Volunteering,Self Study,College,Yes,87.3
+STU10064,Female,6.67,98.2,64.9,8,8.82,0.67,Music,Self Study,School,No,100.0
+STU10095,Male,2.13,58.7,75.1,2,6.67,3.89,Clubs,Online Course,Postgraduate,Yes,97.9
+STU12391,Female,1.58,,50.7,9,6.4,2.67,Clubs,Self Study,School,Yes,100.0
+STU10034,Male,3.87,79.7,67.3,7,7.05,3.98,None,Coaching,,Yes,95.9
+STU12190,Male,,70.9,60.0,3,8.46,3.63,None,Self Study,School,No,93.8
+STU12146,Male,4.11,68.0,61.8,3,8.01,4.47,Volunteering,Coaching,School,Yes,92.6
+STU12296,Female,7.36,67.4,71.8,5,9.31,6.38,Clubs,Coaching,Postgraduate,,100.0
+STU10449,Female,7.73,86.7,86.1,3,6.93,3.58,Volunteering,Self Study,College,Yes,100.0
+STU11470,Male,1.96,65.6,88.4,9,,2.91,Volunteering,Self Study,College,No,100.0
+STU11796,Female,4.85,83.4,94.9,9,5.72,7.62,Clubs,Self Study,School,Yes,100.0
+STU10717,,2.37,62.2,67.9,8,8.57,3.61,None,Self Study,School,Yes,100.0
+STU11968,Male,5.32,74.2,50.6,2,8.19,1.29,Music,Coaching,College,Yes,100.0
+STU12187,Female,5.26,62.6,59.3,4,8.35,3.32,None,Self Study,College,Yes,100.0
+STU10001,Female,6.11,84.6,64.4,5,7.38,4.34,,Self Study,Postgraduate,Yes,100.0
+STU10457,Female,7.65,84.4,42.0,9,6.07,0.09,None,Coaching,School,Yes,100.0
+STU11102,Female,,100.0,58.1,6,6.53,5.12,Clubs,Self Study,College,Yes,100.0
+STU11109,Male,8.11,87.4,86.3,2,6.22,3.95,Music,Online Course,College,Yes,100.0
+STU11909,Female,4.56,77.3,68.7,6,5.79,0.9,Music,Self Study,School,Yes,97.0
+STU10083,Male,4.77,77.0,69.4,10,6.37,4.32,Clubs,Online Course,College,Yes,100.0
+STU11482,Male,6.63,74.9,58.7,4,6.8,2.28,None,Coaching,Postgraduate,Yes,100.0
+STU12003,Male,6.37,122.71210269322161,57.9,3,4.48,3.87,Sports,Self Study,College,Yes,93.5
+STU10677,Male,10.27,88.4,45.0,9,5.4,3.33,Sports,Coaching,,Yes,100.0
+STU11589,Male,3.53,72.7,58.9,9,8.5,3.96,None,Online Course,School,Yes,98.9
+STU12138,Female,7.19,65.5,60.2,4,5.67,3.67,None,Self Study,College,Yes,99.8
+STU11047,Other,4.42,97.3,80.3,8,6.74,1.92,None,Self Study,College,Yes,100.0
+STU11461,Female,7.43,93.7,86.0,10,6.91,5.16,Music,Online Course,School,Yes,100.0
+STU10771,Male,8.96,,84.9,10,8.29,,Music,Self Study,Postgraduate,Yes,100.0
+STU11669,Female,6.06,76.9,66.4,4,7.55,4.24,Volunteering,Online Course,College,Yes,100.0
+STU12087,Male,5.31,84.1,,2,9.54,3.82,None,Online Course,College,No,100.0
+STU11990,Male,2.78,74.2,51.0,7,7.55,21.820843527958647,Clubs,Online Course,College,Yes,99.4
+STU10518,Male,,90.7,88.0,4,6.42,4.03,None,Online Course,School,No,100.0
+STU10823,Female,3.18,80.0,70.0,5,7.72,1.2,None,Online Course,College,Yes,100.0
+STU10405,Female,6.54,,71.3,6,6.45,0.91,Music,Online Course,Postgraduate,Yes,100.0
+STU10385,Female,2.3,78.0,89.4,6,7.57,6.84,None,Online Course,College,Yes,100.0
+STU12018,Male,4.18,,74.8,6,7.04,5.56,None,Group Study,College,Yes,100.0
+STU12250,Male,7.83,57.0,61.0,10,7.06,2.12,Clubs,Online Course,Postgraduate,Yes,100.0
+STU10105,Male,3.63,92.1,68.5,2,5.6,5.1,Sports,Self Study,College,Yes,91.2
+STU11634,Male,5.47,77.1,49.3,7,,1.61,Clubs,Self Study,College,Yes,95.7
+STU12396,Female,3.18,76.9,68.2,6,6.13,5.13,Clubs,Self Study,College,Yes,95.7
+STU10689,Male,4.58,73.7,76.4,8,6.76,2.76,Clubs,Online Course,College,Yes,100.0
+STU12033,Male,6.82,99.5,69.1,8,7.66,1.46,,Self Study,College,Yes,100.0
+STU10827,Female,5.56,85.0,81.5,9,6.5,0.0,Clubs,Online Course,College,Yes,100.0
+STU11241,,8.05,59.0,83.9,5,6.59,4.82,None,Online Course,College,Yes,100.0
+STU10063,Female,5.83,93.9,54.3,8,5.12,6.92,Sports,Online Course,,No,90.7
+STU11306,Female,0.54,46.5,97.4,8,9.51,3.67,Clubs,Self Study,School,Yes,100.0
+STU10853,Female,7.32,87.9,77.1,3,5.75,2.84,Sports,Self Study,Postgraduate,Yes,100.0
+STU12306,Male,4.51,62.1,61.9,8,,8.23,Sports,Self Study,School,Yes,100.0
+STU10177,Female,8.66,96.8,97.6,9,,4.33,Music,Group Study,School,Yes,100.0
+STU11263,Male,7.09,81.6,63.5,8,7.51,7.34,None,Online Course,College,No,100.0
+STU10224,Male,3.33,80.2,73.5,5,8.15,1.95,,,School,Yes,98.3
+STU10146,Male,4.67,76.1,69.6,7,7.66,5.45,Clubs,Self Study,School,Yes,100.0
+STU11089,Male,6.81,68.4,93.4,6,7.72,3.43,Volunteering,Online Course,Postgraduate,Yes,100.0
+STU10374,Male,7.18,55.3,59.3,2,7.55,3.47,None,Coaching,Postgraduate,Yes,96.3
+STU11825,Male,3.74,66.8,71.8,2,7.33,1.53,Music,Self Study,School,Yes,89.6
+STU12121,Male,6.61,64.7,76.5,9,7.24,2.08,Clubs,Online Course,School,Yes,100.0
+STU11143,Female,1.5,76.9,95.5,7,6.05,0.97,Clubs,Self Study,,Yes,99.2
+STU12404,Female,4.1,80.2,55.2,8,5.16,5.55,None,Coaching,School,Yes,100.0
+STU12175,Male,6.17,81.3,89.6,2,6.04,4.27,None,Self Study,College,Yes,100.0
+STU11275,Female,4.25,91.1,66.3,6,5.23,,None,Online Course,College,Yes,100.0
+STU11266,Male,5.27,92.0,51.9,5,7.84,3.97,None,Self Study,School,Yes,100.0
+STU12245,Female,6.48,75.7,52.3,10,8.24,3.06,Clubs,Coaching,,Yes,100.0
+STU12346,Male,,88.4,42.0,3,8.85,0.92,None,,,Yes,86.9
+STU10010,Female,3.79,74.3,72.2,5,8.79,1.71,Clubs,Coaching,College,Yes,96.4
+STU10450,Female,6.27,92.0,70.3,3,8.43,3.76,Volunteering,Self Study,School,Yes,100.0
+STU11839,Male,8.46,78.3,87.4,10,6.79,6.87,Sports,Self Study,School,Yes,100.0
+STU10709,Male,5.06,90.3,70.3,2,5.93,2.67,None,Online Course,School,Yes,99.4
+STU10256,Female,7.05,63.6,50.4,6,7.25,2.07,Music,Online Course,College,Yes,100.0
+STU10883,Male,3.28,100.0,67.3,3,5.41,5.8,None,Online Course,School,Yes,100.0
+STU11618,Female,1.95,89.7,67.5,6,6.16,3.18,Clubs,Online Course,College,No,97.0
+STU10390,Female,2.67,74.0,64.3,2,3.5,4.03,Clubs,Online Course,Postgraduate,Yes,94.1
+STU12468,Female,8.15,64.7,79.8,5,6.33,0.42,None,Self Study,College,Yes,100.0
+STU12407,Female,6.08,87.4,41.5,4,6.58,2.68,Volunteering,Coaching,Postgraduate,Yes,97.7
+STU11582,Male,5.19,88.3,61.7,6,7.58,1.75,None,Group Study,College,Yes,100.0
+STU10909,Male,5.64,83.9,78.0,4,6.06,3.69,,Self Study,School,Yes,100.0
+STU10925,Female,5.17,100.0,50.4,10,7.89,3.27,Clubs,Self Study,College,Yes,100.0
+STU10752,Female,4.9,77.5,72.5,6,7.93,0.29,Clubs,Self Study,College,Yes,100.0
+STU11916,Female,0.5,67.6,56.2,4,7.2,2.98,Sports,Group Study,School,Yes,79.9
+STU10461,Male,6.13,62.8,75.8,6,6.68,6.88,None,Self Study,Postgraduate,Yes,100.0
+STU11748,Female,6.13,84.0,77.2,4,6.61,5.64,None,Self Study,School,No,100.0
+STU11974,Male,8.89,88.6,64.0,3,5.85,1.86,None,Self Study,College,Yes,100.0
+STU11225,Female,3.7,76.8,68.3,2,7.95,3.17,None,Self Study,School,Yes,90.8
+STU11169,Male,4.68,57.2,67.1,5,6.85,0.8,Clubs,Coaching,College,Yes,100.0
+STU10959,Female,5.5,75.3,47.7,9,7.39,4.04,None,Online Course,College,Yes,100.0
+STU10502,Female,7.29,86.3,36.8,4,6.5,6.22,Volunteering,Online Course,School,Yes,100.0
+STU11728,Female,4.44,100.0,65.0,7,6.39,1.53,Sports,Self Study,Postgraduate,Yes,100.0
+STU10740,Male,1.01,64.2,83.9,7,5.31,4.64,None,Self Study,College,Yes,99.9
+STU10041,Male,6.99,83.8,68.1,7,6.39,0.0,None,Self Study,College,Yes,100.0
+STU10869,Male,4.33,81.6,74.5,10,8.91,2.1,Sports,Self Study,Postgraduate,Yes,100.0
+STU10732,Other,5.62,96.1,68.5,10,8.96,3.78,Clubs,Group Study,Postgraduate,Yes,100.0
+STU10540,Male,3.93,77.1,51.0,5,6.93,4.64,Clubs,Self Study,College,Yes,86.2
+STU11202,Female,4.53,67.3,56.4,10,7.15,3.09,Sports,Group Study,School,Yes,100.0
+STU11340,Male,5.07,76.0,68.4,8,5.81,3.64,None,Coaching,School,Yes,100.0
+STU10698,Male,3.57,75.5,62.4,9,9.42,7.86,None,Self Study,College,Yes,90.7
+STU12025,Male,2.83,90.5,68.6,4,6.92,2.27,Sports,Self Study,School,Yes,100.0
+STU12099,Male,,92.2,65.6,8,8.27,4.71,Volunteering,Coaching,School,Yes,100.0
+STU12088,Female,4.56,96.0,59.1,4,5.74,0.12,None,Self Study,College,Yes,96.6
+STU11372,Male,7.16,65.7,97.7,3,6.32,8.76,Volunteering,Self Study,College,Yes,100.0
+STU11146,Male,6.88,60.3,61.7,7,6.41,2.37,Music,Coaching,Postgraduate,Yes,100.0
+STU11032,Male,5.91,75.8,90.7,4,7.62,2.83,None,Self Study,College,,100.0
+STU10373,Male,7.21,65.1,67.1,9,8.75,3.68,Clubs,Coaching,School,Yes,100.0
+STU10668,Female,6.46,70.6,65.4,3,7.16,3.03,Volunteering,Group Study,School,Yes,100.0
+STU11432,Other,3.64,,70.8,7,8.07,3.05,Clubs,Online Course,College,Yes,100.0
+STU12195,Male,5.85,76.5,58.2,6,6.61,5.74,None,Coaching,School,Yes,92.0
+STU10358,Female,,79.5,67.2,6,7.41,4.65,Sports,Self Study,School,Yes,100.0
+STU10968,Male,4.02,55.2,66.8,10,7.48,3.11,Music,Self Study,College,Yes,95.5
+STU10784,Female,7.29,93.7,60.8,10,5.73,4.03,None,Self Study,Postgraduate,Yes,100.0
+STU10736,Male,5.82,84.5,42.0,10,9.09,2.87,Sports,Self Study,College,Yes,100.0
+STU11354,Female,,73.8,59.9,5,6.74,5.57,None,Coaching,School,Yes,86.6
+STU11036,Female,5.5,62.0,59.1,4,8.32,3.2,Clubs,Self Study,Postgraduate,Yes,95.2
+STU10971,Male,4.93,59.5,74.1,4,6.93,3.65,Sports,Online Course,College,Yes,100.0
+STU10471,Male,6.2,90.3,63.8,9,9.6,3.9,None,Self Study,Postgraduate,Yes,100.0
+STU10656,Female,6.14,68.7,65.6,2,7.13,7.38,Sports,Self Study,Postgraduate,Yes,100.0
+STU12365,Female,10.56,67.6,67.4,6,6.92,2.09,None,Self Study,College,Yes,100.0
+STU11910,Male,6.37,57.6,,10,9.13,4.36,None,Self Study,Postgraduate,Yes,100.0
+STU12342,Female,5.12,66.0,77.3,10,8.28,6.8,Clubs,Self Study,College,Yes,100.0
+STU11397,,6.71,61.6,84.4,5,5.03,6.59,None,Group Study,College,Yes,100.0
+STU11537,Female,,100.0,51.6,6,7.51,2.56,None,Coaching,College,Yes,100.0
+STU12010,Female,6.75,85.3,65.5,4,5.24,0.79,,Online Course,Postgraduate,No,100.0
+STU12193,Female,3.5,81.2,82.2,3,7.88,3.49,None,Self Study,College,Yes,100.0
+STU11550,Female,6.29,78.7,54.6,7,6.11,3.5,None,Online Course,College,Yes,100.0
+STU11329,Female,5.25,80.8,82.2,5,6.0,2.82,None,Self Study,College,Yes,97.1
+STU11257,Male,7.05,75.6,51.8,6,8.15,1.34,None,Self Study,College,Yes,100.0
+STU12173,Other,4.9,84.7,,6,6.76,0.31,Sports,Group Study,College,Yes,100.0
+STU11426,Female,3.68,88.7,88.8,9,7.92,4.54,None,Self Study,Postgraduate,Yes,100.0
+STU11465,Male,7.48,75.1,69.1,2,6.5,1.7,Music,Group Study,College,Yes,99.8
+STU11556,Male,4.24,82.5,68.9,7,6.5,2.84,Volunteering,Self Study,College,Yes,100.0
+STU12167,Male,11.13,93.7,77.3,10,7.01,3.57,,Self Study,School,Yes,100.0
+STU11251,Female,7.43,74.6,64.3,4,6.98,5.02,Clubs,Online Course,School,Yes,100.0
+STU11700,Female,5.91,81.8,81.3,3,7.14,0.56,None,Online Course,,Yes,100.0
+STU11253,Male,3.91,75.9,82.1,3,5.46,4.29,Clubs,Self Study,College,,89.8
+STU12437,Other,3.53,81.1,83.1,8,5.16,5.33,Clubs,Coaching,School,Yes,100.0
+STU12330,Female,7.5,55.3,84.1,3,7.92,5.12,Clubs,Self Study,School,Yes,100.0
+STU11237,Male,5.55,72.1,65.6,9,6.9,4.49,None,Self Study,Postgraduate,Yes,95.7
+STU10886,Male,6.08,83.1,89.7,5,8.88,2.63,None,Self Study,College,Yes,100.0
+STU10080,Female,4.88,94.5,58.4,3,6.68,2.49,Sports,Self Study,College,Yes,95.6
+STU11173,Female,5.27,84.8,63.6,8,5.41,5.73,Sports,Self Study,College,Yes,96.8
+STU10815,Female,4.24,91.0,78.8,5,7.0,4.07,Music,Online Course,College,Yes,100.0
+STU11853,Female,4.9,,67.8,9,7.7,7.59,Music,Self Study,College,Yes,100.0
+STU11997,Male,6.11,72.3,63.7,8,6.03,5.85,Clubs,Self Study,School,Yes,100.0
+STU10672,Male,6.04,86.3,73.4,10,6.98,2.05,None,Online Course,School,Yes,100.0
+STU12198,Other,5.53,76.9,65.4,4,7.76,5.95,Clubs,Self Study,School,Yes,96.3
+STU12453,Male,6.58,77.1,78.7,8,6.62,5.66,Clubs,Coaching,School,Yes,100.0
+STU10058,Male,,88.1,62.5,2,7.51,1.49,Music,Coaching,College,Yes,100.0
+STU10134,Male,5.06,78.1,48.9,9,7.55,4.45,Volunteering,Online Course,Postgraduate,Yes,97.8
+STU11141,Female,8.94,59.3,91.4,7,7.49,1.54,Sports,Group Study,School,Yes,100.0
+STU10934,Male,8.79,79.3,67.7,9,7.16,3.74,Clubs,Coaching,Postgraduate,No,100.0
+STU10929,Male,5.04,100.0,76.3,3,6.44,3.06,Clubs,Online Course,College,Yes,100.0
+STU10824,Female,,87.3,65.1,6,1.192812990772957,3.69,Clubs,Self Study,School,No,86.7
+STU11433,Male,3.76,82.2,65.2,6,5.92,6.2,Sports,Self Study,,Yes,88.8
+STU11393,Male,4.41,,73.4,9,,4.56,None,Self Study,College,Yes,96.4
+STU11532,Male,6.12,72.5,63.7,3,6.1,3.58,Sports,Self Study,College,Yes,100.0
+STU11215,Female,0.5,68.6,78.7,6,5.41,6.62,Clubs,Self Study,School,Yes,83.7
+STU10505,Male,0.5,74.8,69.0,2,9.37,2.43,Sports,Self Study,College,Yes,85.5
+STU12482,Female,3.74,80.3,66.2,10,8.17,5.33,None,Online Course,School,Yes,100.0
+STU10348,Female,6.68,70.6,88.1,7,6.48,3.87,Sports,Coaching,College,Yes,100.0
+STU10387,Female,6.38,84.1,50.5,3,8.12,4.27,Music,Self Study,School,Yes,100.0
+STU11025,Female,1.28,67.0,49.3,10,7.87,4.98,,Group Study,College,Yes,79.0
+STU11959,Male,4.93,71.1,57.9,5,5.25,3.69,Volunteering,Self Study,School,Yes,96.6
+STU11385,Female,2.0,68.9,75.2,5,6.82,2.07,None,Online Course,College,Yes,97.5
+STU10895,Female,4.88,85.0,68.4,9,7.07,4.23,Sports,Group Study,Postgraduate,Yes,100.0
+STU10829,Male,28.784280346775812,69.9,62.5,8,6.18,5.18,Sports,Group Study,School,Yes,94.4
+STU12446,Female,10.71,100.0,83.2,4,7.98,4.06,None,Group Study,College,Yes,100.0
+STU10476,Female,4.82,81.8,53.1,9,9.16,4.74,Sports,Group Study,College,Yes,100.0
+STU11684,Male,7.96,100.0,62.4,8,7.16,3.06,None,Self Study,School,Yes,100.0
+STU12152,Female,6.96,89.9,76.6,4,5.59,8.23,None,Self Study,School,Yes,100.0
+STU12339,Male,7.6,92.4,61.2,4,6.38,4.04,,Coaching,School,Yes,99.2
+STU12137,Male,6.0,40.3,57.2,9,9.46,1.64,None,Online Course,Postgraduate,Yes,100.0
+STU12101,Female,6.01,,85.3,8,8.61,2.9,None,Self Study,College,Yes,100.0
+STU10653,Female,8.84,83.0,78.9,2,8.04,3.14,None,Group Study,School,Yes,100.0
+STU10173,Female,4.59,72.4,62.0,8,9.53,1.65,None,Coaching,Postgraduate,Yes,100.0
+STU11475,Male,5.12,70.0,43.7,3,6.34,3.34,None,Self Study,College,Yes,94.6
+STU11150,Male,7.56,78.6,86.0,2,4.52,4.8,Clubs,Group Study,Postgraduate,Yes,100.0
+STU10039,Female,3.85,85.4,44.9,3,,0.43,Sports,Online Course,School,Yes,91.7
+STU11555,Other,2.75,84.9,58.8,4,6.29,7.97,Clubs,Self Study,School,No,100.0
+STU12397,Female,4.62,85.4,76.0,9,7.06,5.03,Clubs,Self Study,Postgraduate,Yes,100.0
+STU10714,Female,5.48,65.7,100.0,6,5.28,4.44,Clubs,Self Study,School,Yes,100.0
+STU10091,Male,6.83,68.0,72.3,3,6.79,2.92,Sports,Online Course,Postgraduate,Yes,100.0
+STU10167,Male,7.36,73.2,41.5,5,7.7,3.91,None,,College,No,100.0
+STU11206,Other,4.15,75.2,45.2,4,7.56,1.29,Sports,Self Study,School,Yes,100.0
+STU10876,Female,1.58,70.7,83.5,10,7.13,,Sports,Coaching,College,Yes,100.0
+STU10445,Female,4.81,76.4,84.3,3,7.24,6.76,Music,Self Study,College,Yes,100.0
+STU12163,Male,8.1,84.8,62.2,2,6.54,3.23,Clubs,Online Course,Postgraduate,Yes,97.6
+STU12303,Male,0.5,,60.2,10,,4.09,Sports,Online Course,College,Yes,79.5
+STU12445,Female,7.14,76.1,66.5,8,7.39,1.74,Clubs,Online Course,School,Yes,100.0
+STU11094,Female,5.86,83.4,60.7,7,5.41,6.07,Music,Self Study,College,Yes,96.6
+STU11828,Male,8.62,83.7,32.2,6,5.89,2.35,Volunteering,Online Course,College,Yes,99.6
+STU11156,Female,5.72,82.2,97.3,7,6.73,2.55,,Coaching,Postgraduate,Yes,100.0
+STU11325,Female,5.96,74.1,71.9,2,5.58,4.45,Music,Coaching,Postgraduate,Yes,100.0
+STU10217,,6.58,79.4,57.0,3,5.96,1.24,None,Self Study,College,Yes,94.4
+STU11351,Female,4.99,85.1,73.4,6,7.47,4.49,Clubs,Online Course,School,Yes,100.0
+STU10511,Male,2.38,100.0,73.6,2,6.8,6.59,None,Self Study,College,Yes,86.8
+STU11681,Male,2.5,92.5,76.1,4,8.24,,Sports,Self Study,Postgraduate,Yes,93.4
+STU10500,Female,2.51,74.0,57.2,3,6.02,3.34,Sports,Group Study,School,Yes,94.4
+STU12073,Female,1.54,81.7,62.9,4,7.03,8.83,None,Self Study,College,Yes,77.0
+STU11857,Male,5.16,88.1,53.9,10,8.58,0.77,None,Online Course,,Yes,100.0
+STU11389,Female,6.17,74.9,60.5,3,7.99,6.42,None,Online Course,College,Yes,94.8
+STU11520,Female,1.63,78.1,71.1,5,6.9,3.69,None,Online Course,School,Yes,90.3
+STU11672,Male,2.3,85.3,,10,7.95,3.17,None,Online Course,Postgraduate,No,100.0
+STU10339,Female,7.81,92.4,72.4,4,8.09,3.84,Clubs,Self Study,College,Yes,100.0
+STU12389,Female,7.75,75.9,48.4,4,7.62,1.14,None,Online Course,College,Yes,99.3
+STU11189,Other,6.73,100.0,92.0,2,5.02,2.88,None,Self Study,College,Yes,100.0
+STU10029,Male,6.33,91.0,79.5,2,7.07,0.29,None,Coaching,College,Yes,100.0
+STU11541,Male,4.98,79.1,46.2,4,6.27,4.0,None,Online Course,Postgraduate,Yes,93.0
+STU11218,Female,1.0,83.3,58.7,5,6.88,1.19,Clubs,Self Study,School,Yes,81.3
+STU12054,Male,11.21,82.3,95.5,8,7.6,0.92,None,Coaching,College,Yes,100.0
+STU10795,Female,1.93,71.0,54.1,8,,4.84,Music,Group Study,School,Yes,98.3
+STU10946,Male,4.79,74.1,42.5,5,10.0,1.79,None,Coaching,College,Yes,100.0
+STU11417,Male,9.96,74.2,87.0,2,7.13,2.36,Clubs,Group Study,College,Yes,100.0
+STU10170,Male,5.42,70.1,99.2,2,8.56,2.62,Volunteering,Self Study,College,Yes,97.4
+STU12106,Female,4.48,80.3,66.1,7,6.49,6.36,Music,Self Study,School,Yes,100.0
+STU11677,Female,7.48,,66.1,2,6.51,6.33,Volunteering,Coaching,College,Yes,100.0
+STU11198,Female,3.65,76.0,,3,7.91,3.81,None,Self Study,School,Yes,100.0
+STU11543,Female,5.97,77.6,77.5,6,6.4,,None,Self Study,Postgraduate,Yes,100.0
+STU11254,Female,6.1,87.1,60.0,4,8.47,1.55,Sports,Online Course,Postgraduate,No,100.0
+STU11277,Female,4.3,67.1,78.4,8,7.99,3.39,None,Coaching,School,Yes,100.0
+STU10913,Male,6.61,79.6,,8,7.01,4.56,Clubs,Coaching,,Yes,100.0
+STU10492,Female,6.23,97.5,35.0,2,6.4,4.0,Sports,Online Course,College,Yes,100.0
+STU10954,Male,3.18,86.7,74.0,4,6.89,0.85,Sports,Coaching,School,Yes,100.0
+STU11098,Male,6.49,71.1,56.2,2,10.0,2.02,Music,Self Study,School,Yes,100.0
+STU11033,Male,4.5,93.7,88.2,8,,4.46,Clubs,Coaching,School,Yes,100.0
+STU10588,Female,3.83,67.1,79.0,5,7.22,3.38,Clubs,Self Study,College,Yes,97.9
+STU10751,Male,5.52,91.8,73.4,3,10.0,0.28,None,Self Study,Postgraduate,No,100.0
+STU10235,Female,4.04,77.7,59.2,2,6.9,3.53,Clubs,Coaching,School,Yes,92.9
+STU10733,Female,6.6,65.1,,8,7.49,2.43,Clubs,Self Study,School,Yes,100.0
+STU10241,Male,3.75,67.8,79.9,8,7.43,1.52,Music,Self Study,Postgraduate,Yes,100.0
+STU11157,Female,5.5,75.2,44.7,7,7.57,2.72,Clubs,Coaching,,Yes,100.0
+STU12151,Male,5.37,66.7,61.8,9,7.52,2.31,Sports,Coaching,School,Yes,100.0
+STU11210,Other,6.1,74.7,59.3,10,7.94,2.48,None,Group Study,,Yes,100.0
+STU11066,Male,5.38,98.1,73.0,9,4.86,3.48,Clubs,Self Study,School,Yes,100.0
+STU11063,Female,4.59,62.9,70.2,3,7.53,2.32,Clubs,Online Course,College,Yes,90.6
+STU11168,Female,9.1,64.8,30.7,6,9.35,1.88,None,Group Study,School,Yes,100.0
+STU11493,Male,4.25,74.3,52.7,6,9.37,0.12,Music,Self Study,College,Yes,100.0
+STU12476,Female,5.57,70.6,76.9,5,5.62,1.73,Sports,Self Study,School,Yes,99.8
+STU10885,Male,3.31,77.1,79.0,10,7.94,4.31,Sports,Self Study,College,Yes,96.0
+STU10144,Male,6.04,66.5,83.1,5,8.76,1.82,Clubs,Self Study,College,Yes,100.0
+STU12465,Male,4.09,70.2,69.7,10,5.62,0.47,Sports,Coaching,College,Yes,100.0
+STU10851,Male,4.78,78.8,82.1,10,6.56,1.9,Sports,Group Study,,Yes,100.0
+STU10718,Female,6.87,92.5,61.5,3,7.64,3.48,Volunteering,Self Study,School,Yes,100.0
+STU12383,Male,2.43,70.5,69.1,7,8.06,3.31,Clubs,Coaching,College,Yes,100.0
+STU10265,Female,6.44,71.5,54.2,8,6.46,3.81,Music,Coaching,School,Yes,93.0
+STU10076,Male,6.88,82.6,68.5,9,6.58,0.0,Music,Group Study,Postgraduate,Yes,100.0
+STU10396,Female,5.78,63.5,76.7,2,7.56,5.74,None,Self Study,College,Yes,100.0
+STU12129,Female,6.34,69.6,57.2,6,7.14,3.07,None,Self Study,College,Yes,100.0
+STU12347,Female,5.15,88.8,86.0,7,7.37,2.66,Sports,Self Study,Postgraduate,Yes,100.0
+STU10397,Female,7.02,89.7,74.1,7,5.76,5.42,None,Coaching,Postgraduate,Yes,100.0
+STU11366,Female,6.25,64.9,63.1,3,6.4,1.54,Clubs,Self Study,College,Yes,100.0
+STU12417,Female,4.01,57.3,64.8,6,6.36,2.84,Sports,Online Course,School,Yes,97.5
+STU11904,Female,5.24,96.6,74.5,6,5.25,4.61,None,Online Course,College,Yes,100.0
+STU10596,Female,4.65,64.4,72.5,8,6.38,5.92,Volunteering,Coaching,College,Yes,94.6
+STU11297,Male,2.35,58.1,50.5,4,8.5,3.01,None,Coaching,,Yes,85.0
+STU11822,Male,7.04,79.2,53.9,7,5.45,4.89,None,Self Study,College,Yes,95.8
+STU10873,,6.95,60.3,70.5,9,6.95,3.47,None,,School,Yes,100.0
+STU11549,Male,6.6,75.9,28.3,6,9.14,2.43,Music,Online Course,Postgraduate,Yes,100.0
+STU10037,Male,5.27,67.6,78.0,8,8.69,3.26,None,Self Study,College,Yes,100.0
+STU12113,Female,7.32,72.9,84.3,8,6.45,2.62,None,Coaching,Postgraduate,No,100.0
+STU12135,Male,3.9,81.8,63.1,4,6.18,3.79,Music,Online Course,College,Yes,94.2
+STU10978,Male,4.68,75.3,60.1,10,7.31,5.82,Sports,Coaching,School,Yes,100.0
+STU11572,Male,5.06,76.1,85.5,5,6.71,8.95,None,Self Study,School,Yes,100.0
+STU11123,Male,4.0,67.4,81.2,6,7.42,1.37,Music,Online Course,Postgraduate,Yes,100.0
+STU11893,Male,3.23,65.1,48.7,10,6.3,4.44,None,Online Course,School,Yes,100.0
+STU10676,Female,6.2,56.9,60.9,4,7.78,4.07,Clubs,Online Course,College,Yes,100.0
+STU10729,Female,3.22,85.4,84.1,5,6.49,3.79,Music,Coaching,College,Yes,100.0
+STU10413,Female,4.14,78.0,60.5,8,7.62,4.26,None,Self Study,School,Yes,100.0
+STU11517,,18.64054609398345,,51.9,8,8.4,2.9,None,Coaching,College,No,100.0
+STU11650,Other,4.11,57.2,44.7,6,5.83,5.8,Volunteering,Self Study,Postgraduate,Yes,83.7
+STU10826,Female,5.56,81.4,75.1,10,,6.46,Music,Online Course,School,Yes,100.0
+STU10617,Female,6.93,70.0,66.5,3,6.44,5.2,Clubs,Online Course,College,Yes,100.0
+STU10115,Male,5.64,55.7,,3,6.31,1.03,Sports,Group Study,School,Yes,100.0
+STU10418,Female,8.16,100.0,81.4,7,7.72,4.37,None,Group Study,School,Yes,100.0
+STU11626,Female,7.76,76.9,66.4,2,6.36,4.41,Volunteering,,Postgraduate,Yes,98.3
+STU12463,Female,5.19,81.1,82.7,3,3.5,3.39,None,Coaching,Postgraduate,Yes,100.0
+STU10090,Male,,85.5,96.4,5,5.5,0.68,None,Self Study,College,Yes,100.0
+STU12083,Male,3.19,79.8,66.1,2,7.29,4.57,Volunteering,Self Study,College,Yes,81.6
+STU10754,,9.6,89.6,84.1,8,6.27,6.24,,Coaching,College,Yes,100.0
+STU11631,Male,3.06,,72.7,9,8.23,2.35,None,Self Study,School,Yes,100.0
+STU10012,Male,7.06,,50.2,5,7.66,3.76,Sports,Online Course,Postgraduate,Yes,100.0
+STU10285,Male,3.28,82.6,72.2,7,6.55,2.56,Sports,Self Study,College,Yes,100.0
+STU11067,Female,3.36,86.6,77.0,10,6.91,3.72,None,Online Course,College,,100.0
+STU11192,Female,7.52,77.0,80.0,5,9.21,3.82,Clubs,Group Study,School,Yes,100.0
+STU11441,Female,4.17,79.4,76.5,4,,3.2,Volunteering,Online Course,School,Yes,92.5
+STU12349,Female,8.5,69.1,75.5,9,9.91,2.5,Sports,,College,Yes,100.0
+STU12348,Female,4.12,85.6,63.1,3,3.5,3.3,Clubs,Self Study,College,Yes,100.0
+STU12269,Male,1.81,60.0,94.1,2,8.97,4.45,None,Self Study,College,Yes,83.9
+STU11569,Female,6.96,76.9,62.8,4,6.54,2.73,None,Coaching,Postgraduate,Yes,100.0
+STU12155,Male,5.95,79.7,93.2,9,7.86,4.19,Music,Online Course,College,Yes,100.0
+STU11688,Male,6.0,,52.8,7,5.02,0.0,Sports,Group Study,College,Yes,82.6
+STU10852,Male,4.52,83.0,83.0,10,8.6,6.42,Music,Self Study,School,Yes,100.0
+STU10896,Male,7.6,85.2,65.0,4,7.57,4.45,None,Online Course,School,Yes,100.0
+STU10497, FEMALE ,1.84,63.5,59.6,2,6.72,3.56,Clubs,Group Study,Postgraduate,Yes,78.2
+STU11783,Male,0.63,87.6,51.8,4,6.34,3.86,None,Coaching,College,Yes,67.5
+STU10336,Male,3.07,76.7,53.2,4,8.26,1.38,Music,Online Course,College,Yes,96.4
+STU10516,Male,6.19,71.2,62.4,7,7.93,,Music,Self Study,College,Yes,100.0
+STU11349,Female,7.33,88.4,77.0,8,9.08,6.34,None,Group Study,College,Yes,100.0
+STU11016,Male,3.46,74.3,54.3,10,7.26,1.96,Music,Online Course,School,Yes,100.0
+STU12355,Female,3.13,75.2,70.8,2,6.49,1.51,Music,Self Study,College,No,88.8
+STU11782,Female,5.69,126.904278939454,67.6,4,7.98,1.89,Sports,Self Study,School,,97.0
+STU11786,Male,7.93,98.3,52.5,3,6.02,4.35,None,Online Course,College,Yes,99.3
+STU12071,Female,4.82,76.8,71.1,9,5.76,5.05,Clubs,Online Course,College,Yes,100.0
+STU10357,,5.97,77.3,40.9,8,6.53,4.93,Clubs,Self Study,School,Yes,100.0
+STU12390,Female,5.41,92.2,66.7,10,5.3,2.6,Clubs,Online Course,School,Yes,100.0
+STU11313,Male,,71.7,69.1,10,8.5,4.24,None,Coaching,College,Yes,100.0
+STU11636,Other,7.67,70.7,65.5,8,7.17,0.71,Volunteering,Self Study,College,Yes,100.0
+STU10551,Female,6.27,90.0,78.1,4,4.97,3.6,None,Online Course,Postgraduate,Yes,100.0
+STU11228,Male,,85.6,80.5,8,,1.74,Clubs,Online Course,College,Yes,100.0
+STU12242,Male,3.89,76.7,54.8,9,9.33,0.87,Sports,Self Study,College,Yes,100.0
+STU10958,Male,9.99,66.7,78.9,8,4.95,4.61,None,Self Study,College,Yes,100.0
+STU11774,Female,8.91,100.0,64.3,5,6.7,3.73,None,Self Study,School,Yes,100.0
+STU11009,Male,23.53636362701782,84.6,65.4,10,10.0,4.96,Sports,Online Course,School,Yes,100.0
+STU11093,Male,7.09,99.6,63.3,4,6.47,2.85,None,Online Course,Postgraduate,Yes,100.0
+STU12473,Male,6.16,89.9,59.1,2,6.49,0.93,Clubs,Online Course,School,Yes,100.0
+STU10997,Female,7.03,90.0,71.1,3,6.36,3.28,Clubs,Online Course,Postgraduate,No,96.1
+STU11680,Male,4.94,68.6,92.8,9,7.17,4.81,Music,Self Study,College,No,100.0
+STU10154,Female,4.53,68.1,87.0,4,6.91,4.41,None,Self Study,College,Yes,100.0
+STU10581,Female,0.68,72.4,73.4,6,6.5,4.7,Clubs,Self Study,College,Yes,71.8
+STU11471,Male,5.72,59.2,78.0,6,6.93,0.11,Volunteering,Group Study,School,Yes,100.0
+STU10704,Male,5.39,91.3,68.3,2,5.84,2.26,None,Online Course,College,Yes,96.4
+STU11213,Male,5.13,76.2,81.9,8,7.68,0.96,Music,Self Study,School,Yes,100.0
+STU10897,Male,4.15,67.2,76.1,2,6.88,3.01,None,Coaching,School,Yes,100.0
+STU10488,Female,6.36,97.0,58.1,4,9.51,2.53,None,Self Study,College,Yes,100.0
+STU10560,Male,3.72,74.2,49.2,6,5.76,6.13,Music,Self Study,College,Yes,94.0
+STU11142,Female,0.86,98.0,73.0,4,5.56,4.84,Music,Self Study,Postgraduate,Yes,85.4
+STU11120,Female,3.52,74.8,61.9,3,6.77,4.35,Sports,Group Study,School,Yes,80.1
+STU10513,Male,5.7,72.9,46.4,3,6.11,6.33,None,Self Study,College,Yes,90.4
+STU10634,Female,1.63,70.5,81.1,2,6.32,4.21,Clubs,Self Study,College,Yes,80.3
+STU12162,Male,3.61,73.7,71.1,10,8.67,2.01,Sports,Online Course,School,Yes,100.0
+STU11665,Male,,75.3,57.9,2,7.67,2.42,None,Online Course,College,Yes,100.0
+STU11013,Female,4.5,70.5,78.7,7,9.18,2.43,,Online Course,School,Yes,100.0
+STU11932,Male,4.69,58.1,79.4,10,7.36,5.75,None,Self Study,School,Yes,100.0
+STU11151,Other,5.87,95.2,59.0,8,5.92,5.03,None,Coaching,College,No,100.0
+STU12352,Female,6.74,75.6,66.5,9,8.3,1.85,Music,Group Study,College,Yes,100.0
+STU10117,,5.97,77.9,79.2,8,8.55,4.17,Clubs,Self Study,School,Yes,100.0
+STU10741,Male,7.5,91.4,78.7,5,6.1,3.54,Music,Self Study,College,Yes,100.0
+STU12316,Male,6.23,49.7,67.8,9,7.29,4.68,None,Self Study,Postgraduate,Yes,100.0
+STU11975,Male,2.82,69.9,88.2,5,5.78,2.81,Clubs,Self Study,,Yes,98.5
+STU11082,Female,5.2,100.0,,3,5.03,3.75,None,Coaching,College,Yes,86.0
+STU11811,Male,1.59,81.9,72.9,5,6.52,,Volunteering,Self Study,School,Yes,89.1
+STU10831,Female,6.29,78.2,52.5,6,6.5,2.67,Sports,Self Study,College,Yes,97.1
+STU10120,Other,5.02,97.9,77.2,6,4.09,2.88,Sports,Self Study,College,Yes,100.0
+STU10657,Male,3.76,100.0,40.7,7,8.08,5.81,Clubs,Online Course,,Yes,100.0
+STU12290,Male,2.34,85.0,82.7,7,6.79,0.0,None,Self Study,School,Yes,100.0
+STU12251,Male,3.43,88.4,54.4,5,4.51,2.01,Clubs,Online Course,Postgraduate,Yes,99.8
+STU12457,Male,7.49,79.0,88.6,10,6.67,3.18,Sports,Self Study,College,Yes,100.0
+STU10636,Other,4.93,64.5,35.1,8,6.2,5.11,None,Coaching,College,Yes,95.4
+STU10370,Female,7.19,84.9,92.9,2,8.29,1.21,None,Online Course,School,Yes,100.0
+STU10269,Female,5.61,87.9,78.4,7,5.03,3.39,None,Online Course,Postgraduate,Yes,100.0
+STU10047,Male,7.24,74.3,80.7,2,4.98,3.28,,Self Study,College,No,100.0
+STU10992,Female,8.46,66.5,80.9,6,7.06,1.59,Sports,Self Study,Postgraduate,Yes,100.0
+STU10877,Female,5.48,,61.0,2,8.15,3.56,None,Self Study,School,Yes,100.0
+STU10774,Male,8.2,73.5,83.5,6,6.09,3.61,Clubs,Self Study,,Yes,100.0
+STU11220,,,81.4,58.3,8,6.54,3.78,Clubs,Self Study,School,,100.0
+STU11127,Female,9.04,78.6,78.9,6,7.6,2.67,,Self Study,College,No,100.0
+STU10005,Female,1.6,92.6,71.3,5,7.34,0.0,Music,Online Course,College,Yes,97.0
+STU11596,Male,,56.8,60.7,8,8.39,1.02,None,Online Course,College,Yes,100.0
+STU11078,Female,11.12,80.2,55.5,3,5.24,6.55,Clubs,,College,Yes,100.0
+STU10838,Female,8.35,,57.2,2,6.69,5.52,None,Online Course,School,Yes,100.0
+STU10682,Female,6.75,60.0,94.5,8,5.16,3.04,Clubs,Self Study,School,Yes,100.0
+STU11716,Female,5.75,94.6,52.0,5,5.45,3.12,None,Self Study,College,Yes,100.0
+STU11149,Female,7.54,94.4,39.2,2,5.75,5.21,Clubs,Online Course,College,Yes,100.0
+STU10575,Male,5.88,93.2,83.7,4,7.46,2.33,Music,Group Study,Postgraduate,Yes,100.0
+STU10051,Male,6.08,57.9,73.9,8,7.36,4.1,Sports,Self Study,College,Yes,100.0
+STU10854,Male,5.56,68.3,47.6,8,5.7,2.32,None,Online Course,School,Yes,92.7
+STU11983,Female,5.56,83.2,61.7,9,7.22,4.76,None,Coaching,School,Yes,100.0
+STU11824,Female,6.79,79.4,82.8,5,7.65,3.59,Music,Coaching,College,No,100.0
+STU10834,Male,4.74,73.2,56.6,8,6.78,1.43,Sports,Coaching,College,Yes,100.0
+STU11116,Female,5.66,88.3,,10,7.65,0.94,None,Online Course,College,Yes,100.0
+STU11167,Female,10.41,78.1,77.4,9,7.73,0.31,Clubs,Group Study,College,No,100.0
+STU11907,Male,5.56,71.6,53.6,3,7.02,5.47,None,self-study,College,Yes,92.4
+STU10972,Female,5.29,74.4,70.5,7,9.06,0.79,None,Self Study,College,Yes,100.0
+STU10400,Female,4.09,87.7,84.6,4,6.96,3.09,Music,Group Study,School,Yes,100.0
+STU10020,Female,5.4,57.5,80.4,4,7.44,1.28,Sports,Online Course,College,Yes,100.0
+STU10685,Female,4.63,,54.1,9,6.3,0.0,Clubs,Self Study,College,Yes,100.0
+STU10036,Female,7.76,90.5,47.4,5,6.18,5.58,Clubs,Self Study,College,Yes,100.0
+STU12374,Other,8.69,63.6,55.7,8,6.82,5.48,None,Online Course,College,Yes,100.0
+STU10525,Other,8.31,76.0,65.8,6,7.76,3.83,None,Self Study,College,Yes,100.0
+STU10921,Female,4.86,78.1,64.6,10,,3.82,Clubs,Self Study,College,Yes,100.0
+STU11842,Female,5.52,91.5,56.9,8,7.81,5.15,Clubs,Self Study,School,Yes,100.0
+STU11891,Female,7.55,80.2,53.3,5,8.86,1.96,None,Group Study,Postgraduate,Yes,100.0
+STU10538,Female,7.8,76.8%,37.1,8,5.15,0.98,Sports,Online Course,College,No,97.6
+STU11706,Female,9.31,74.9,68.0,4,6.19,1.35,None,Self Study,Postgraduate,Yes,100.0
+STU12456,Female,5.68,100.0,72.7,5,6.64,4.33,Music,Coaching,College,Yes,100.0
+STU10246,Male,2.93,91.9,70.0,2,5.6,3.2,None,Coaching,School,Yes,96.4
+STU10785,Male,5.52,69.1,67.2,7,8.95,3.12,None,Self Study,College,Yes,100.0
+STU11410,Female,6.53,60.0,58.9,5,6.92,3.1,None,Online Course,College,Yes,100.0
+STU10155,Male,5.39,77.8,77.3,6,5.78,5.37,None,Self Study,Postgraduate,Yes,100.0
+STU11687,Female,4.42,82.8,79.5,7,6.84,4.59,Music,Coaching,School,Yes,100.0
+STU10626,Female,4.43,84.7,85.2,10,7.18,3.92,None,Self Study,College,Yes,100.0
+STU12408,Male,,66.5,59.8,9,9.0,6.97,Sports,Coaching,Postgraduate,Yes,100.0
+STU11347,Female,6.15,76.9,73.0,9,5.65,3.04,None,Online Course,College,Yes,100.0
+STU10570,Female,5.88,67.9,70.7,3,8.26,3.45,None,Group Study,College,Yes,100.0
+STU11759,Female,,96.1,,8,7.14,2.85,Clubs,Self Study,Postgraduate,Yes,100.0
+STU11817,Male,,85.4,60.4,4,6.74,2.01,Volunteering,Coaching,Postgraduate,Yes,100.0
+STU12066,Female,5.15,79.4,74.1,2,7.08,5.44,Clubs,Self Study,College,Yes,100.0
+STU10128,,3.12,95.6,87.2,9,5.3,4.68,Clubs,Coaching,College,No,100.0
+STU12492,Female,4.1,77.2,65.1,3,6.13,1.98,Clubs,Coaching,Postgraduate,Yes,98.1
+STU12007,Female,5.31,,45.5,9,9.16,4.49,Clubs,Self Study,School,Yes,
+STU10981,Male,6.43,72.0,57.5,4,6.16,2.0,Clubs,Self Study,,Yes,100.0
+STU10191,Female,8.95,62.6,69.5,5,6.74,3.72,None,Coaching,School,Yes,100.0
+STU11140,Male,5.51,61.8,88.3,8,,2.93,None,Online Course,School,Yes,100.0
+STU10993,Male,9.09,74.6,71.4,4,8.61,3.65,Music,Self Study,School,Yes,100.0
+STU10700,Male,5.1,73.0,42.1,5,6.99,3.0,Sports,Coaching,College,Yes,91.3
+STU10607,Male,7.03,87.1,65.0,3,8.04,2.91,Clubs,Self Study,School,No,100.0
+STU10181,Male,8.11,92.8,58.6,5,6.4,5.4,None,Coaching,Postgraduate,Yes,100.0
+STU10302,Female,2.43,89.6,56.7,8,7.83,3.7,Volunteering,Self Study,College,Yes,100.0
+STU11061,Female,5.19,86.6,60.7,3,8.2,2.85,Music,,School,Yes,100.0
+STU12366,Female,8.46,79.0,69.1,7,5.11,7.08,,Group Study,School,Yes,100.0
+STU12409,Female,0.76,71.8,29.2,2,5.35,4.7,None,Self Study,School,Yes,63.5
+STU11070,Male,5.35,88.2,54.5,9,7.02,5.13,Clubs,Coaching,College,,100.0
+STU12206,Female,4.91,84.9,56.6,9,5.24,5.12,Music,Self Study,College,Yes,99.2
+STU11244,Male,4.44,85.6,85.2,5,8.3,5.68,None,,College,Yes,100.0
+STU10017,Male,6.24,78.1,54.9,4,6.06,2.67,Sports,Self Study,College,Yes,91.5
+STU12495,Female,7.68,83.1,52.8,7,5.46,5.77,None,Coaching,College,Yes,100.0
+STU10547,Male,5.91,83.8,92.0,8,6.62,1.98,Sports,Self Study,Postgraduate,Yes,100.0
+STU10659,Male,7.93,60.5,68.1,6,7.32,3.91,None,Self Study,School,Yes,100.0
+STU12263,Male,5.78,81.6,83.8,3,7.77,4.14,Music,Coaching,School,Yes,100.0
+STU12293,Female,7.91,86.8,65.3,7,8.34,3.2,Clubs,Online Course,College,Yes,100.0
+STU11505,Female,5.08,95.2,70.3,3,7.98,0.82,Clubs,Online Course,School,Yes,100.0
+STU10960,Female,6.32,87.3,85.4,8,4.55,1.66,Clubs,Coaching,Postgraduate,Yes,100.0
+STU10798,Female,7.62,77.3,70.9,9,8.14,5.05,None,Coaching,Postgraduate,Yes,100.0
+STU10226,Male,5.96,73.6,73.4,4,8.04,1.7,Music,Self Study,College,Yes,100.0
+STU12075,Male,5.61,90.5,,8,6.38,7.29,Clubs,Online Course,College,Yes,100.0
+STU11800,Male,4.61,75.7,89.3,3,5.27,5.57,Sports,Coaching,School,Yes,94.0
+STU12481,Female,9.13,85.0,81.5,8,7.92,5.41,Sports,Self Study,School,Yes,100.0
+STU12086,Male,29.815713681698465,83.6,66.8,5,9.59,,None,Self Study,School,Yes,100.0
+STU11694,Female,4.44,66.0,76.7,10,6.24,0.0,Sports,Online Course,College,Yes,100.0
+STU11046,Female,3.78,70.2,67.2,10,7.63,5.79,Sports,Online Course,College,Yes,100.0
+STU10470,Female,3.58,77.6,80.9,5,8.97,3.49,None,Online Course,School,Yes,98.6
+STU10955,Female,4.08,95.5,65.1,10,7.03,4.57,Clubs,Self Study,School,Yes,100.0
+STU12491,Female,7.13,59.3,49.4,2,5.89,4.72,Music,Self Study,College,No,71.1
+STU10640,,6.55,100.0,76.2,6,8.6,2.97,Volunteering,Online Course,School,Yes,100.0
+STU12328,Female,8.44,75.1,61.7,5,9.13,2.72,Music,Online Course,Postgraduate,Yes,100.0
+STU11219,Female,3.11,83.5,80.7,9,4.44,2.15,Volunteering,Self Study,Postgraduate,Yes,100.0
+STU11159,Male,0.6,67.1,53.5,7,6.31,5.63,Sports,Self Study,Postgraduate,Yes,100.0
+STU11416,Male,3.8,75.1,53.8,2,6.47,3.11,None,Coaching,Postgraduate,Yes,87.8
+STU12272,Female,3.32,46.2,77.4,7,7.81,4.37,Volunteering,Online Course,Postgraduate,Yes,100.0
+STU11528,Female,5.16,85.6,73.3,10,7.46,2.4,None,Self Study,School,Yes,100.0
+STU12447,Male,,94.6,71.0,9,5.22,7.34,None,Coaching,College,Yes,100.0
+STU11301,Male,5.61,74.2,90.0,5,6.14,4.32,Sports,Online Course,School,No,100.0
+STU12402,Male,7.46,78.8,89.7,7,6.09,4.01,None,Online Course,College,Yes,100.0
+STU11604,Other,28.513028820461003,100.0,71.1,9,,4.69,None,Self Study,Postgraduate,Yes,100.0
+STU10161,Female,3.57,65.9,67.3,3,9.11,5.26,None,Online Course,School,Yes,91.0
+STU11705,Male,5.97,94.7,53.8,3,8.22,3.45,None,Online Course,Postgraduate,Yes,97.9
+STU10957,Male,4.53,80.8,55.2,5,6.09,6.2,Clubs,Self Study,College,,96.2
+STU12442,Male,6.64,71.7,62.1,9,6.63,,None,Group Study,College,Yes,100.0
+STU10878,Female,5.06,74.6,58.9,5,,4.5,Clubs,Self Study,College,Yes,97.3
+STU11920,Female,2.57,94.3,49.7,8,6.25,7.57,None,Coaching,Postgraduate,YES,84.0
+STU11885,Male,1.48,86.7,64.9,9,8.61,6.02,,Self Study,College,Yes,100.0
+STU12201,Female,4.42,87.5,79.9,2,7.05,6.58,Clubs,Self Study,College,Yes,100.0
+STU10099,Female,6.3,55.0,54.7,6,7.25,2.89,Volunteering,Self Study,College,Yes,97.8
+STU12372,Male,5.02,80.2,76.5,2,8.81,6.49,Clubs,Coaching,School,Yes,99.0
+STU10254,Female,3.53,79.4,88.7,4,7.23,1.55,Volunteering,Group Study,College,Yes,100.0
+STU10104,Female,6.98,80.5,66.1,2,6.86,0.61,None,Online Course,College,Yes,100.0
+STU11446,Female,6.08,77.4,92.1,8,6.07,4.34,Volunteering,Group Study,School,Yes,100.0
+STU11444,Male,8.38,86.4,66.7,9,6.93,8.18,None,Online Course,College,Yes,100.0
+STU11649,,5.14,76.6,54.5,4,7.33,1.97,None,,College,Yes,93.4
+STU10587,Female,3.15,64.1,60.1,8,7.88,3.85,Clubs,Self Study,School,Yes,99.2
+STU10628,Female,8.23,83.0,20.0,7,6.48,3.52,Clubs,Self Study,School,Yes,91.3
+STU11697,Female,4.57,81.4,63.9,7,5.66,2.45,None,Coaching,College,Yes,100.0
+STU12102,Male,2.07,78.5,49.4,5,6.3,1.6,Music,Coaching,College,Yes,86.8
+STU12200,,3.87,78.1,79.7,7,,2.96,None,Coaching,College,Yes,99.0
+STU10404,Male,4.71,71.6,68.1,8,6.02,2.86,Clubs,Coaching,School,Yes,100.0
+STU11155,Male,6.9,85.5,92.7,10,6.23,3.8,Sports,Online Course,College,Yes,100.0
+STU12256,Female,3.14,70.7,63.7,10,5.84,1.6,Clubs,Online Course,School,Yes,95.1
+STU11683,Male,4.42,61.0,48.6,10,6.36,1.64,Music,Coaching,School,Yes,93.1
+STU12057,Male,4.51,82.3,100.0,8,8.23,3.34,Volunteering,Coaching,School,Yes,100.0
+STU12385,Male,6.87,83.3,83.3,5,6.0,15.583844941411714,Music,Online Course,Postgraduate,Yes,100.0
+STU10453,Female,9.4,74.5,92.6,5,5.0,3.87,Music,Coaching,Postgraduate,Yes,100.0
+STU11328,Female,2.32,80.8,61.9,10,7.02,5.52,,Online Course,College,Yes,95.6
+STU12050,Male,3.25,68.2,82.0,3,5.4,0.0,Clubs,Coaching,School,No,92.4
+STU10881,Female,5.95,80.7,83.8,9,8.88,5.99,Volunteering,Self Study,College,Yes,100.0
+STU12444,Female,6.98,68.9,52.4,5,6.32,4.47,Sports,Coaching,College,Yes,100.0
+STU10624,Male,4.26,84.6,44.4,4,7.5,2.28,Sports,Coaching,College,Yes,89.0
+STU12323,Female,7.78,95.6,88.5,8,5.32,2.66,None,Coaching,School,Yes,100.0
+STU11788,Other,2.32,69.8,59.0,7,4.57,2.73,,Self Study,School,Yes,94.1
+STU10263,Male,5.96,71.6,75.0,5,7.88,5.04,None,Group Study,College,Yes,100.0
+STU11635,Male,6.07,65.4,69.1,5,5.97,0.0,Clubs,Self Study,College,Yes,100.0
+STU11439,Female,3.01,,79.0,4,6.43,2.58,None,Self Study,School,Yes,92.8
+STU12199,Female,5.07,90.9,53.8,4,7.41,,Clubs,Self Study,School,Yes,89.4
+STU11970,Female,7.09,68.2,83.2,5,7.14,2.13,Volunteering,,Postgraduate,Yes,100.0
+STU11803,Male,4.89,69.3,66.3,7,8.35,5.04,Volunteering,Coaching,School,No,97.5
+STU10641,Male,2.51,75.7,62.2,3,6.18,3.94,Music,Self Study,College,No,69.4
+STU12375,Male,4.79,65.5,65.1,5,6.25,4.49,Clubs,Online Course,Postgraduate,Yes,99.2
+STU11960,Female,4.33,80.5,65.3,6,,4.7,None,Self Study,College,Yes,94.2
+STU10489,Female,3.8,80.7,54.2,2,5.29,,None,Self Study,School,No,78.8
+STU11844,Male,2.51,72.2,67.2,4,6.13,4.01,Clubs,Self Study,School,Yes,77.0
+STU11735,Female,4.47,92.8,76.3,3,8.25,4.05,Music,Group Study,College,Yes,100.0
+STU10147,Female,4.28,97.7,90.2,9,6.85,2.85,Volunteering,Coaching,Postgraduate,Yes,100.0
+STU11535,Male,9.52,69.3,47.7,6,6.93,2.87,None,,College,Yes,100.0
+STU11987,Female,5.9,98.3,52.4,3,7.7,6.34,None,Online Course,College,Yes,100.0
+STU11370,Male,7.42,84.8,90.6,6,6.57,2.03,Clubs,Self Study,School,Yes,100.0
+STU12460,Female,1.67,67.2,67.3,6,6.32,5.66,Clubs,Online Course,Postgraduate,No,91.9
+STU10660,Female,4.85,69.6,70.4,8,6.17,1.98,Clubs,Online Course,College,Yes,100.0
+STU11795,Male,1.8,78.9,68.9,6,7.44,2.12,Volunteering,Self Study,College,Yes,92.4
+STU10187,Female,5.87,56.9,76.6,2,8.27,1.44,Sports,Group Study,College,Yes,99.2
+STU11148,Female,4.73,73.3,58.5,5,4.85,5.13,None,Online Course,,Yes,84.7
+STU10609,Male,2.13,62.5,71.2,9,7.09,0.6,None,Self Study,School,Yes,95.1
+STU12192,Male,3.64,81.5,53.0,10,8.16,2.62,Sports,Group Study,Postgraduate,Yes,100.0
+STU11931,Female,,77.4,48.4,9,7.6,3.65,Volunteering,Online Course,Postgraduate,Yes,94.3
+STU10198,Male,4.71,79.7,51.6,10,7.83,4.38,Sports,Coaching,Postgraduate,Yes,100.0
+STU10294,,0.5,71.8,100.0,8,7.22,2.76,Volunteering,Online Course,Postgraduate,Yes,100.0
+STU10767,Male,5.67,45.0,61.2,2,4.98,2.74,None,Coaching,School,Yes,89.0
+STU10401,Male,5.14,71.3,63.6,5,7.71,,Music,Online Course,Postgraduate,No,100.0
+STU10123,Female,5.94,96.4,63.4,2,8.48,2.98,None,Coaching,College,Yes,100.0
+STU10203,Male,5.68,88.0,54.9,8,8.07,0.19,None,Self Study,School,Yes,100.0
+STU10836,Male,3.71,74.6,40.3,8,7.01,3.4,None,Self Study,College,Yes,91.8
+STU12295,Male,7.83,91.7,56.0,9,5.95,3.46,Sports,Coaching,School,Yes,100.0
+STU11440,Other,7.74,95.8,,3,6.74,1.68,Music,Self Study,Postgraduate,Yes,100.0
+STU11734,Female,2.62,94.9,48.8,8,6.39,2.66,Sports,Group Study,School,Yes,94.8
+STU11696,Male,6.32,67.9,52.8,8,8.23,5.4,None,Coaching,Postgraduate,Yes,100.0
+STU11708,Other,6.02,88.7,63.2,3,,3.21,Sports,Self Study,School,Yes,100.0
+STU12440,Female,5.24,66.6,84.4,5,7.31,0.04,Clubs,Self Study,School,Yes,100.0
+STU11154,Male,4.38,86.6,65.1,10,7.28,2.33,None,Coaching,College,Yes,100.0
+STU11662,Female,3.3,62.1,100.0,3,7.95,6.95,Clubs,Self Study,School,Yes,90.3
+STU11760,Female,5.64,73.6,89.7,10,8.35,3.82,Clubs,Online Course,College,Yes,100.0
+STU10855,Female,6.06,73.9,56.2,10,7.9,2.75,None,Self Study,Postgraduate,Yes,100.0
+STU11590,Female,4.59,87.1,68.5,3,7.09,2.32,Music,Online Course,School,,97.6
+STU12268,Female,5.07,90.7,76.6,5,7.63,0.0,None,Online Course,College,Yes,100.0
+STU10642,Male,6.9,100.0,41.9,9,8.53,,Music,Online Course,College,Yes,100.0
+STU10002,Male,3.42,81.0,63.8,8,5.58,0.77,Clubs,Self Study,College,Yes,88.7
+STU12161,Male,4.46,58.5,66.7,10,6.19,5.19,Sports,Online Course,School,No,89.6
+STU10699,Female,3.67,90.3,59.4,8,6.09,3.25,,Online Course,College,Yes,100.0
+STU11637,Female,1.97,94.6,63.5,5,5.54,7.07,None,Self Study,,Yes,93.5
+STU11292,Female,4.62,96.6,88.8,2,,4.79,Clubs,Self Study,School,Yes,100.0
+STU12394,Male,6.12,68.0,73.3,2,7.52,4.31,None,Online Course,Postgraduate,Yes,100.0
+STU11521,Male,2.96,80.3,82.9,7,5.35,2.87,None,Coaching,College,Yes,100.0
+STU11854,Male,6.84,60.4,49.9,2,7.93,3.02,Volunteering,Self Study,College,Yes,100.0
+STU11137,Female,5.62,74.8,53.2,8,7.76,3.77,None,Online Course,School,Yes,100.0
+STU12427,Female,9.71,92.4,74.9,2,5.08,1.73,Volunteering,Self Study,College,Yes,100.0
+STU11632,Male,3.84,68.8,63.0,3,8.95,3.41,Sports,Self Study,School,Yes,92.4
+STU11999,Male,4.44,80.9,69.1,5,7.23,0.19,Sports,Online Course,School,Yes,100.0
+STU10664,Male,4.82,86.1,72.0,4,10.0,2.68,None,Online Course,School,Yes,100.0
+STU10684,Male,4.46,84.8,55.7,10,7.5,3.37,Volunteering,Online Course,School,Yes,100.0
+STU11258,Female,5.42,62.7,68.2,6,8.1,3.1,Sports,Self Study,College,Yes,100.0
+STU10318,Male,4.11,87.4,86.6,4,6.78,4.09,Volunteering,Self Study,College,Yes,100.0
+STU10649,Male,5.83,99.3,45.7,7,6.19,0.73,Music,Online Course,Postgraduate,Yes,100.0
+STU11435,Male,5.97,82.8,72.8,8,6.94,3.0,Music,Self Study,Postgraduate,Yes,100.0
+STU11480,Male,8.91,87.3,64.5,9,8.97,3.8,Sports,Self Study,School,Yes,100.0
+STU10710,Female,6.79,71.4,56.8,5,6.53,5.07,None,Self Study,School,Yes,100.0
+STU11283,Male,,,76.7,7,8.04,6.59,None,Coaching,School,Yes,91.2
+STU11769,Female,3.66,91.9,92.8,8,6.61,2.4,None,Self Study,Postgraduate,Yes,100.0
+STU10973,Male,5.95,91.1,65.2,3,6.36,3.5,None,Self Study,School,Yes,100.0
+STU11307,Female,3.51,68.0,43.3,6,6.1,5.44,Music,Self Study,School,Yes,86.1
+STU11401,Female,7.87,85.7,,4,8.48,5.04,Music,Group Study,College,Yes,100.0
+STU11409,Female,5.48,65.5,52.2,3,5.79,1.89,None,Self Study,School,Yes,89.5
+STU12238,Male,5.32,88.8,68.6,6,8.02,4.77,None,Group Study,College,Yes,100.0
+STU11497,Female,6.15,90.1,67.4,7,6.61,3.62,None,Self Study,College,Yes,92.6
+STU12039,Male,3.51,64.7,83.4,7,7.42,0.99,Volunteering,Self Study,College,Yes,100.0
+STU11530,Female,6.73,80.4,35.2,2,9.4,1.45,Sports,Online Course,College,Yes,100.0
+STU11664,Female,9.1,61.9,66.6,6,6.76,3.02,Volunteering,Coaching,College,Yes,100.0
+STU11355,Female,9.33,79.1,89.8,5,9.15,5.66,None,Self Study,College,Yes,100.0
+STU12454,Female,3.84,56.1,46.3,5,5.95,4.83,None,Self Study,College,Yes,88.8
+STU12467,Female,4.62,73.1,62.4,6,6.47,6.82,None,Self Study,Postgraduate,Yes,99.5
+STU11644,Male,6.8,73.4,53.4,10,6.1,6.91,Music,Self Study,College,Yes,100.0
+STU11052,Female,5.09,63.8,62.4,8,4.8,6.84,Volunteering,Self Study,College,Yes,80.8
+STU10796,Female,5.25,85.4,73.5,3,7.77,5.42,Music,Coaching,College,Yes,100.0
+STU11598,Male,5.98,87.8,66.0,9,5.58,4.91,Music,Group Study,School,Yes,100.0
+STU11820,Female,4.98,100.0,59.4,7,7.88,3.06,None,Self Study,College,Yes,100.0
+STU11723,Other,4.17,100.0,59.8,10,6.98,2.69,None,,College,Yes,100.0
+STU11184,Male,6.77,72.6,62.7,10,6.16,2.23,Clubs,Coaching,College,No,100.0
+STU11060,Male,6.39,68.1,83.4,9,7.24,0.0,None,Self Study,Postgraduate,Yes,100.0
+STU10541,Male,2.13,93.1,69.9,5,5.64,2.09,Clubs,Online Course,Postgraduate,Yes,100.0
+STU11679,Male,4.05,52.8,75.7,2,8.57,4.6,Sports,Self Study,School,Yes,100.0
+STU12418,Female,4.24,77.4,57.5,3,6.09,2.07,Clubs,Self Study,Postgraduate,Yes,80.1
+STU11758,Male,10.04,91.4,51.1,5,9.07,1.0,None,Self Study,College,Yes,100.0
+STU11924,Male,7.76,69.7,82.6,6,8.0,6.35,None,Online Course,College,Yes,100.0
+STU10096,Female,2.61,68.1,64.5,9,6.88,6.68,Clubs,Self Study,College,Yes,89.7
+STU11021,Male,6.18,69.3,66.7,8,7.0,2.37,Sports,Group Study,College,Yes,100.0
+STU10564,Male,3.97,80.0,49.5,2,7.24,0.43,Volunteering,Self Study,School,Yes,87.1
+STU10864,Female,5.67,66.9,74.8,5,6.15,3.63,None,Online Course,School,Yes,100.0
+STU11485,Female,7.06,68.3,77.3,7,6.8,3.1,None,Self Study,College,Yes,100.0
+STU11882,Male,8.34,81.8,64.8,10,6.87,4.74,None,Self Study,Postgraduate,No,100.0
+STU11039,Female,7.11,88.4,56.7,8,6.65,2.98,,Coaching,College,Yes,100.0
+STU10207,Female,3.81,82.8,47.4,5,8.94,3.42,Clubs,Online Course,College,Yes,97.7
+STU10393,Male,4.56,76.9,45.3,8,7.48,3.65,Music,Online Course,School,Yes,100.0
+STU10871,Male,6.06,74.9,70.5,10,6.43,5.22,None,Self Study,College,Yes,100.0
+STU10398,Female,5.96,78.9,84.5,5,7.49,1.62,Music,Online Course,College,Yes,100.0
+STU12412,Male,8.65,84.0,55.2,8,7.49,2.26,None,Self Study,Postgraduate,Yes,100.0
+STU11029,Male,5.49,59.5,80.0,3,6.04,2.51,Sports,Self Study,School,Yes,100.0
+STU11486,Male,3.88,70.5,60.2,7,7.44,7.66,Music,Self Study,College,Yes,100.0
+STU10961,Male,8.73,79.2,62.3,6,6.64,4.38,Volunteering,Coaching,Postgraduate,No,100.0
+STU11571,,5.55,75.4,58.1,9,6.03,0.72,Sports,Self Study,College,Yes,100.0
+STU11896,Female,4.34,81.0,56.1,2,8.12,2.96,Clubs,Online Course,School,Yes,94.3
+STU12147,Female,3.61,77.3,90.5,10,4.77,5.72,None,Self Study,College,Yes,100.0
+STU10805,Female,,100.0,63.6,4,,4.38,None,Self Study,College,Yes,100.0
+STU11752,Female,4.26,72.8,66.0,9,8.16,1.55,None,,School,Yes,100.0
+STU10503,Female,4.06,100.0,52.7,2,7.52,2.43,Clubs,Coaching,College,Yes,100.0
+STU10780,Male,2.89,73.2,59.6,2,6.78,5.24,None,Coaching,School,Yes,82.6
+STU11864,Male,7.55,70.8,69.1,3,7.59,7.13,Music,Online Course,College,No,100.0
+STU10201,Female,6.18,88.3,71.5,10,6.65,2.57,Music,Online Course,College,No,100.0
+STU12183,Female,1.78,70.5,,4,,5.24,None,Group Study,College,,85.6
+STU12089,Other,4.24,57.5,79.7,2,5.9,3.8,None,Self Study,School,Yes,83.2
+STU12279,Female,4.41,77.1,57.6,2,6.44,2.22,None,Coaching,School,Yes,87.2
+STU11797,Male,4.85,74.9,63.1,7,7.55,3.3,None,Self Study,School,Yes,100.0
+STU10379,Male,8.71,68.0,64.5,2,7.62,2.59,Clubs,Self Study,School,Yes,100.0
+STU12337,Female,11.03,53.8,91.8,7,5.96,3.28,Music,Online Course,School,Yes,100.0
+STU10419,Male,5.36,,64.4,6,6.5,3.55,Sports,Group Study,College,Yes,100.0
+STU11699,Other,2.02,53.5,63.4,9,6.08,0.0,None,Online Course,School,Yes,98.6
+STU10392,Male,5.61,83.1,48.1,4,6.01,3.62,None,Group Study,College,No,96.3
+STU11523,Male,5.03,61.7,,4,6.13,2.45,None,Online Course,School,Yes,100.0
+STU11163,Male,4.99,72.8,,7,7.02,0.19,Sports,Self Study,Postgraduate,Yes,100.0
+STU11496,Female,3.29,69.9,40.4,8,6.94,4.74,Clubs,Self Study,School,Yes,99.8
+STU12028,Male,0.5,80.3,70.8,4,6.31,1.61,Music,Self Study,Postgraduate,Yes,83.3
+STU11153,Male,6.05,88.2,51.5,5,9.47,3.13,,Coaching,Postgraduate,Yes,100.0
+STU11368,Male,8.16,98.0,53.9,5,7.09,0.0,None,Coaching,College,Yes,100.0
+STU10065,Male,6.92,91.6,63.9,6,8.22,1.34,Volunteering,Online Course,Postgraduate,Yes,100.0
+STU12063,Male,6.05,81.8,76.8,2,1.1331016031026275,0.0,None,Coaching,College,Yes,100.0
+STU11181,Female,2.86,70.4,68.5,9,5.52,2.25,Clubs,,School,Yes,100.0
+STU10493,Male,4.93,77.3,65.1,9,6.51,1.32,Clubs,Self Study,School,Yes,100.0
+STU10380,Male,4.58,82.8,81.9,7,5.36,1.55,None,Online Course,School,Yes,100.0
+STU12236,male,3.41,78.0,84.4,9,8.95,3.93,None,Self Study,College,Yes,100.0
+STU10764,Female,6.77,97.3,95.0,3,6.98,1.47,Sports,Self Study,School,Yes,100.0
+STU12265,,,92.5,,8,5.16,4.48,Sports,Coaching,College,Yes,100.0
+STU10792,Male,,81.3,68.4,2,6.52,1.48,Music,Coaching,College,Yes,86.3
+STU11077,Female,8.14,82.1,96.8,5,7.42,3.74,None,Self Study,School,Yes,100.0
+STU10879,Female,5.29,66.4,85.9,5,8.34,1.36,None,Online Course,College,,100.0
+STU10338,male,6.12,80.8,80.5,9,8.1,4.53,None,Group Study,Postgraduate,No,100.0
+STU12344,Female,5.12,64.3,68.7,4,6.53,2.57,Sports,Self Study,School,No,100.0
+STU11017,Male,5.6,83.4,82.4,3,4.74,3.09,Clubs,Self Study,College,Yes,100.0
+STU11276,Male,5.55,66.8,66.3,9,6.66,4.54,Music,Self Study,College,Yes,100.0
+STU10456,Other,5.82,65.8,76.0,10,8.88,3.61,Music,Online Course,School,Yes,100.0
+STU10816,Male,6.12,88.4,62.2,2,6.24,4.16,Volunteering,Group Study,Postgraduate,Yes,100.0
+STU12318,Female,6.31,76.2,65.6,7,6.82,3.38,None,Coaching,College,Yes,100.0
+STU10996,Male,6.21,77.5,47.4,5,7.97,2.4,Clubs,Online Course,Postgraduate,Yes,99.4
+STU11982,Female,4.38,77.5,60.2,8,,1.96,None,Online Course,Postgraduate,Yes,100.0
+STU10202,Female,8.31,64.7,61.3,9,6.17,4.75,None,Self Study,College,Yes,100.0
+STU10162,Female,4.05,69.6,47.3,5,6.31,,Clubs,Self Study,School,Yes,78.6
+STU11580,,6.19,71.9,,9,6.48,5.89,None,Coaching,Postgraduate,Yes,100.0
+STU12450,Female,7.14,88.1,68.1,6,7.76,2.22,None,Self Study,Postgraduate,No,100.0
+STU10703,Female,3.44,74.3,76.4,10,5.95,4.73,None,Coaching,Postgraduate,Yes,100.0
+STU11501,Male,4.37,81.0,85.5,5,5.04,3.47,Volunteering,Self Study,Postgraduate,Yes,93.7
+STU11130,Male,1.31,85.6,65.0,3,7.55,4.2,None,Self Study,School,Yes,96.5
+STU11022,Female,6.13,78.5,44.1,3,,2.12,None,Self Study,College,No,99.2
+STU11586,Female,,77.8,62.9,9,8.35,3.64,Sports,Online Course,Postgraduate,Yes,93.8
+STU11956,Male,3.45,100.0,67.4,2,7.86,5.89,None,Online Course,College,Yes,97.0
+STU12254,Male,0.74,60.8,66.6,10,6.84,4.55,None,Coaching,Postgraduate,Yes,84.5
+STU10035,Female,6.73,75.9,82.2,2,8.31,3.91,Sports,Self Study,College,Yes,100.0
+STU10776,Male,5.91,64.4,72.4,10,9.19,,Music,Group Study,Postgraduate,Yes,100.0
+STU11479,Female,4.72,86.9,60.4,6,6.7,7.22,Volunteering,Coaching,School,Yes,93.8
+STU11391,Male,4.16,63.4,67.0,4,9.7,,Music,Online Course,College,Yes,100.0
+STU12140,Female,8.02,70.7,73.9,4,3.55,3.67,None,Coaching,School,Yes,98.5
+STU11364,Male,7.22,97.7,68.5,5,6.84,5.02,Sports,Group Study,Postgraduate,Yes,100.0
+STU12042,Male,6.82,81.3,84.1,2,7.42,3.69,None,Self Study,School,Yes,100.0
+STU10242,Male,5.31,,58.2,5,5.64,1.85,Music,Self Study,Postgraduate,Yes,100.0
+STU12062,Female,8.94,69.2,58.4,2,7.11,,None,Self Study,College,Yes,100.0
+STU12364,Female,6.46,84.1,85.3,5,6.55,3.57,Clubs,Self Study,School,Yes,100.0
+STU10601,Female,6.53,65.8,91.7,7,4.77,4.1,Sports,Coaching,Postgraduate,Yes,100.0
+STU12436,Female,3.58,70.0,37.4,10,8.4,,Clubs,Coaching,College,Yes,100.0
+STU11298,Female,4.18,65.3,69.6,8,6.35,3.29,Music,Self Study,School,Yes,100.0
+STU12215,Female,3.77,71.0,54.7,7,6.72,3.54,None,Self Study,Postgraduate,Yes,99.3
+STU12069,Male,6.56,85.7,66.8,4,6.54,2.4,Sports,Online Course,School,Yes,100.0
+STU10647,Male,6.73,88.0,46.8,4,8.05,5.07,None,Self Study,Postgraduate,Yes,
+STU11529,Male,1.23,76.0,85.8,7,6.8,6.04,Clubs,Self Study,School,Yes,99.9
+STU11268,Male,6.82,83.4,83.8,2,8.94,3.79,Music,Coaching,College,Yes,100.0
+STU11900,Male,3.35,62.8,47.6,4,6.82,2.84,Clubs,Self Study,College,Yes,75.5
+STU10563,Female,5.6,100.0,74.3,9,6.18,2.45,Clubs,Group Study,School,Yes,100.0
+STU10190,Female,8.8,55.1,53.4,4,7.65,1.99,Clubs,Self Study,College,No,100.0
+STU11807,Female,6.45,81.1,83.3,2,7.16,3.99,None,Coaching,School,Yes,100.0
+STU10976,Female,3.42,85.3,68.1,2,6.96,0.27,Clubs,Online Course,College,Yes,100.0
+STU12048,Female,6.5,92.9,78.2,8,8.12,2.98,,Group Study,College,Yes,100.0
+STU11083,Female,6.37,78.9,73.1,2,6.19,5.7,Sports,,Postgraduate,No,100.0
+STU10475,Male,6.74,79.4,,2,6.63,1.52,Music,Online Course,Postgraduate,Yes,100.0
+STU10748,Male,6.53,61.8,47.0,7,6.68,2.03,,Online Course,School,No,100.0
+STU12301,Male,4.52,78.3,70.3,4,8.69,4.46,None,Self Study,Postgraduate,Yes,100.0
+STU10022,Female,4.14,99.4,83.3,9,4.37,2.05,None,Self Study,College,No,100.0
+STU10460,Male,5.45,100.0,80.6,9,6.25,4.02,None,,School,Yes,100.0
+STU11185,Female,5.48,65.4,82.1,9,7.3,1.65,Volunteering,Coaching,School,,100.0
+STU12325,Female,0.73,87.1,86.5,3,7.2,5.14,Sports,Online Course,School,Yes,95.9
+STU10956,Female,8.24,67.8,69.8,5,8.37,2.99,Sports,Coaching,College,Yes,100.0
+STU11216,Female,2.74,67.7,64.0,8,5.77,4.73,None,Coaching,School,Yes,93.9
+STU12434,Female,5.7,84.4,78.5,5,,5.51,None,Self Study,School,No,100.0
+STU11516,Female,5.92,76.6,47.6,9,6.94,1.87,Volunteering,Self Study,School,Yes,100.0
+STU12392,Male,6.91,60.4,66.5,7,7.29,5.67,None,Group Study,College,Yes,98.1
+STU10770,Male,8.86,68.2,70.1,6,9.22,5.01,Sports,Self Study,College,Yes,100.0
+STU11686,Female,6.78,82.6,43.9,4,8.43,2.45,Sports,Online Course,School,Yes,100.0
+STU10131,Male,4.72,79.1,54.9,3,6.48,1.31,Clubs,Online Course,College,Yes,95.0
+STU12136,Other,4.8,63.6,100.0,3,8.43,3.81,Music,Self Study,School,Yes,100.0
+STU11483,Male,5.73,73.7,63.2,7,5.53,1.25,Sports,Self Study,College,Yes,100.0
+STU10331,Male,8.52,67.0,73.4,3,6.86,3.53,Sports,Self Study,School,Yes,100.0
+STU11239,Female,6.74,69.9,53.5,6,7.63,2.3,Volunteering,Online Course,School,Yes,100.0
+STU10467,Female,4.91,94.9,79.3,7,4.76,2.18,Clubs,Self Study,College,Yes,100.0
+STU12170,Male,4.27,68.6,93.1,10,6.69,3.93,None,Online Course,School,Yes,100.0
+STU11639,Female,5.52,65.9,78.5,4,7.05,6.93,None,Self Study,,Yes,98.4
+STU11096,Male,7.95,100.0,82.2,10,7.11,4.67,None,Coaching,School,Yes,100.0
+STU11131,Male,3.71,86.7,66.0,9,6.08,4.4,None,Self Study,College,Yes,100.0
+STU11295,Other,6.02,60.3,52.0,3,6.99,1.5,Sports,Self Study,School,Yes,86.1
+STU10861,Male,3.54,77.3,84.8,9,7.07,1.22,Clubs,Coaching,Postgraduate,Yes,100.0
